@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 12.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20100218T145921Z
+DESCRIPTION:\n\nMatthew Beauregard\, Ph.D.\nVisiting Assistant Professor\nD
+	epartment of Mathematics\nUniversity of Arizona\nTucson\, AZ\n\nCandidate 
+	for Postdoctoral Teaching and Research Fellow in Mathematics\n\nCLASS PRES
+	ENTATION\nMonday\, February 22\, 2010\n11:00 AM – 12:00 PM\nAC 328\n\nCl
+	ass topic:  “The Fredholm Alternative”\n\nDescription:  A common techn
+	ique in the study nonlinear partial differential equations is to examine t
+	he local stability of known static solutions.  A perturbation to these sol
+	utions can be introduced and a linear analysis can determine the dominant 
+	mode(s) that are excited at threshold.  A weakly nonlinear analysis determ
+	ines the dynamics of the amplitude(s) to these excited mode(s) which take 
+	the form of a new set of partial differential equations.  These equations 
+	are generated as a result of applying the Fredholm\nAlternative in the non
+	linear analysis.  In this presentation we will discuss the Fredholm Altern
+	ative in application to linear algebra and then extend these ideas to diff
+	erential equations.  A background in basic linear algebra and second order
+	 differential equations will be sufficient\n\nBiography:  I received my Ph
+	D from the University of Arizona in 2008.  While at Arizona I accomplished
+	 original research in pursuit of my degree and developed a mathematical mo
+	del for an elastic tube conveying a fluid. Unlike the classical topic of a
+	 fluid flowing through a rigid pipe\, the understanding of fluid flowing t
+	hrough an elastic tube is extremely complex and involves a coupling of ela
+	sticity and fluid mechanics.  Through realistic assumptions I developed a 
+	mathematical model which incorporated the properties of the fluid and tube
+	.  This model enabled me to examine the stability\, or lack thereof\, of t
+	he elastic tube.  Outside of studying and teaching mathematics I enjoy spe
+	nding time with my wife and son.  They are both a bundle of joy and we all
+	 enjoy the outdoors!\n\n
+DTEND:20100222T170000Z
+DTSTAMP:20100218T145921Z
+DTSTART:20100222T160000Z
+LAST-MODIFIED:20100218T145921Z
+LOCATION:AC 328
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Math Faculty Candidate - Class Presentation - Dr. Ma
+	tthew Beauregard
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000B00A0B81B0CA01000000000000000
+	01000000062A394CEEA01484A984362C5B7E81B88
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P DIR=LTR ALIGN=CENTER><SPAN LANG="en-us"><B><
+	/B></SPAN><SPAN LANG="en-us"><B></B></SPAN></P>\n\n<P DIR=LTR ALIGN=CENTER
+	><SPAN LANG="en-us"><B></B></SPAN><SPAN LANG="en-us"><B><FONT SIZE=2 FACE=
+	"Arial">Matthew Beauregard\, Ph.D.</FONT></B></SPAN></P>\n\n<P DIR=LTR ALI
+	GN=CENTER><SPAN LANG="en-us"><B><FONT SIZE=2 FACE="Arial">Visiting Assista
+	nt Professor</FONT></B></SPAN></P>\n\n<P DIR=LTR ALIGN=CENTER><SPAN LANG="
+	en-us"><B><FONT SIZE=2 FACE="Arial">Department of Mathematics</FONT></B></
+	SPAN></P>\n\n<P DIR=LTR ALIGN=CENTER><SPAN LANG="en-us"><B><FONT SIZE=2 FA
+	CE="Arial">University of Arizona</FONT></B></SPAN></P>\n\n<P DIR=LTR ALIGN
+	=CENTER><SPAN LANG="en-us"><B><FONT SIZE=2 FACE="Arial">Tucson\, AZ</FONT>
+	</B></SPAN></P>\n\n<P DIR=LTR ALIGN=CENTER><SPAN LANG="en-us"></SPAN><SPAN
+	 LANG="en-us"><B></B></SPAN><SPAN LANG="en-us"><B></B></SPAN></P>\n\n<P DI
+	R=LTR ALIGN=CENTER><SPAN LANG="en-us"><B></B></SPAN><SPAN LANG="en-us"><B>
+	<FONT SIZE=2 FACE="Arial">Candidate for Postdoctoral Teaching and Research
+	 Fellow in Mathematics</FONT></B></SPAN></P>\n\n<P DIR=LTR ALIGN=CENTER><S
+	PAN LANG="en-us"><B></B></SPAN><SPAN LANG="en-us"><B></B></SPAN></P>\n\n<P
+	 DIR=LTR ALIGN=CENTER><SPAN LANG="en-us"><B></B></SPAN><SPAN LANG="en-us">
+	<B><U><FONT FACE="Calibri">CLASS PRESENTATION</FONT></U></B></SPAN></P>\n\
+	n<P DIR=LTR ALIGN=CENTER><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FON
+	T FACE="Calibri">Monday\, February 22\, 2010</FONT></SPAN></P>\n\n<P DIR=L
+	TR ALIGN=CENTER><SPAN LANG="en-us"><FONT FACE="Calibri">11:00 AM – 12:00
+	 PM</FONT></SPAN></P>\n\n<P DIR=LTR ALIGN=CENTER><SPAN LANG="en-us"><FONT 
+	FACE="Calibri">AC 328</FONT></SPAN></P>\n\n<P DIR=LTR ALIGN=CENTER><SPAN L
+	ANG="en-us"></SPAN><SPAN LANG="en-us"><FONT FACE="Calibri">Class topic:&nb
+	sp\; “</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT F
+	ACE="Calibri">The Fredholm Alternative”</FONT></SPAN><SPAN LANG="en-us">
+	</SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<P DIR=LTR ALIGN=CENTER><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="
+	en-us"></SPAN><SPAN LANG="en-us"><U><FONT FACE="Calibri">Description:</FON
+	T></U></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT FACE="Cali
+	bri">&nbsp\; A common technique in the study nonlinear partial differentia
+	l equations is to examine the local stability of known static solutions.&n
+	bsp\; A perturbation to these solutions can be introduced and a linear ana
+	lysis can determine the dominant mode(s) that are excited at threshold.&nb
+	sp\; A weakly nonlinear analysis determines the dynamics of the amplitude(
+	s) to these excited mode(s) which take the form of a new set of partial di
+	fferential equations.&nbsp\; These equations are generated as a result of 
+	applying the Fredholm</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"><
+	FONT FACE="Calibri">Alternative in the nonlinear analysis.&nbsp\; In this 
+	presentation we will discuss the Fredholm Alternative in application to li
+	near algebra and then extend these ideas to differential equations.&nbsp\;
+	 A background in basic linear algebra and second order differential equati
+	ons will be sufficient</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us">
+	</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<P DIR=
+	LTR><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"
+	><U><FONT FACE="Calibri">Biography:</FONT></U></SPAN><SPAN LANG="en-us"></
+	SPAN><SPAN LANG="en-us"><FONT FACE="Calibri">&nbsp\;</FONT></SPAN><SPAN LA
+	NG="en-us"></SPAN><SPAN LANG="en-us"> <FONT FACE="Calibri">I received my P
+	hD from the University of Arizona in 2008.&nbsp\;</FONT></SPAN><SPAN LANG=
+	"en-us"></SPAN><SPAN LANG="en-us"> <FONT FACE="Calibri">While at Arizona I
+	 accomplished original research in pursuit of my degree and developed a ma
+	thematical model for an elastic tube conveying a fluid. Unlike the classic
+	al topic of a fluid flowing through a rigid pipe\, the understanding of fl
+	uid flowing through an elastic tube is extremely complex and involves a co
+	upling of elasticity and fluid mechanics.&nbsp\; Through realistic assumpt
+	ions I developed a mathematical model which incorporated the properties of
+	 the fluid and tube.&nbsp\; This model enabled me to examine the stability
+	\, or lack thereof\, of the elastic tube.&nbsp\; Outside of studying and t
+	eaching mathematics I enjoy spending time with my wife and son.&nbsp\; The
+	y are both a bundle of joy and we all enjoy the outdoors</FONT></SPAN><SPA
+	N LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT SIZE=2 FACE="CMR10">!</FONT
+	></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<P DIR
+	=LTR><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n</BODY>\n
+	</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

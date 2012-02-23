@@ -1,0 +1,36 @@
+placename	COUNT(*)
+WH10,in,lounge	1
+WH10,out,eastwing	1
+WH10,out,northwing	2
+WH10,out,westwing	1
+WH20,in,antelounge	21
+WH20,in,lounge	17
+WH20,in,north wing	3
+WH20,in,rm201	6
+WH20,in,rm218	4
+WH20,out,westwing	1
+WH30,in,antelounge	7
+WH30,in,lounge	17
+WH30,in,northwing nook	8
+WH30,in,rm303	1
+WH30,in,rm307	2
+WH30,in,rm309	21
+WH30,in,rm312	14
+WH30,in,rm318	4
+WH30,in,rm325	1
+WH30,out,northwing	6
+WH30,out,rm309	2
+WH30,out,westwing	4
+WH40,in,antelounge	10
+WH40,in,lounge	19
+WH40,in,northwing stairwell	1
+WH40,in,rm407	4
+WH40,in,rm409	5
+WH40,in,rm410	2
+WH40,in,rm413	2
+WH40,in,rm414	6
+WH40,in,rm415	10
+WH40,in,rm423	16
+WH40,out,eastwing	3
+WH40,out,northwing	4
+WH40,out,westwing	2

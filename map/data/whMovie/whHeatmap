@@ -1,0 +1,8 @@
+#!/bin/bash
+
+for ((i=1;i<=500;i+=1)); do
+   mysql mmolin -u mmolin --password=js83mc -e "SELECT placename,COUNT(*) FROM point WHERE placename LIKE \"WH%\" AND time < '2008-01-01 00:00:00' + INTERVAL $i DAY 
+GROUP BY placename;" > wh$i.out
+
+done
+

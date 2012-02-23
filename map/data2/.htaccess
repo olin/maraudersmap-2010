@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "By Invitation Only"
+AuthUserFile /raid0/www/map/data2/htpass
+Require user abarry

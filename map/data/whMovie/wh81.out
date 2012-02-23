@@ -1,0 +1,64 @@
+placename	COUNT(*)
+WH10,in,Kitchen	7
+WH10,in,lounge	11
+WH10,out,eastwing	1
+WH10,out,northwing	2
+WH10,out,westwing	1
+WH20,in,antelounge	24
+WH20,in,lounge	21
+WH20,in,Nook	17
+WH20,in,north wing	13
+WH20,in,North Wing Nook	4
+WH20,in,rm14	3
+WH20,in,rm201	9
+WH20,in,rm202	1
+WH20,in,rm207	39
+WH20,in,rm209	1
+WH20,in,rm212	7
+WH20,in,rm213	7
+WH20,in,rm214	4
+WH20,in,rm215	19
+WH20,in,rm218	19
+WH20,in,rm225	1
+WH20,in,rm226	1
+WH20,in,rm230	1
+WH20,out,North Wing Nook	3
+WH20,out,westwing	1
+WH30,in,antelounge	19
+WH30,in,lounge	55
+WH30,in,northwing nook	11
+WH30,in,rm302	1
+WH30,in,rm303	14
+WH30,in,rm306	18
+WH30,in,rm307	5
+WH30,in,rm309	71
+WH30,in,rm312	35
+WH30,in,rm318	4
+WH30,in,rm324	8
+WH30,in,rm325	7
+WH30,out,northwing	6
+WH30,out,rm309	7
+WH30,out,westwing	4
+WH40,in,antelounge	10
+WH40,in,lounge	31
+WH40,in,northwing stairwell	1
+WH40,in,rm02	2
+WH40,in,rm401	7
+WH40,in,rm402	1
+WH40,in,rm405	9
+WH40,in,rm407	25
+WH40,in,rm409	17
+WH40,in,rm410	2
+WH40,in,rm411	22
+WH40,in,rm412	8
+WH40,in,rm413	8
+WH40,in,rm414	71
+WH40,in,rm415	16
+WH40,in,rm418	39
+WH40,in,rm423	51
+WH40,in,rm425	11
+WH40,in,rm427	2
+WH40,in,rm429	23
+WH40,out,eastwing	5
+WH40,out,northwing	4
+WH40,out,westwing	3

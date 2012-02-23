@@ -1,0 +1,4 @@
+#!/bin/bash
+
+mysql mmolin -u mmolin --password=js83mc < userDate.sql > userDateClean.out
+mysql mmolin -u mmolin --password=js83mc < userDateMax.sql > userDateMaxClean.out

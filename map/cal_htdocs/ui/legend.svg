@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="/home/abarry/programs/OlinMM/mmolin/server/htdocs/ui"
+   sodipodi:docname="legend.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="161.61722"
+     inkscape:cy="948.97281"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1669"
+     inkscape:window-height="996"
+     inkscape:window-x="1024"
+     inkscape:window-y="25" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3197"
+       transform="matrix(0.5644789,0,0,0.5542153,48.036505,26.822893)"
+       inkscape:export-filename="/home/abarry/programs/OlinMM/mmolin/server/htdocs/ui/legend.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120">
+      <rect
+         y="70.933609"
+         x="40.714287"
+         height="32.857143"
+         width="32.857143"
+         id="rect2160"
+         style="fill:#515151;fill-opacity:1;stroke:#000000;stroke-width:1.78787386;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text2162"
+         y="93.336441"
+         x="52.106964"
+         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="93.336441"
+           x="52.106964"
+           id="tspan2164"
+           sodipodi:role="line">1</tspan></text>
+    </g>
+    <image
+       y="21.013012"
+       x="125.10297"
+       id="image3194"
+       height="650"
+       width="1213"
+       sodipodi:absref="/home/abarry/Desktop/map2.png"
+       xlink:href="/home/abarry/Desktop/map2.png"
+       style="fill:#515151;fill-opacity:1" />
+    <g
+       id="g3202"
+       transform="matrix(0.5644789,0,0,0.5542153,69.847032,26.822893)"
+       inkscape:export-filename="/home/abarry/programs/OlinMM/mmolin/server/htdocs/ui/legend.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120">
+      <rect
+         style="fill:#515151;fill-opacity:1;stroke:#000000;stroke-width:1.78787386;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3204"
+         width="32.857143"
+         height="32.857143"
+         x="40.714287"
+         y="70.933609" />
+      <text
+         xml:space="preserve"
+         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         x="52.106964"
+         y="93.336441"
+         id="text3206"><tspan
+           sodipodi:role="line"
+           id="tspan3208"
+           x="52.106964"
+           y="93.336441">1</tspan></text>
+    </g>
+    <rect
+       style="fill:#7a7a7a;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3212"
+       width="18.547165"
+       height="18.209932"
+       x="92.829384"
+       y="66.135384"
+       inkscape:export-filename="/home/abarry/programs/OlinMM/mmolin/server/htdocs/ui/legend.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.06782436px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="98.353775"
+       y="79.275391"
+       id="text3214"
+       transform="scale(1.0092171,0.990867)"
+       inkscape:export-filename="/home/abarry/programs/OlinMM/mmolin/server/htdocs/ui/legend.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120"><tspan
+         sodipodi:role="line"
+         id="tspan3216"
+         x="98.353775"
+         y="79.275391">2</tspan></text>
+    <rect
+       y="66.135384"
+       x="114.78246"
+       height="18.209932"
+       width="18.547165"
+       id="rect3220"
+       style="fill:#a4a4a4;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/abarry/programs/OlinMM/mmolin/server/htdocs/ui/legend.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <text
+       id="text3222"
+       y="79.275391"
+       x="120.10635"
+       style="font-size:10.06782436px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       xml:space="preserve"
+       transform="scale(1.0092171,0.990867)"
+       inkscape:export-filename="/home/abarry/programs/OlinMM/mmolin/server/htdocs/ui/legend.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120"><tspan
+         y="79.275391"
+         x="120.10635"
+         id="tspan3224"
+         sodipodi:role="line">3</tspan></text>
+    <g
+       transform="matrix(0.5644789,0,0,0.5542153,113.61064,26.822893)"
+       id="g3226"
+       inkscape:export-filename="/home/abarry/programs/OlinMM/mmolin/server/htdocs/ui/legend.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120">
+      <rect
+         y="70.933609"
+         x="40.714287"
+         height="32.857143"
+         width="32.857143"
+         id="rect3228"
+         style="fill:#515151;fill-opacity:1;stroke:#000000;stroke-width:1.78787386;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text3230"
+         y="93.336441"
+         x="52.106964"
+         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="93.336441"
+           x="52.106964"
+           id="tspan3232"
+           sodipodi:role="line">1</tspan></text>
+    </g>
+    <rect
+       y="66.135384"
+       x="136.59299"
+       height="18.209932"
+       width="18.547165"
+       id="rect3236"
+       style="fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/abarry/programs/OlinMM/mmolin/server/htdocs/ui/legend.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <text
+       id="text3238"
+       y="79.275391"
+       x="141.71768"
+       style="font-size:10.06782436px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       xml:space="preserve"
+       transform="scale(1.0092171,0.990867)"
+       inkscape:export-filename="/home/abarry/programs/OlinMM/mmolin/server/htdocs/ui/legend.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120"><tspan
+         y="79.275391"
+         x="141.71768"
+         id="tspan3240"
+         sodipodi:role="line">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:100px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="92.428955"
+       y="59.129692"
+       id="text3251"
+       inkscape:export-filename="/home/abarry/programs/OlinMM/mmolin/server/htdocs/ui/legend.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120"><tspan
+         sodipodi:role="line"
+         id="tspan3253"
+         x="92.428955"
+         y="59.129692"
+         style="font-size:16px">Floor</tspan></text>
+  </g>
+</svg>

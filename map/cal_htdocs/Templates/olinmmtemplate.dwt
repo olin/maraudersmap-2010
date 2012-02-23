@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+			<!-- #BeginEditable "doctitle" -->
+			<title>
+				The Marauder's Map @ Olin
+			</title>
+			<!-- #EndEditable -->
+		<link type="text/css" rel="stylesheet" href="main.css" />
+	</head>
+	<body>
+	<div id="nav">
+		<p>
+			<a href="index.htm"><img src="images/oval.png" alt="The Marauders Map @ Olin" border ="0" /> </a>
+		</p>
+    	<p><a href="index.html">Home</a></p>
+    	<p><a href="ui/mapui.php">Map</a></p>
+    	<p><a href="installation.htm">Client Installation</a></p>
+       	<p><a href="troubleshooting.htm">Troubleshooting</a></p>
+	<p><span style="font-size:x-small">Developed by <a href="mailto:andy@students.olin.edu">Andrew Barry</a> and <a href="mailto:Benjamin.Fisher@students.olin.edu">Ben Fisher</a><br>Map background by <a href="mailto:Victoria.Hsiao@students.olin.edu">Victoria Hsiao</a>
+	</span></p>
+	</div>
+	<div id="content">
+	    <!-- #BeginEditable "content" -->
+
+		<!-- #EndEditable -->
+	</div>
+</body>
+</html>

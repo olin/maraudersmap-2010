@@ -1,0 +1,3754 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 12.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-CALSTART:20060828T140000Z
+X-WR-RELCALID:{0000002E-3017-5EA4-FF7B-062F7C43072B}
+X-WR-CALNAME:bryce
+BEGIN:VTIMEZONE
+TZID:Eastern Time (US & Canada)
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Unnamed Time Zone 1
+BEGIN:STANDARD
+DTSTART:16011028T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010401T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CATEGORIES:Business
+CLASS:PUBLIC
+CREATED:20100121T020618Z
+DESCRIPTION:\n
+DTEND;TZID="Eastern Time (US & Canada)":20100121T100000
+DTSTAMP:20100218T160551Z
+DTSTART;TZID="Eastern Time (US & Canada)":20100121T090000
+LAST-MODIFIED:20100128T004940Z
+LOCATION:ac 32?
+PRIORITY:5
+RRULE:FREQ=WEEKLY;COUNT=18;BYDAY=MO,TH
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:vector calc
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000030313CF789B0CA01000000000000000
+	010000000DBD9FC3CFA99664D924475AF96398AB0
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN></P>\n\n</
+	BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20060911T013540Z
+DTEND:20060913T200000Z
+DTSTAMP:20100218T160551Z
+DTSTART:20060913T170000Z
+LAST-MODIFIED:20060913T223430Z
+LOCATION:AC 104
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Shop training
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEgIAAA==
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20060911T013506Z
+DTEND:20060914T020000Z
+DTSTAMP:20100218T160551Z
+DTSTART:20060913T230000Z
+LAST-MODIFIED:20060914T125720Z
+LOCATION:OC 120
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:TIPS
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEgMAAA==
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=esw@lists.olin.edu;RSVP=TRUE:mailto:esw@lists.olin.edu
+CLASS:PUBLIC
+CREATED:20060912T042402Z
+DESCRIPTION:\nHello all. Hopefully this meeting time will work for more peo
+	ple\, specifically our first years. The meeting won't start until 6:15\, b
+	ut I have a feeling that there will be a big line at 6\, so try to get to 
+	the dining hall with plenty of time to acquire food. Awesome\,\n\n     Sim
+	on \n\n
+DTEND:20060914T230000Z
+DTSTAMP:20060912T034828Z
+DTSTART:20060914T221500Z
+LAST-MODIFIED:20060914T225047Z
+LOCATION:Dining Hall Mezzanine
+ORGANIZER;CN="Simon C. Helmore":invalid:nomail
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:[ESW] ESW Meeting\, Attempt #2
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEgQAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n<BR>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="
+	Arial">Hello all. Hopefully this meeting time will work for more people\, 
+	specifically our first years. The meeting won't start until 6:15\, but I h
+	ave a feeling that there will be a big line at 6\, so try to get to the di
+	ning hall with plenty of time to acquire food. Awesome\,</FONT></SPAN></P>
+	\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="Arial">     Simon</FONT><
+	FONT FACE="Arial"> </FONT></SPAN>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="David Stamp";RSVP=TRUE:mailto:David.Stamp@students.olin.edu
+ATTENDEE;CN="Bradley Powers";RSVP=TRUE:mailto:Bradley.Powers@students.olin.
+	edu
+ATTENDEE;CN="Michael Hughes";RSVP=TRUE:mailto:Michael.Hughes@students.olin.
+	edu
+ATTENDEE;CN="James Switzer";RSVP=TRUE:mailto:James.Switzer@students.olin.ed
+	u
+ATTENDEE;CN="Michael Taylor";RSVP=TRUE:mailto:Michael.Taylor@students.olin.
+	edu
+ATTENDEE;CN="Luis Gutierrez";RSVP=TRUE:mailto:Luis.Gutierrez@students.olin.
+	edu
+ATTENDEE;CN="Jeffrey Stanton";RSVP=TRUE:mailto:Jeffrey.Stanton@students.oli
+	n.edu
+ATTENDEE;CN="Eric Erzinger";RSVP=TRUE:mailto:Eric.Erzinger@students.olin.ed
+	u
+ATTENDEE;CN="Martina Balestra";RSVP=TRUE:mailto:Martina.Balestra@students.o
+	lin.edu
+ATTENDEE;CN="Marco Morales";RSVP=TRUE:mailto:Marco.Morales@students.olin.ed
+	u
+ATTENDEE;CN="Joseph Funke";RSVP=TRUE:mailto:Joseph.Funke@students.olin.edu
+ATTENDEE;CN="Sarah M. Zimmermann";RSVP=TRUE:mailto:Sarah.Zimmermann@student
+	s.olin.edu
+ATTENDEE;CN="Brian Fahrenbach";RSVP=TRUE:mailto:Brian.Fahrenbach@students.o
+	lin.edu
+ATTENDEE;CN="Jennifer Cross";RSVP=TRUE:mailto:Jennifer.Cross@students.olin.
+	edu
+ATTENDEE;CN="Andrea Striz";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Avinash Uttamchandani";RSVP=TRUE:mailto:Avinash.Uttamchandani@
+	students.olin.edu
+ATTENDEE;CN="James Whong";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Spencer Backus";RSVP=TRUE:mailto:Spencer.Backus@students.olin.
+	edu
+ATTENDEE;CN="Zachary Coburn";RSVP=TRUE:mailto:Zachary.Coburn@students.olin.
+	edu
+ATTENDEE;CN="Mary Germino";RSVP=TRUE:mailto:Mary.Germino@students.olin.edu
+ATTENDEE;CN="Michael Riccobono";RSVP=TRUE:mailto:Michael.Riccobono@students
+	.olin.edu
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+ATTENDEE;CN="Raghu Rangan";RSVP=TRUE:mailto:Raghu.Rangan@students.olin.edu
+ATTENDEE;CN="Anahita Karimi";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Erika Boeing";RSVP=TRUE:mailto:Erika.Boeing@students.olin.edu
+ATTENDEE;CN="Brian Fahrenbach";RSVP=TRUE:mailto:Brian.Fahrenbach@students.o
+	lin.edu
+ATTENDEE;CN="Andrew Pethan";RSVP=TRUE:mailto:Andrew.Pethan@students.olin.ed
+	u
+ATTENDEE;CN="Zachary Kratzer";RSVP=TRUE:mailto:Zachary.Kratzer@students.oli
+	n.edu
+ATTENDEE;CN="Zachary Kratzer";RSVP=TRUE:mailto:Zachary.Kratzer@students.oli
+	n.edu
+ATTENDEE;CN="Andrew Barry";RSVP=TRUE:mailto:Andrew.Barry@students.olin.edu
+ATTENDEE;CN="Matthew Bowes";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Roberto Santana";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Michael J. Siripong";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Daniel P. Foran";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Simon C. Helmore";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Gabriel Greeley";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Andrew Tsang";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Alexander Jenko";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Brittany Devlin";RSVP=TRUE:mailto:Brittany.Devlin@students.oli
+	n.edu
+CLASS:PUBLIC
+CREATED:20060914T195437Z
+DESCRIPTION:For anyone who is interested in learning to design vehicles\, C
+	AD\, machine and fabricate in preparation for being a part of one of the b
+	est things on campus:\n\nOlin College Mini Baja (OCMB) is proud to unveil 
+	our new member training program. An intensive 6 week training program that
+	 will equip you with the skills you need to be an integral part of the Min
+	i Baja team. This program will consist of lessons and practicals on Design
+	\, CAD\, Drawings\, Purchasing\, Machining and Fabrication.\n\nBy early No
+	vember you will have sucessfuly translated a list of specifications into a
+	 functioning machine. If you're interested in mechanical design\, in machi
+	ning or fabrication\, we encourage you to sign up. \n\nClasses will be sch
+	eduled based on the availability of those who commit to the course.\n\nWe 
+	hope to see you all there\,\n\nOCMB '07 Seniors:\nDan Foran\nSimon Helmore
+	\nTal Schwartz\nMike Siripong\n\n\n\n
+DTEND:20060916T213000Z
+DTSTAMP:20060914T183733Z
+DTSTART:20060916T210000Z
+LAST-MODIFIED:20060917T044124Z
+LOCATION:Academic Center 213
+ORGANIZER;CN="Tal Schwartz":invalid:nomail
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Mini Baja New Member Kick-Off
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEgUAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT SIZE=2 FACE="Arial">For anyone who is 
+	interested in learning to design vehicles\, CAD\, machine and fabricate in
+	 preparation for being a part of one of the best things on campus:</FONT><
+	/P>\n\n<P><FONT SIZE=4 FACE="Arial">Olin College Mini Baja (OCMB)</FONT> <
+	FONT FACE="Arial">is proud to unveil our new member training program. An i
+	ntensive 6 week training program that will equip you with the skills you n
+	eed to be an integral part of the Mini Baja team. This program will consis
+	t of lessons and practicals on Design\, CAD\, Drawings\, Purchasing\, Mach
+	ining and Fabrication.</FONT></P>\n\n<P><FONT FACE="Arial">By early Novemb
+	er you will have sucessfuly translated a list of specifications into a fun
+	ctioning machine. If you're interested in mechanical design\, in machining
+	 or fabrication\, we encourage you to sign up. </FONT></P>\n\n<P><FONT FAC
+	E="Arial">Classes will be scheduled based on the availability of those who
+	 commit to the course.</FONT>\n</P>\n\n<P><FONT FACE="Arial">We hope to se
+	e you all there\,</FONT>\n</P>\n\n<P><FONT FACE="Arial">OCMB '07 Seniors:<
+	/FONT>\n\n<BR><FONT FACE="Arial">Dan Foran</FONT>\n\n<BR><FONT FACE="Arial
+	">Simon Helmore</FONT>\n\n<BR><FONT FACE="Arial">Tal Schwartz</FONT>\n\n<B
+	R><FONT FACE="Arial">Mike Siripong</FONT>\n</P>\n<BR>\n<BR>\n\n</BODY>\n</
+	HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=coda@lists.olin.edu;RSVP=TRUE:mailto:coda@lists.olin.edu
+CLASS:PUBLIC
+CREATED:20060912T042354Z
+DESCRIPTION:\nHopefully this time will work for everyone! \n\nWhat: CODA in
+	formation meeting and training \nWho: ANYBODY! no experience required! \nW
+	hen: This Sunday\, September 17 at 10 to 11 pm \nWhy: To get ready to help
+	 adults with disabilities learn computer skills \nWhy else: TO HAVE TONS O
+	F FUN!!!! \n\n
+DTEND:20060918T030000Z
+DTSTAMP:20060912T032515Z
+DTSTART:20060918T020000Z
+LAST-MODIFIED:20060918T133027Z
+LOCATION:WH 1st lounge
+ORGANIZER;CN="Johannah R. Itescu":invalid:nomail
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:[Coda] CODA meeting!
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEgYAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n<BR>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="
+	Arial">Hopefully this time will work for everyone!</FONT><FONT FACE="Arial
+	"> </FONT></SPAN>\n</P>\n\n<P><SPAN LANG="en-us"><B><FONT COLOR="#008000" 
+	SIZE=4 FACE="Arial">What: CODA information meeting and training</FONT></B>
+	<FONT FACE="Times New Roman"></FONT><BR>\n<B><FONT COLOR="#0000FF" SIZE=4 
+	FACE="Arial">Who: ANYBODY! no experience required!</FONT></B><FONT FACE="T
+	imes New Roman"></FONT><BR>\n<B><FONT COLOR="#FF00FF" SIZE=4 FACE="Arial">
+	When: This Sunday\, September 17 at 10 to 11</FONT><FONT FACE="Arial"> </F
+	ONT><FONT COLOR="#FF00FF" SIZE=4 FACE="Arial">pm</FONT></B><FONT FACE="Tim
+	es New Roman"></FONT><BR>\n<B><FONT COLOR="#800080" SIZE=4 FACE="Arial">Wh
+	y: To get ready to help adults with disabilities learn computer skills</FO
+	NT></B><FONT FACE="Times New Roman"></FONT><BR>\n<B><FONT COLOR="#008000" 
+	SIZE=4 FACE="Arial">Why else: TO HAVE TONS OF FUN!!!!</FONT></B><FONT FACE
+	="Arial"> </FONT></SPAN>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=osa@lists.olin.edu;RSVP=TRUE:mailto:osa@lists.olin.edu
+CLASS:PUBLIC
+CREATED:20060913T001824Z
+DESCRIPTION:\n\n
+DTEND:20060920T010000Z
+DTSTAMP:20060912T212013Z
+DTSTART:20060920T000000Z
+LAST-MODIFIED:20060919T235242Z
+LOCATION:AC 109
+ORGANIZER;CN="Benjamin Salinas":mailto:Benjamin.Salinas@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:[OSA] OSA Meeting
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEgcAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n<BR>\n<BR>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=esw@lists.olin.edu;RSVP=TRUE:mailto:esw@lists.olin.edu
+CLASS:PUBLIC
+CREATED:20060919T055531Z
+DESCRIPTION:\nCome elect leaders for ESW this year! You should be present i
+	f you want to vote. If you can't make the meeting and would like to vote b
+	y proxy\, let me know.\n\nThere are two positions: an executive and a vice
+	-executive. Not Stupin and Matt Ritter have both declared their candidacy 
+	for both positions. If anyone else would like to declare candidacy\, they 
+	should let me know immediately.\n\n<3\, \nTim \n\n
+DTEND:20060924T203000Z
+DTSTAMP:20060919T055311Z
+DTSTART:20060924T200000Z
+LAST-MODIFIED:20060924T194705Z
+LOCATION:Crescent Room
+ORGANIZER;CN="Timothy Smith":mailto:Timothy.Smith@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:[ESW] ESW Elections
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEggAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n<BR>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="
+	Arial">Come elect leaders for ESW this year! You should be present if you 
+	want to vote. If you can't make the meeting and would like to vote by prox
+	y\, let me know.</FONT></SPAN></P>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 F
+	ACE="Arial">There are two positions: an executive and a vice-executive. No
+	t Stupin and Matt Ritter have both declared their candidacy for both posit
+	ions. If anyone else would like to declare candidacy\, they should let me 
+	know immediately.</FONT></SPAN></P>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 
+	FACE="Arial">&lt\;3\,</FONT><FONT FACE="Arial"><BR>\n</FONT><FONT SIZE=2 F
+	ACE="Arial">Tim</FONT><FONT FACE="Arial"> </FONT></SPAN>\n</P>\n\n</BODY>\
+	n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=osa@lists.olin.edu;RSVP=TRUE:mailto:osa@lists.olin.edu
+CLASS:PUBLIC
+CREATED:20060922T123430Z
+DESCRIPTION:\nApparently the Honor Board meets on Tuesdays in the Crescent 
+	Room.  Sunday from 6:15 to 7:15 looked free on a lot of people's schedules
+	.  Let's try again.\n\nRemember\, as of now this meeting is just 1 hour a 
+	month. \n \n
+DTEND:20060924T231500Z
+DTSTAMP:20060921T134730Z
+DTSTART:20060924T221500Z
+LAST-MODIFIED:20060925T060428Z
+LOCATION:Crescent Room
+ORGANIZER;CN="Benjamin Salinas":mailto:Benjamin.Salinas@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:[OSA] OSA Meeting- New Time!
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEgkAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n<BR>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="
+	Arial">Apparently the Honor Board meets on Tuesdays in the Crescent Room.
+	  Sunday from 6:15 to 7:15 looked free on a lot of people's schedules.  
+	Let's try again.</FONT></SPAN></P>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 F
+	ACE="Arial">Remember\, as of now this meeting is just 1 hour a month.</FON
+	T><FONT FACE="Arial"> </FONT></SPAN>\n\n<BR><SPAN LANG="en-us"><FONT FACE=
+	"Arial"> </FONT></SPAN>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20060926T232147Z
+DESCRIPTION:This is a reminder (and iCal) about the scheduled floor meeting
+	 we will have tomorrow\, Wednesday at 7PM (from the calendar you received 
+	in orientation).\n\nWe understand you are busy… we are too\, but this do
+	esn’t have to be long. Meet in the second floor lounge and we will divid
+	e into three smaller groups lead by Jessie\, Carmelle\, and myself.\n\nWe 
+	look forward to seeing you tomorrow!\n\nJessie and Andrew\n+Carmelle\n\n\n
+	\n
+DTEND:20060927T234500Z
+DTSTAMP:20060926T213729Z
+DTSTART:20060927T230000Z
+LAST-MODIFIED:20060927T224614Z
+LOCATION:2nd floor lounge
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Floor meeting
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEgoAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT SIZE=2 FACE="Arial">This is a reminder
+	 (and iCal) about the scheduled floor meeting we will have tomorrow\, Wedn
+	esday at 7PM (from the calendar you received in orientation).</FONT></P>\n
+	\n<P><FONT SIZE=2 FACE="Arial">We understand you are busy… we are too\, 
+	but this doesn’t have to be long. Meet in the second floor lounge and we
+	 will divide into three smaller groups lead by Jessie\, Carmelle\, and mys
+	elf.</FONT></P>\n\n<P><FONT SIZE=2 FACE="Arial">We look forward to seeing 
+	you tomorrow!</FONT>\n</P>\n\n<P><FONT SIZE=2 FACE="Arial">Jessie and Andr
+	ew</FONT>\n\n<BR><FONT SIZE=2 FACE="Arial">+Carmelle</FONT>\n</P>\n<BR>\n<
+	BR>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20061002T003107Z
+DESCRIPTION:Instead of 7pm.\n\n
+DTEND:20061005T223000Z
+DTSTAMP:20061002T001301Z
+DTSTART:20061005T220000Z
+LAST-MODIFIED:20061005T222209Z
+LOCATION:Crescent room
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Updated:  OVAL meeting
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEgsAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT SIZE=2 FACE="Arial">Instead of 7pm.</F
+	ONT>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Students - All Olin Students";RSVP=TRUE:mailto:Students@olin.e
+	du
+CLASS:PUBLIC
+CREATED:20060917T205237Z
+DESCRIPTION:OLIN SKYDIVING TRIP \nWhy: Become -that- much more hardcore. Sk
+	ydiving invigorates you and makes everything else in life less stressful.\
+	nWhere: Jumptown\, a dropzone located in Orange\, MA.  Map here: http://ti
+	nyurl.com/nfptb\nHow Much:  $200 or lower\, depending on how many people c
+	ome.\n\nI will be creating a wiki soon (once I figure out how) to organize
+	 rides.  Please respond if you're interested!\n\n- Matt Bowes\n\n\n
+DTEND:20061007T200000Z
+DTSTAMP:20060917T204915Z
+DTSTART:20061007T130000Z
+LAST-MODIFIED:20061006T202220Z
+LOCATION:Jumptown
+ORGANIZER;CN="Matthew Bowes":invalid:nomail
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Inaugural Olin SKYDIVING Trip
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEgwAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT SIZE=4 FACE="Arial">OLIN SKYDIVING TRI
+	P</FONT><FONT FACE="Times New Roman"> </FONT>\n\n<BR><U><FONT SIZE=2 FACE=
+	"Arial">Why</FONT></U><FONT SIZE=2 FACE="Arial">: Become -<I>that</I>- muc
+	h more hardcore. Skydiving invigorates you and makes everything else in li
+	fe less stressful.</FONT>\n\n<BR><U><FONT SIZE=2 FACE="Arial">Where</FONT>
+	</U><FONT SIZE=2 FACE="Arial">: Jumptown\, a dropzone located in Orange\, 
+	MA.&nbsp\; Map here:<B></B></FONT><B></B><B> <FONT FACE="Times New Roman">
+	<A HREF="http://tinyurl.com/nfptb">http://tinyurl.com/nfptb</A></FONT></B>
+	\n\n<BR><U><FONT SIZE=2 FACE="Arial">How Much</FONT></U><FONT SIZE=2 FACE=
+	"Arial">:&nbsp\; $200 or lower\, depending on how many people come.</FONT>
+	\n</P>\n\n<P><FONT SIZE=2 FACE="Arial">I will be creating a wiki soon (onc
+	e I figure out how) to organize rides.&nbsp\; Please respond if you're int
+	erested!</FONT>\n</P>\n\n<P><FONT SIZE=2 FACE="Arial">- Matt Bowes</FONT>\
+	n</P>\n<BR>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=osa@lists.olin.edu;RSVP=TRUE:mailto:osa@lists.olin.edu
+CLASS:PUBLIC
+CREATED:20061004T182313Z
+DESCRIPTION:\nHave an awesome idea? Want to help others with their Awesome 
+	ideas? \nCome to the OSA Project Forum \nSunday 10-8-06 \n12:00-2:00 PM \n
+	Cresecent room (yay for food!) \nHear about: \nConnecting engineers with n
+	on-profit organizations \nInnovating math education \nAn ASME sponsored wa
+	ter purification design challenge \nMaking Needham Green \nHelping doctors
+	 in the US help doctors in Haiti \nand much much more! \n \n
+DTEND:20061008T180000Z
+DTSTAMP:20061004T182005Z
+DTSTART:20061008T160000Z
+LAST-MODIFIED:20061010T010611Z
+LOCATION:Crescent Room
+ORGANIZER;CN="Benjamin Salinas":mailto:Benjamin.Salinas@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:[OSA] OSA Project Forum
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEg0AAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n<BR>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="
+	Arial">Have an awesome idea? Want to help others with their Awesome ideas?
+	</FONT><FONT FACE="Times New Roman"></FONT><BR>\n<FONT SIZE=2 FACE="Arial"
+	>Come to the OSA Project Forum</FONT><FONT FACE="Times New Roman"></FONT><
+	BR>\n<FONT SIZE=2 FACE="Arial">Sunday 10-8-06</FONT><FONT FACE="Times New 
+	Roman"></FONT><BR>\n<FONT SIZE=2 FACE="Arial">12:00-2:00 PM</FONT><FONT FA
+	CE="Times New Roman"></FONT><BR>\n<FONT SIZE=2 FACE="Arial">Cresecent room
+	 (yay for food!)</FONT><FONT FACE="Times New Roman"></FONT><BR>\n<FONT SIZ
+	E=2 FACE="Arial">Hear about:</FONT><FONT FACE="Times New Roman"></FONT><BR
+	>\n<FONT SIZE=2 FACE="Arial">Connecting engineers with non-profit organiza
+	tions</FONT><FONT FACE="Times New Roman"></FONT><BR>\n<FONT SIZE=2 FACE="A
+	rial">Innovating math education</FONT><FONT FACE="Times New Roman"></FONT>
+	<BR>\n<FONT SIZE=2 FACE="Arial">An ASME sponsored water purification desig
+	n challenge</FONT><FONT FACE="Times New Roman"></FONT><BR>\n<FONT SIZE=2 F
+	ACE="Arial">Making Needham Green</FONT><FONT FACE="Times New Roman"></FONT
+	><BR>\n<FONT SIZE=2 FACE="Arial">Helping doctors in the US help doctors in
+	 Haiti</FONT><FONT FACE="Times New Roman"></FONT><BR>\n<FONT SIZE=2 FACE="
+	Arial">and much much more!</FONT><FONT FACE="Arial"> </FONT></SPAN>\n\n<BR
+	><SPAN LANG="en-us"><FONT FACE="Arial"> </FONT></SPAN>\n</P>\n\n</BODY>\n<
+	/HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=pool@lists.olin.edu;RSVP=TRUE:mailto:pool@lists.olin.edu
+CLASS:PUBLIC
+CREATED:20061016T201046Z
+DESCRIPTION:\nHello *cough* GBS *cough* members\, \n\n        So\, it actua
+	lly looks like we're going to have our first meeting. Woot! I'm kind of ex
+	cited. I came across a catalog that was in the pool room and it looks like
+	 it has some pretty decent stuff. I didn't want to order anything without 
+	everyone's input and particular preferences for certain things (mostly the
+	 pool cues). \n\n        Now\, we have a decent amount of money (about 400
+	-ish) for supplies that we can get\, so let's use it efficiently and to ou
+	r and the school's best interest. This meeting will be very short and most
+	ly consist of everyone looking through the catalog together and deciding w
+	hich things they want. We'll take votes if necessary but I'm pretty sure w
+	e'll all be able to come to a consensus about what to get.\n\nHere's what 
+	I'm planning on ordering: \n\n1 - Hot Ass Cue ball (since ours is chipped 
+	and lame) \n1 - 12 pack of GOOD cue chalk \n1 - Hand Chalk \n1 - Set of Ba
+	ll/Cue Cleaning Materials \n1 - Cue Reach Extension (for those of us who d
+	on't like using the bridge) \n1 - Complete Set of Official Rules for all b
+	illiard games \n6 to 8 - Brand New Cues (This will probably have the most 
+	discussion) Also\, this depends on how expensive stuff is\, etc.\n\nPossib
+	ly\, maybe other things to decorate the pool room such as a cool\, pool cl
+	ock or something. \n\nSuggestions\, comments and concerns can all be addre
+	ssed at the meeting. \n\nPlease tell me if this time does not work out for
+	 you (or lots of you) and I will happily change it\; I just thought we cou
+	ld meet after lunch or something.\n\nPlease\, please try to come to this b
+	rief meeting so that we can get lots of input from everyone to order some 
+	cool stuff.\n\nThanks\, and I hope to see you there. \n\nYour Prez\, \n\nH
+	ector \n \n
+DTEND:20061013T233000Z
+DTSTAMP:20061016T200056Z
+DTSTART:20061013T230000Z
+LAST-MODIFIED:20061016T200705Z
+LOCATION:Pool Room (duh!)
+ORGANIZER;CN="Hector Lefbad":invalid:nomail
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:[Pool] Money\, money\, money... MONEY! Let's Use It 
+	=]
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEg4AAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n<BR>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="
+	Arial">Hello<B> *cough*</B> GBS<B> *cough*</B> members\,</FONT><FONT FACE=
+	"Arial"> </FONT></SPAN>\n</P>\n\n<P><SPAN LANG="en-us"><FONT FACE="Arial">
+	       </FONT> <FONT SIZE=2 FACE="Arial">So\, it actually looks lik
+	e we're going to have our first meeting. Woot! I'm kind of excited. I came
+	 across a catalog that was in the pool room and it looks like it has some 
+	pretty decent stuff. I didn't want to order anything without everyone's in
+	put and particular preferences for certain things (mostly the pool cues).<
+	/FONT> </SPAN></P>\n\n<P><SPAN LANG="en-us"><FONT FACE="Arial">     
+	  </FONT> <FONT SIZE=2 FACE="Arial">Now\, we have a decent amount of mon
+	ey (about 400-ish) for supplies that we can get\, so let's use it efficien
+	tly and to our and the school's best interest. This meeting will be very s
+	hort and mostly consist of everyone looking through the catalog together a
+	nd deciding which things they want. We'll take votes if necessary but I'm 
+	pretty sure we'll all be able to come to a consensus about what to get.</F
+	ONT></SPAN></P>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="Arial">Here's 
+	what I'm planning on ordering:</FONT><FONT FACE="Arial"> </FONT></SPAN>\n<
+	/P>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="Arial">1 - Hot Ass Cue bal
+	l (since ours is chipped and lame)</FONT><FONT FACE="Arial"><BR>\n</FONT><
+	FONT SIZE=2 FACE="Arial">1 - 12 pack of GOOD cue chalk</FONT><FONT FACE="A
+	rial"><BR>\n</FONT><FONT SIZE=2 FACE="Arial">1 - Hand Chalk</FONT><FONT FA
+	CE="Arial"><BR>\n</FONT><FONT SIZE=2 FACE="Arial">1 - Set of Ball/Cue Clea
+	ning Materials</FONT><FONT FACE="Arial"><BR>\n</FONT><FONT SIZE=2 FACE="Ar
+	ial">1 - Cue Reach Extension (for those of us who don't like using the bri
+	dge)</FONT><FONT FACE="Arial"><BR>\n</FONT><FONT SIZE=2 FACE="Arial">1 - C
+	omplete Set of Official Rules for all billiard games</FONT><FONT FACE="Ari
+	al"><BR>\n</FONT><FONT SIZE=2 FACE="Arial">6 to 8 - Brand New Cues (This w
+	ill probably have the most discussion) Also\, this depends on how expensiv
+	e stuff is\, etc.</FONT></SPAN></P>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 
+	FACE="Arial">Possibly\, maybe other things to decorate the pool room such 
+	as a cool\, pool clock or something.</FONT><FONT FACE="Arial"> </FONT></SP
+	AN>\n</P>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="Arial">Suggestions\,
+	 comments and concerns can all be addressed at the meeting.</FONT> </SPAN>
+	\n</P>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="Arial">Please tell me i
+	f this time does not work out for you (or lots of you) and I will happily 
+	change it\; I just thought we could meet after lunch or something.</FONT><
+	/SPAN></P>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="Arial">Please\, ple
+	ase try to come to this brief meeting so that we can get lots of input fro
+	m everyone to order some cool stuff.</FONT></SPAN></P>\n\n<P><SPAN LANG="e
+	n-us"><FONT SIZE=2 FACE="Arial">Thanks\, and I hope to see you there.</FON
+	T><FONT FACE="Arial"> </FONT></SPAN>\n</P>\n\n<P><SPAN LANG="en-us"><FONT 
+	SIZE=2 FACE="Arial">Your Prez\,</FONT><FONT FACE="Arial"> </FONT></SPAN>\n
+	</P>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="Arial">Hector</FONT><FONT
+	 FACE="Arial"> </FONT></SPAN>\n\n<BR><SPAN LANG="en-us"><FONT FACE="Arial"
+	> </FONT></SPAN>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+CLASS:PUBLIC
+CREATED:20061017T011754Z
+DESCRIPTION:Hi Bryce!\n\nHow does this time work for you? If there's a half
+	 hour you like better this week\, just meeting request me!\n\nThanks\,\n--
+	Anna\n
+DTEND:20061018T190000Z
+DTSTAMP:20061017T011455Z
+DTSTART:20061018T183000Z
+LAST-MODIFIED:20061018T182447Z
+LOCATION:EH 303
+ORGANIZER;CN="Anna von Reden":invalid:nomail
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Writing Tutor Meeting
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEg8AAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT SIZE=2 FACE="Arial">Hi Bryce!</FONT>\n
+	</P>\n\n<P><FONT SIZE=2 FACE="Arial">How does this time work for you? If t
+	here's a half hour you like better this week\, just meeting request me!</F
+	ONT>\n</P>\n\n<P><FONT SIZE=2 FACE="Arial">Thanks\,</FONT>\n\n<BR><FONT SI
+	ZE=2 FACE="Arial">--Anna</FONT>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=pool@lists.olin.edu;RSVP=TRUE:mailto:pool@lists.olin.edu
+ATTENDEE;CN="Benjamin Small";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Benjamin
+	.Small@students.olin.edu
+ATTENDEE;CN="Avinash Uttamchandani";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:A
+	vinash.Uttamchandani@students.olin.edu
+ATTENDEE;CN="Roberto Santana";ROLE=OPT-PARTICIPANT;RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Andrea Striz";ROLE=OPT-PARTICIPANT;RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Joshua McCready";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Joshua.
+	McCready@students.olin.edu
+ATTENDEE;CN="Jonathan Cass";ROLE=OPT-PARTICIPANT;RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Clark McPheeters";ROLE=OPT-PARTICIPANT;RSVP=TRUE:invalid:nomai
+	l
+ATTENDEE;CN="Eric Erzinger";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Eric.Erzi
+	nger@students.olin.edu
+ATTENDEE;CN="Sandra Tran";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Sandra.Tran
+	@students.olin.edu
+CLASS:PUBLIC
+CREATED:20061016T201008Z
+DESCRIPTION:\nShit. \n\nSo I forgot that I'm going to watch Departed in the
+	 evening. So yeah. I totally forgot. Ugh. I'm sorry. I hope this time is s
+	till okay for people…\n\n-Hector \n\n\nYeah\, So I'm obviously tired and
+	 made the meeting for last Friday. Disregard that email lol. \n\n\nHello *
+	cough* GBS *cough* members\, \n\n        So\, it actually looks like we're
+	 going to have our first meeting. Woot! I'm kind of excited. I came across
+	 a catalog that was in the pool room and it looks like it has some pretty 
+	decent stuff. I didn't want to order anything without everyone's input and
+	 particular preferences for certain things (mostly the pool cues). \n\n   
+	     Now\, we have a decent amount of money (about 400-ish) for supplies t
+	hat we can get\, so let's use it efficiently and to our and the school's b
+	est interest. This meeting will be very short and mostly consist of everyo
+	ne looking through the catalog together and deciding which things they wan
+	t. We'll take votes if necessary but I'm pretty sure we'll all be able to 
+	come to a consensus about what to get.\n\nHere's what I'm planning on orde
+	ring: \n\n1 - Hot Ass Cue ball (since ours is chipped and lame) \n1 - 12 p
+	ack of GOOD cue chalk \n1 - Hand Chalk \n1 - Set of Ball/Cue Cleaning Mate
+	rials \n1 - Cue Reach Extension (for those of us who don't like using the 
+	bridge) \n1 - Complete Set of Official Rules for all billiard games \n6 to
+	 8 - Brand New Cues (This will probably have the most discussion) Also\, t
+	his depends on how expensive stuff is\, etc.\n\nPossibly\, maybe other thi
+	ngs to decorate the pool room such as a cool\, pool clock or something. \n
+	\nSuggestions\, comments and concerns can all be addressed at the meeting.
+	 \n\nPlease tell me if this time does not work out for you (or lots of you
+	) and I will happily change it\; I just thought we could meet after lunch 
+	or something.\n\nPlease\, please try to come to this brief meeting so that
+	 we can get lots of input from everyone to order some cool stuff.\n\nThank
+	s\, and I hope to see you there. \n\nYour Prez\, \n\nHector \n \n
+DTEND:20061021T020000Z
+DTSTAMP:20061020T215344Z
+DTSTART:20061021T013000Z
+LAST-MODIFIED:20061021T023236Z
+LOCATION:Pool Room (duh!)
+ORGANIZER;CN="Hector Lefbad":invalid:nomail
+PRIORITY:1
+SEQUENCE:2
+SUMMARY:[Pool] Canceled: Money\, money\, money... MONEY! Let's Use It
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEhAAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n<BR>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="
+	Arial">Shit.</FONT><FONT FACE="Arial"> </FONT></SPAN>\n</P>\n\n<P><SPAN LA
+	NG="en-us"><FONT SIZE=2 FACE="Arial">So I forgot that I'm going to watch D
+	eparted in the evening. So yeah. I totally forgot. Ugh. I'm sorry. I hope 
+	this time is still okay for people…</FONT></SPAN></P>\n\n<P><SPAN LANG="
+	en-us"><FONT SIZE=2 FACE="Arial">-Hector</FONT><FONT FACE="Arial"> </FONT>
+	</SPAN>\n</P>\n<BR>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="Arial">Yea
+	h\, So I'm obviously tired and made the meeting for last Friday. Disregard
+	 that email lol.</FONT><FONT FACE="Arial"> </FONT></SPAN>\n</P>\n<BR>\n\n<
+	P><SPAN LANG="en-us"><FONT SIZE=2 FACE="Arial">Hello<B> *cough*</B> GBS<B>
+	 *cough*</B> members\,</FONT><FONT FACE="Arial"> </FONT></SPAN>\n</P>\n\n<
+	P><SPAN LANG="en-us"><FONT FACE="Arial">        </FONT><FONT SIZE=2
+	 FACE="Arial">So\, it actually looks like we're going to have our first me
+	eting. Woot! I'm kind of excited. I came across a catalog that was in the 
+	pool room and it looks like it has some pretty decent stuff. I didn't want
+	 to order anything without everyone's input and particular preferences for
+	 certain things (mostly the pool cues).</FONT> </SPAN></P>\n\n<P><SPAN LAN
+	G="en-us"><FONT FACE="Arial">        </FONT><FONT SIZE=2 FACE="Aria
+	l">Now\, we have a decent amount of money (about 400-ish) for supplies tha
+	t we can get\, so let's use it efficiently and to our and the school's bes
+	t interest. This meeting will be very short and mostly consist of everyone
+	 looking through the catalog together and deciding which things they want.
+	 We'll take votes if necessary but I'm pretty sure we'll all be able to co
+	me to a consensus about what to get.</FONT></SPAN></P>\n\n<P><SPAN LANG="e
+	n-us"><FONT SIZE=2 FACE="Arial">Here's what I'm planning on ordering:</FON
+	T><FONT FACE="Arial"> </FONT></SPAN>\n</P>\n\n<P><SPAN LANG="en-us"><FONT 
+	SIZE=2 FACE="Arial">1 - Hot Ass Cue ball (since ours is chipped and lame)<
+	/FONT><FONT FACE="Arial"><BR>\n</FONT><FONT SIZE=2 FACE="Arial">1 - 12 pac
+	k of GOOD cue chalk</FONT><FONT FACE="Arial"><BR>\n</FONT><FONT SIZE=2 FAC
+	E="Arial">1 - Hand Chalk</FONT><FONT FACE="Arial"><BR>\n</FONT><FONT SIZE=
+	2 FACE="Arial">1 - Set of Ball/Cue Cleaning Materials</FONT><FONT FACE="Ar
+	ial"><BR>\n</FONT><FONT SIZE=2 FACE="Arial">1 - Cue Reach Extension (for t
+	hose of us who don't like using the bridge)</FONT><FONT FACE="Arial"><BR>\
+	n</FONT><FONT SIZE=2 FACE="Arial">1 - Complete Set of Official Rules for a
+	ll billiard games</FONT><FONT FACE="Arial"><BR>\n</FONT><FONT SIZE=2 FACE=
+	"Arial">6 to 8 - Brand New Cues (This will probably have the most discussi
+	on) Also\, this depends on how expensive stuff is\, etc.</FONT></SPAN></P>
+	\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="Arial">Possibly\, maybe other
+	 things to decorate the pool room such as a cool\, pool clock or something
+	.</FONT><FONT FACE="Arial"> </FONT></SPAN>\n</P>\n\n<P><SPAN LANG="en-us">
+	<FONT SIZE=2 FACE="Arial">Suggestions\, comments and concerns can all be a
+	ddressed at the meeting.</FONT> </SPAN>\n</P>\n\n<P><SPAN LANG="en-us"><FO
+	NT SIZE=2 FACE="Arial">Please tell me if this time does not work out for y
+	ou (or lots of you) and I will happily change it\; I just thought we could
+	 meet after lunch or something.</FONT></SPAN></P>\n\n<P><SPAN LANG="en-us"
+	><FONT SIZE=2 FACE="Arial">Please\, please try to come to this brief meeti
+	ng so that we can get lots of input from everyone to order some cool stuff
+	.</FONT></SPAN></P>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="Arial">Tha
+	nks\, and I hope to see you there.</FONT><FONT FACE="Arial"> </FONT></SPAN
+	>\n</P>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="Arial">Your Prez\,</FO
+	NT><FONT FACE="Arial"> </FONT></SPAN>\n</P>\n\n<P><SPAN LANG="en-us"><FONT
+	 SIZE=2 FACE="Arial">Hector</FONT><FONT FACE="Arial"> </FONT></SPAN>\n\n<B
+	R><SPAN LANG="en-us"><FONT FACE="Arial"> </FONT></SPAN>\n</P>\n\n</BODY>\n
+	</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:2
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=osa@lists.olin.edu;RSVP=TRUE:mailto:osa@lists.olin.edu
+ATTENDEE;CN=esw@lists.olin.edu;RSVP=TRUE:mailto:esw@lists.olin.edu
+CLASS:PUBLIC
+CREATED:20061018T012132Z
+DESCRIPTION:\nAs always\, feel free to forward to other people/groups that 
+	would be interested. \n \n
+DTEND:20061022T180000Z
+DTSTAMP:20061018T011709Z
+DTSTART:20061022T160000Z
+LAST-MODIFIED:20061022T164620Z
+LOCATION:Dining hall\, Upper Level
+ORGANIZER;CN="Matthew Ritter":mailto:Matthew.Ritter@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:[OSA] OSA Project Forum
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEhEAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n<BR>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="
+	Arial">As always\, feel free to forward to other people/groups that would 
+	be interested.</FONT><FONT FACE="Arial"> </FONT></SPAN>\n\n<BR><SPAN LANG=
+	"en-us"><FONT FACE="Arial"> </FONT></SPAN>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Jonathan Cass";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Andrea Striz";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Eric Erzinger";RSVP=TRUE:mailto:Eric.Erzinger@students.olin.ed
+	u
+ATTENDEE;CN="Clark McPheeters";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Sandra Tran";RSVP=TRUE:mailto:Sandra.Tran@students.olin.edu
+ATTENDEE;CN="Joshua McCready";RSVP=TRUE:mailto:Joshua.McCready@students.oli
+	n.edu
+ATTENDEE;CN="Roberto Santana";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Daniel Lin";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Avinash Uttamchandani";RSVP=TRUE:mailto:Avinash.Uttamchandani@
+	students.olin.edu
+ATTENDEE;CN="Benjamin Small";RSVP=TRUE:mailto:Benjamin.Small@students.olin.
+	edu
+ATTENDEE;CN=pool@lists.olin.edu;RSVP=TRUE:mailto:pool@lists.olin.edu
+CLASS:PUBLIC
+CREATED:20061022T172103Z
+DESCRIPTION:\nSo it looks like everyone is busy today so we shall meet tomo
+	rrow after/before dinner instead. \n\nHopefully this is a good time for ev
+	eryone. \n\nCya tomorrow!\, \n\nHector \n\nP.S. \n\nHere's an addition of 
+	what we'll talk about: a tournament between classes… \n\nHave classes co
+	mpete against each other such that for example: \n\nFreshmen vs Sophmores 
+	\nJuniors vs Seniors \nWinner vs Winner \n\n3 or 5 people from each class.
+	 When a person wins for the class\, they get one point. \nWhichever class 
+	has more points\, wins and advances to play the winner of the other classe
+	s. \nThis way just because there's a really good player in one class\, doe
+	sn't mean they're going to win. \nIt's basically up for grabs on any class
+	! \nBig Winner gets an ice cream party for their class \n\n\nHello *cough*
+	 GBS *cough* members\, \n\n        So\, it actually looks like we're going
+	 to have our first meeting. Woot! I'm kind of excited. I came across a cat
+	alog that was in the pool room and it looks like it has some pretty decent
+	 stuff. I didn't want to order anything without everyone's input and parti
+	cular preferences for certain things (mostly the pool cues). \n\n        N
+	ow\, we have a decent amount of money (about 400-ish) for supplies that we
+	 can get\, so let's use it efficiently and to our and the school's best in
+	terest. This meeting will be very short and mostly consist of everyone loo
+	king through the catalog together and deciding which things they want. We'
+	ll take votes if necessary but I'm pretty sure we'll all be able to come t
+	o a consensus about what to get.\n\nHere's what I'm planning on ordering: 
+	\n\n1 - Hot Ass Cue ball (since ours is chipped and lame) \n1 - 12 pack of
+	 GOOD cue chalk \n1 - Hand Chalk \n1 - Set of Ball/Cue Cleaning Materials 
+	\n1 - Cue Reach Extension (for those of us who don't like using the bridge
+	) \n1 - Complete Set of Official Rules for all billiard games \n6 to 8 - B
+	rand New Cues (This will probably have the most discussion) Also\, this de
+	pends on how expensive stuff is\, etc.\n\nPossibly\, maybe other things to
+	 decorate the pool room such as a cool\, pool clock or something. \n\nSugg
+	estions\, comments and concerns can all be addressed at the meeting. \n\nP
+	lease tell me if this time does not work out for you (or lots of you) and 
+	I will happily change it\; I just thought we could meet after lunch or som
+	ething.\n\nPlease\, please try to come to this brief meeting so that we ca
+	n get lots of input from everyone to order some cool stuff.\n\nThanks\, an
+	d I hope to see you there. \n\nYour Prez\, \n\nHector \n \n
+DTEND:20061022T230000Z
+DTSTAMP:20061021T200829Z
+DTSTART:20061022T223000Z
+LAST-MODIFIED:20061022T221547Z
+LOCATION:The Pool Room
+ORGANIZER;CN="Hector Lefbad":invalid:nomail
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:[Pool] Pool Meeting Take Two
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEhIAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n<BR>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="
+	Arial">So it looks like everyone is busy today so we shall meet tomorrow a
+	fter/before dinner instead.</FONT><FONT FACE="Arial"> </FONT></SPAN>\n</P>
+	\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="Arial">Hopefully this is a go
+	od time for everyone.</FONT><FONT FACE="Arial"> </FONT></SPAN>\n</P>\n\n<P
+	><SPAN LANG="en-us"><FONT SIZE=2 FACE="Arial">Cya tomorrow!\,</FONT><FONT 
+	FACE="Arial"> </FONT></SPAN>\n</P>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 F
+	ACE="Arial">Hector</FONT><FONT FACE="Arial"> </FONT></SPAN>\n</P>\n\n<P><S
+	PAN LANG="en-us"><FONT SIZE=2 FACE="Arial">P.S.</FONT><FONT FACE="Arial"> 
+	</FONT></SPAN>\n</P>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="Arial">He
+	re's an addition of what we'll talk about: a tournament between classes…
+	</FONT><FONT FACE="Arial"> </FONT></SPAN>\n</P>\n\n<P><SPAN LANG="en-us"><
+	FONT SIZE=2 FACE="Arial">Have classes compete against each other such that
+	 for example:</FONT><FONT FACE="Arial"> </FONT></SPAN>\n</P>\n\n<P><SPAN L
+	ANG="en-us"><FONT SIZE=2 FACE="Arial">Freshmen vs Sophmores</FONT><FONT FA
+	CE="Arial"><BR>\n</FONT><FONT SIZE=2 FACE="Arial">Juniors vs Seniors</FONT
+	><FONT FACE="Arial"><BR>\n</FONT><FONT SIZE=2 FACE="Arial">Winner vs Winne
+	r</FONT><FONT FACE="Arial"> </FONT></SPAN>\n</P>\n\n<P><SPAN LANG="en-us">
+	<FONT SIZE=2 FACE="Arial">3 or 5 people from each class. When a person win
+	s for the class\, they get one point.</FONT><FONT FACE="Arial"><BR>\n</FON
+	T><FONT SIZE=2 FACE="Arial">Whichever class has more points\, wins and adv
+	ances to play the winner of the other classes.</FONT><FONT FACE="Arial"><B
+	R>\n</FONT><FONT SIZE=2 FACE="Arial">This way just because there's a reall
+	y good player in one class\, doesn't mean they're going to win.</FONT><FON
+	T FACE="Arial"><BR>\n</FONT><FONT SIZE=2 FACE="Arial">It's basically up fo
+	r grabs on any class!</FONT><FONT FACE="Arial"><BR>\n</FONT><FONT SIZE=2 F
+	ACE="Arial">Big Winner gets an ice cream party for their class</FONT><FONT
+	 FACE="Arial"> </FONT></SPAN>\n</P>\n<BR>\n\n<P><SPAN LANG="en-us"><FONT S
+	IZE=2 FACE="Arial">Hello<B> *cough*</B> GBS<B> *cough*</B> members\,</FONT
+	><FONT FACE="Arial"> </FONT></SPAN>\n</P>\n\n<P><SPAN LANG="en-us"><FONT F
+	ACE="Arial">        </FONT><FONT SIZE=2 FACE="Arial">So\, it actual
+	ly looks like we're going to have our first meeting. Woot! I'm kind of exc
+	ited. I came across a catalog that was in the pool room and it looks like 
+	it has some pretty decent stuff. I didn't want to order anything without e
+	veryone's input and particular preferences for certain things (mostly the 
+	pool cues).</FONT> </SPAN></P>\n\n<P><SPAN LANG="en-us"><FONT FACE="Arial"
+	>        </FONT><FONT SIZE=2 FACE="Arial">Now\, we have a decent am
+	ount of money (about 400-ish) for supplies that we can get\, so let's use 
+	it efficiently and to our and the school's best interest. This meeting wil
+	l be very short and mostly consist of everyone looking through the catalog
+	 together and deciding which things they want. We'll take votes if necessa
+	ry but I'm pretty sure we'll all be able to come to a consensus about what
+	 to get.</FONT></SPAN></P>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="Ari
+	al">Here's what I'm planning on ordering:</FONT><FONT FACE="Arial"> </FONT
+	></SPAN>\n</P>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="Arial">1 - Hot 
+	Ass Cue ball (since ours is chipped and lame)</FONT><FONT FACE="Arial"><BR
+	>\n</FONT><FONT SIZE=2 FACE="Arial">1 - 12 pack of GOOD cue chalk</FONT><F
+	ONT FACE="Arial"><BR>\n</FONT><FONT SIZE=2 FACE="Arial">1 - Hand Chalk</FO
+	NT><FONT FACE="Arial"><BR>\n</FONT><FONT SIZE=2 FACE="Arial">1 - Set of Ba
+	ll/Cue Cleaning Materials</FONT><FONT FACE="Arial"><BR>\n</FONT><FONT SIZE
+	=2 FACE="Arial">1 - Cue Reach Extension (for those of us who don't like us
+	ing the bridge)</FONT><FONT FACE="Arial"><BR>\n</FONT><FONT SIZE=2 FACE="A
+	rial">1 - Complete Set of Official Rules for all billiard games</FONT><FON
+	T FACE="Arial"><BR>\n</FONT><FONT SIZE=2 FACE="Arial">6 to 8 - Brand New C
+	ues (This will probably have the most discussion) Also\, this depends on h
+	ow expensive stuff is\, etc.</FONT></SPAN></P>\n\n<P><SPAN LANG="en-us"><F
+	ONT SIZE=2 FACE="Arial">Possibly\, maybe other things to decorate the pool
+	 room such as a cool\, pool clock or something.</FONT><FONT FACE="Arial"> 
+	</FONT></SPAN>\n</P>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="Arial">Su
+	ggestions\, comments and concerns can all be addressed at the meeting.</FO
+	NT> </SPAN>\n</P>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="Arial">Pleas
+	e tell me if this time does not work out for you (or lots of you) and I wi
+	ll happily change it\; I just thought we could meet after lunch or somethi
+	ng.</FONT></SPAN></P>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="Arial">P
+	lease\, please try to come to this brief meeting so that we can get lots o
+	f input from everyone to order some cool stuff.</FONT></SPAN></P>\n\n<P><S
+	PAN LANG="en-us"><FONT SIZE=2 FACE="Arial">Thanks\, and I hope to see you 
+	there.</FONT><FONT FACE="Arial"> </FONT></SPAN>\n</P>\n\n<P><SPAN LANG="en
+	-us"><FONT SIZE=2 FACE="Arial">Your Prez\,</FONT><FONT FACE="Arial"> </FON
+	T></SPAN>\n</P>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="Arial">Hector<
+	/FONT><FONT FACE="Arial"> </FONT></SPAN>\n\n<BR><SPAN LANG="en-us"><FONT F
+	ACE="Arial"> </FONT></SPAN>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=esw@lists.olin.edu;RSVP=TRUE:mailto:esw@lists.olin.edu
+CLASS:PUBLIC
+CREATED:20061021T145918Z
+DESCRIPTION:\nSee Not's e-mail. \n \n
+DTEND:20061023T010000Z
+DTSTAMP:20061021T145540Z
+DTSTART:20061023T000000Z
+LAST-MODIFIED:20061022T234919Z
+LOCATION:Crescent Room (Probably)
+ORGANIZER;CN="Benjamin Salinas":mailto:Benjamin.Salinas@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:[ESW] ESW Meeting
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEhMAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n<BR>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="
+	Arial">See Not's e-mail.</FONT><FONT FACE="Arial"> </FONT></SPAN>\n\n<BR><
+	SPAN LANG="en-us"><FONT FACE="Arial"> </FONT></SPAN>\n</P>\n\n</BODY>\n</H
+	TML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=osa@lists.olin.edu;RSVP=TRUE:mailto:osa@lists.olin.edu
+CLASS:PUBLIC
+CREATED:20061026T035112Z
+DESCRIPTION:\nThere are tons of Awesome things going on right now. \n\nAt t
+	he start of the meeting\, we will discuss the One campaign (www.one.org) a
+	s well as the UN Millenium Development Goals.  There is a decent 7 minute 
+	video on these goals at http://www.one.org/gvideo/view/16.  Take 7 minutes
+	 to watch that.\n\nCome and help design awesome.olin.edu and help with an 
+	on campus awareness campaign (Awesome@Olin) \n\nAgenda: \n\nDiscuss One Ca
+	mpaign and UN MDGs (15-20 minutes) \nDiscuss Awesome@Olin\, an on campus a
+	wareness campaign (15 minutes) \nDiscuss awesome.olin.edu (15 minutes) \nD
+	iscuss any other projects that people are looking for help with (10-15 min
+	utes) \n\n\nWe might be in need of some people to drive Wellesley students
+	 from Wellesley to Olin (and back) on Wednesday for the mixer.  If you can
+	 help with this\, please contact me.  If you would like to help plan the m
+	ixer\, please talk to me as well (or if you want to bake cookies or someth
+	ing else).  Bennett and I were at a meeting at Wellesley today\, and it so
+	unds as though we are going to have a fair number of people from outside o
+	f Olin attending.  It should be Awesome.\n\n
+DTEND:20061030T000000Z
+DTSTAMP:20061026T034507Z
+DTSTART:20061029T230000Z
+LAST-MODIFIED:20061030T051443Z
+LOCATION:Crescent Room
+ORGANIZER;CN="Benjamin Salinas":mailto:Benjamin.Salinas@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:[OSA] General OSA Meeting
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEhQAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n<BR>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="
+	Arial">There are tons of Awesome things going on right now.</FONT><FONT FA
+	CE="Arial"> </FONT></SPAN>\n</P>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FAC
+	E="Arial">At the start of the meeting\, we will discuss the One campaign (
+	</FONT></SPAN><A HREF="file://www.one.org"><SPAN LANG="en-us"><U><FONT COL
+	OR="#0000FF" SIZE=2 FACE="Arial">www.one.org</FONT></U></SPAN></A><SPAN LA
+	NG="en-us"><FONT SIZE=2 FACE="Arial">) as well as the UN Millenium Develop
+	ment Goals.  There is a decent 7 minute video on these goals at </FONT></
+	SPAN><A HREF="http://www.one.org/gvideo/view/16. "><SPAN LANG="en-us"><U>
+	<FONT COLOR="#0000FF" SIZE=2 FACE="Arial">http://www.one.org/gvideo/view/1
+	6. </FONT></U></SPAN></A><SPAN LANG="en-us"><FONT SIZE=2 FACE="Arial"> Ta
+	ke 7 minutes to watch that.</FONT></SPAN></P>\n\n<P><SPAN LANG="en-us"><FO
+	NT SIZE=2 FACE="Arial">Come and help design awesome.olin.edu and help with
+	 an on campus awareness campaign (Awesome@Olin)</FONT><FONT FACE="Arial"> 
+	</FONT></SPAN>\n</P>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="Arial">Ag
+	enda:</FONT><FONT FACE="Arial"> </FONT></SPAN>\n</P>\n\n<P><SPAN LANG="en-
+	us"><FONT SIZE=2 FACE="Arial">Discuss One Campaign and UN MDGs (15-20 minu
+	tes)</FONT><FONT FACE="Arial"><BR>\n</FONT><FONT SIZE=2 FACE="Arial">Discu
+	ss Awesome@Olin\, an on campus awareness campaign (15 minutes)</FONT><FONT
+	 FACE="Arial"><BR>\n</FONT><FONT SIZE=2 FACE="Arial">Discuss awesome.olin.
+	edu (15 minutes)</FONT><FONT FACE="Arial"><BR>\n</FONT><FONT SIZE=2 FACE="
+	Arial">Discuss any other projects that people are looking for help with (1
+	0-15 minutes)</FONT><FONT FACE="Arial"> </FONT></SPAN>\n</P>\n<BR>\n\n<P><
+	SPAN LANG="en-us"><FONT SIZE=2 FACE="Arial">We might be in need of some pe
+	ople to drive Wellesley students from Wellesley to Olin (and back) on Wedn
+	esday for the mixer.  If you can help with this\, please contact me.  If
+	 you would like to help plan the mixer\, please talk to me as well (or if 
+	you want to bake cookies or something else).  Bennett and I were at a mee
+	ting at Wellesley today\, and it sounds as though we are going to have a f
+	air number of people from outside of Olin attending.  It should be Awesom
+	e.</FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=osa@lists.olin.edu;RSVP=TRUE:mailto:osa@lists.olin.edu
+ATTENDEE;CN=esw@lists.olin.edu;RSVP=TRUE:mailto:esw@lists.olin.edu
+CLASS:PUBLIC
+CREATED:20061028T192623Z
+DESCRIPTION:\nI have recently met a man who works with the Full Belly Proje
+	ct (www.fullbellyproject.org) which is an organization that makes and dist
+	ributes peanut shellers.  We spoke for an hour\, and he mentioned how lots
+	 of people have come to them with problems and potential projects\, but th
+	ey don't have the resources to solve these problems.  I mentioned that man
+	y (engineering/business) college students are looking for a real way to ma
+	ke a difference in the world.  He suggested that we start a consortium of 
+	students/student chapters which would work on project like these.  It is s
+	till in its infancy\, however there looks to be promise in this project.  
+	Once we have something on paper\, we are planning on working with Squid La
+	bs (http://squid-labs.com/)\, who created Instructables (http://www.instru
+	ctables.com/).\n\nI'd like to have a short brainstorming meeting on how be
+	st this program should be implemented. \n \n
+DTEND:20061101T030000Z
+DTSTAMP:20061028T155256Z
+DTSTART:20061101T020000Z
+LAST-MODIFIED:20061101T014732Z
+LOCATION:AC109
+ORGANIZER;CN="Benjamin Salinas":mailto:Benjamin.Salinas@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:[ESW] Help Design the Open Source Appropriate Techno
+	logy Consortium
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEhUAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n<BR>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="
+	Arial">I have recently met a man who works with the Full Belly Project (ww
+	w.fullbellyproject.org) which is an organization that makes and distribute
+	s peanut shellers.  We spoke for an hour\, and he mentioned how lots of p
+	eople have come to them with problems and potential projects\, but they do
+	n't have the resources to solve these problems.  I mentioned that many (e
+	ngineering/business) college students are looking for a real way to make a
+	 difference in the world.  He suggested that we start a consortium of stu
+	dents/student chapters which would work on project like these.  It is sti
+	ll in its infancy\, however there looks to be promise in this project.  O
+	nce we have something on paper\, we are planning on working with Squid Lab
+	s (<A HREF="http://squid-labs.com/">http://squid-labs.com/</A>)\, who crea
+	ted Instructables (<A HREF="http://www.instructables.com/">http://www.inst
+	ructables.com/</A>).</FONT></SPAN></P>\n\n<P><SPAN LANG="en-us"><FONT SIZE
+	=2 FACE="Arial">I'd like to have a short brainstorming meeting on how best
+	 this program should be implemented.</FONT><FONT FACE="Arial"> </FONT></SP
+	AN>\n\n<BR><SPAN LANG="en-us"><FONT FACE="Arial"> </FONT></SPAN>\n</P>\n\n
+	</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Alex Trazkovich";RSVP=TRUE:mailto:Alex.Trazkovich@students.oli
+	n.edu
+ATTENDEE;CN="Alexander Jones";RSVP=TRUE:mailto:Alexander.Jones@students.oli
+	n.edu
+ATTENDEE;CN="Alyshia Olsen";RSVP=TRUE:mailto:Alyshia.Olsen@students.olin.ed
+	u
+ATTENDEE;CN="Amanda Pratt";RSVP=TRUE:mailto:Amanda.Pratt@students.olin.edu
+ATTENDEE;CN="Amy Dyer";RSVP=TRUE:mailto:Amy.Dyer@students.olin.edu
+ATTENDEE;CN="Amy Gao";RSVP=TRUE:mailto:Amy.Gao@students.olin.edu
+ATTENDEE;CN="Andrew Barry";RSVP=TRUE:mailto:Andrew.Barry@students.olin.edu
+ATTENDEE;CN="Andrew Pethan";RSVP=TRUE:mailto:Andrew.Pethan@students.olin.ed
+	u
+ATTENDEE;CN="Annie Martin";RSVP=TRUE:mailto:Annie.Martin@students.olin.edu
+ATTENDEE;CN="Ashley Banks";RSVP=TRUE:mailto:Ashley.Banks@students.olin.edu
+ATTENDEE;CN="Avinash Uttamchandani";RSVP=TRUE:mailto:Avinash.Uttamchandani@
+	students.olin.edu
+ATTENDEE;CN="Benjamin Fisher";RSVP=TRUE:mailto:Benjamin.Fisher@students.oli
+	n.edu
+ATTENDEE;CN="Benjamin Small";RSVP=TRUE:mailto:Benjamin.Small@students.olin.
+	edu
+ATTENDEE;CN="Bradley Powers";RSVP=TRUE:mailto:Bradley.Powers@students.olin.
+	edu
+ATTENDEE;CN="Brian Fahrenbach";RSVP=TRUE:mailto:Brian.Fahrenbach@students.o
+	lin.edu
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+ATTENDEE;CN="Casey Canfield";RSVP=TRUE:mailto:Casey.Canfield@students.olin.
+	edu
+ATTENDEE;CN="Christina Nguyen";RSVP=TRUE:mailto:Christina.Nguyen@students.o
+	lin.edu
+ATTENDEE;CN="Chujiao Ma";RSVP=TRUE:mailto:Chujiao.Ma@students.olin.edu
+ATTENDEE;CN="Daniel Sotingco";RSVP=TRUE:mailto:Daniel.Sotingco@students.oli
+	n.edu
+ATTENDEE;CN="David Stamp";RSVP=TRUE:mailto:David.Stamp@students.olin.edu
+ATTENDEE;CN="Derek Thurmer";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Elizabeth Hogan";RSVP=TRUE:mailto:Elizabeth.Hogan@students.oli
+	n.edu
+ATTENDEE;CN="Ellen Chisa";RSVP=TRUE:mailto:Ellen.Chisa@students.olin.edu
+ATTENDEE;CN="Emanuel Towns";RSVP=TRUE:mailto:Emanuel.Towns@students.olin.ed
+	u
+ATTENDEE;CN="Eric Erzinger";RSVP=TRUE:mailto:Eric.Erzinger@students.olin.ed
+	u
+ATTENDEE;CN="Eric Hwang";RSVP=TRUE:mailto:Eric.Hwang@students.olin.edu
+ATTENDEE;CN="Erik Kennedy";RSVP=TRUE:mailto:Erik.Kennedy@students.olin.edu
+ATTENDEE;CN="Erika Boeing";RSVP=TRUE:mailto:Erika.Boeing@students.olin.edu
+ATTENDEE;CN="Evan Morikawa";RSVP=TRUE:mailto:Evan.Morikawa@students.olin.ed
+	u
+ATTENDEE;CN="Garrett Rodrigues";RSVP=TRUE:mailto:Garrett.Rodrigues@students
+	.olin.edu
+ATTENDEE;CN="George Sass";RSVP=TRUE:mailto:George.Sass@students.olin.edu
+ATTENDEE;CN="Giulia Fanti";RSVP=TRUE:mailto:Giulia.Fanti@students.olin.edu
+ATTENDEE;CN="Gregory Marra";RSVP=TRUE:mailto:Gregory.Marra@students.olin.ed
+	u
+ATTENDEE;CN="Heena Mutha";RSVP=TRUE:mailto:Heena.Mutha@students.olin.edu
+ATTENDEE;CN="Hermes Taylor-Weiner";RSVP=TRUE:mailto:Hermes.Taylor-Weiner@st
+	udents.olin.edu
+ATTENDEE;CN="Ilari Shafer";RSVP=TRUE:mailto:Ilari.Shafer@students.olin.edu
+ATTENDEE;CN="James Getzendanner";RSVP=TRUE:mailto:James.Getzendanner@studen
+	ts.olin.edu
+ATTENDEE;CN="James Switzer";RSVP=TRUE:mailto:James.Switzer@students.olin.ed
+	u
+ATTENDEE;CN="Jared Barrow";RSVP=TRUE:mailto:Jared.Barrow@students.olin.edu
+ATTENDEE;CN="Jeffrey Moore";RSVP=TRUE:mailto:Jeffrey.Moore@students.olin.ed
+	u
+ATTENDEE;CN="Jeffrey Stanton";RSVP=TRUE:mailto:Jeffrey.Stanton@students.oli
+	n.edu
+ATTENDEE;CN="Jennifer Cross";RSVP=TRUE:mailto:Jennifer.Cross@students.olin.
+	edu
+ATTENDEE;CN="Jennifer Keene";RSVP=TRUE:mailto:Jennifer.Keene@students.olin.
+	edu
+ATTENDEE;CN="Jessica Murray";RSVP=TRUE:mailto:Jessica.Murray@students.olin.
+	edu
+ATTENDEE;CN="Jillian Kiser";RSVP=TRUE:mailto:Jillian.Kiser@students.olin.ed
+	u
+ATTENDEE;CN="Jonathan Inman";RSVP=TRUE:mailto:Jonathan.Inman@students.olin.
+	edu
+ATTENDEE;CN="Joseph Funke";RSVP=TRUE:mailto:Joseph.Funke@students.olin.edu
+ATTENDEE;CN="Joseph Student";RSVP=TRUE:mailto:Joseph.Student@students.olin.
+	edu
+ATTENDEE;CN="Joshua McCready";RSVP=TRUE:mailto:Joshua.McCready@students.oli
+	n.edu
+ATTENDEE;CN="Julie Baca";RSVP=TRUE:mailto:Julie.Baca@students.olin.edu
+ATTENDEE;CN="Katarina Miller";RSVP=TRUE:mailto:Katarina.Miller@students.oli
+	n.edu
+ATTENDEE;CN="Katherine Elliott";RSVP=TRUE:mailto:Katherine.Elliott@students
+	.olin.edu
+ATTENDEE;CN="Kiralyse Gonzalez";RSVP=TRUE:mailto:Kiralyse.Gonzalez@students
+	.olin.edu
+ATTENDEE;CN="Leah Engelbert-Fenton";RSVP=TRUE:mailto:Leah.Engelbert-Fenton@
+	students.olin.edu
+ATTENDEE;CN="Leslie Gerhat";RSVP=TRUE:mailto:Leslie.Gerhat@students.olin.ed
+	u
+ATTENDEE;CN="Logan Dethrow";RSVP=TRUE:mailto:Logan.Dethrow@students.olin.ed
+	u
+ATTENDEE;CN="Luis Gutierrez";RSVP=TRUE:mailto:Luis.Gutierrez@students.olin.
+	edu
+ATTENDEE;CN="Maia Bittner";RSVP=TRUE:mailto:Maia.Bittner@students.olin.edu
+ATTENDEE;CN="Marc Sweetgall";RSVP=TRUE:mailto:Marc.Sweetgall@students.olin.
+	edu
+ATTENDEE;CN="Marco Morales";RSVP=TRUE:mailto:Marco.Morales@students.olin.ed
+	u
+ATTENDEE;CN="Martina Balestra";RSVP=TRUE:mailto:Martina.Balestra@students.o
+	lin.edu
+ATTENDEE;CN="Mary Germino";RSVP=TRUE:mailto:Mary.Germino@students.olin.edu
+ATTENDEE;CN="Matthew Bowes";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Melissa Yu";RSVP=TRUE:mailto:Melissa.Yu@students.olin.edu
+ATTENDEE;CN="Michael Hughes";RSVP=TRUE:mailto:Michael.Hughes@students.olin.
+	edu
+ATTENDEE;CN="Michael Riccobono";RSVP=TRUE:mailto:Michael.Riccobono@students
+	.olin.edu
+ATTENDEE;CN="Michael Roenbeck";RSVP=TRUE:mailto:Michael.Roenbeck@students.o
+	lin.edu
+ATTENDEE;CN="Michael Taylor";RSVP=TRUE:mailto:Michael.Taylor@students.olin.
+	edu
+ATTENDEE;CN="Morgan Boes";RSVP=TRUE:mailto:Morgan.Boes@students.olin.edu
+ATTENDEE;CN="Nicole Lee";RSVP=TRUE:mailto:Nicole.Lee@students.olin.edu
+ATTENDEE;CN="Nina Sawhney";RSVP=TRUE:mailto:Nina.Sawhney@students.olin.edu
+ATTENDEE;CN="Pamela Darvirris";RSVP=TRUE:mailto:Pamela.Darvirris@students.o
+	lin.edu
+ATTENDEE;CN="Rachel Nancollas";RSVP=TRUE:mailto:Rachel.Nancollas@students.o
+	lin.edu
+ATTENDEE;CN="Raghu Rangan";RSVP=TRUE:mailto:Raghu.Rangan@students.olin.edu
+ATTENDEE;CN="Rebecca Belisle";RSVP=TRUE:mailto:Rebecca.Belisle@students.oli
+	n.edu
+ATTENDEE;CN="Roland Crosby";RSVP=TRUE:mailto:Roland.Crosby@students.olin.ed
+	u
+ATTENDEE;CN="Ryan Mitchell";RSVP=TRUE:mailto:Ryan.Mitchell@students.olin.ed
+	u
+ATTENDEE;CN="Sandra Tran";RSVP=TRUE:mailto:Sandra.Tran@students.olin.edu
+ATTENDEE;CN="Sarah Allen";RSVP=TRUE:mailto:Sarah.Allen@students.olin.edu
+ATTENDEE;CN="Sarah M. Zimmermann";RSVP=TRUE:mailto:Sarah.Zimmermann@student
+	s.olin.edu
+ATTENDEE;CN="Spencer Backus";RSVP=TRUE:mailto:Spencer.Backus@students.olin.
+	edu
+ATTENDEE;CN="Stefan Wolpert";RSVP=TRUE:mailto:Stefan.Wolpert@students.olin.
+	edu
+ATTENDEE;CN="Tatiana Green";RSVP=TRUE:mailto:Tatiana.Green@students.olin.ed
+	u
+ATTENDEE;CN="Victoria Hsiao";RSVP=TRUE:mailto:Victoria.Hsiao@students.olin.
+	edu
+ATTENDEE;CN="William Dvorak";RSVP=TRUE:mailto:William.Dvorak@students.olin.
+	edu
+ATTENDEE;CN="Yifan Sun";RSVP=TRUE:mailto:Yifan.Sun@students.olin.edu
+ATTENDEE;CN="Zachary Coburn";RSVP=TRUE:mailto:Zachary.Coburn@students.olin.
+	edu
+ATTENDEE;CN="Zachary Kratzer";RSVP=TRUE:mailto:Zachary.Kratzer@students.oli
+	n.edu
+ATTENDEE;CN="Zachary Newell";RSVP=TRUE:mailto:Zachary.Newell@students.olin.
+	edu
+CLASS:PUBLIC
+CREATED:20061031T065340Z
+DESCRIPTION:Here's the meeting request. Yay Outlook!!\n
+DTEND:20061103T224500Z
+DTSTAMP:20061031T051643Z
+DTSTART:20061103T221500Z
+LAST-MODIFIED:20061103T221420Z
+LOCATION:OC Stairway
+ORGANIZER;CN="Jeffrey Moore":mailto:Jeffrey.Moore@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Smashing Pumpkins
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEhYAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT SIZE=2 FACE="Arial">Here's the meeting
+	 request. Yay Outlook!!</FONT>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=osa@lists.olin.edu;RSVP=TRUE:mailto:osa@lists.olin.edu
+CLASS:PUBLIC
+CREATED:20061102T071905Z
+DESCRIPTION:\nCome talk about projects.  There are lots of cool ones going 
+	on.  I promise. \n\nAnd now it has the correct date\, because Outlook pwne
+	d me. \n\n
+DTEND:20061105T190000Z
+DTSTAMP:20061102T064756Z
+DTSTART:20061105T170000Z
+LAST-MODIFIED:20061105T164552Z
+LOCATION:Dining Hall Mezzanine
+ORGANIZER;CN="Benjamin Salinas":mailto:Benjamin.Salinas@students.olin.edu
+PRIORITY:5
+SEQUENCE:1
+SUMMARY;LANGUAGE=en-us:[OSA] Updated: Project Forum
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEhcAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n<BR>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="
+	Arial">Come talk about projects.  There are lots of cool ones going on. 
+	 I promise.</FONT><FONT FACE="Arial"> </FONT></SPAN>\n</P>\n\n<P><SPAN LAN
+	G="en-us"><FONT SIZE=2 FACE="Arial">And now it has the correct date\, beca
+	use Outlook pwned me.</FONT><FONT FACE="Arial"> </FONT></SPAN>\n</P>\n\n</
+	BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20061103T162529Z
+DTEND:20061108T183000Z
+DTSTAMP:20100218T160554Z
+DTSTART:20061108T180000Z
+LAST-MODIFIED:20061108T184004Z
+LOCATION:idk
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Advisor meeting
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEhgAAA==
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Annie Martin";RSVP=TRUE:mailto:Annie.Martin@students.olin.edu
+ATTENDEE;CN="Erika Boeing";RSVP=TRUE:mailto:Erika.Boeing@students.olin.edu
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+CLASS:PUBLIC
+CREATED:20061127T045144Z
+DESCRIPTION:Hey all\,\nI think that a meeting tomorrow before our design re
+	view would be in order.  Does this time work for everyone?  We basically n
+	eed to put together a short presentation\, and powerpoint with slides illu
+	strating our 1) solidworks model\, 2) general circuit\, 3) plans for vibra
+	tion\, 4) future plans and building our prototype.  This might not take a 
+	whole hour\, but it'll be a while.\n-Amy\n
+DTEND:20061127T200000Z
+DTSTAMP:20061127T004959Z
+DTSTART:20061127T190000Z
+LAST-MODIFIED:20061127T185254Z
+LOCATION:WH 2nd floor lounge
+ORGANIZER;CN="Amy Gao":mailto:Amy.Gao@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Walker Meeting
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEhkAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT COLOR="#FF00FF" FACE="Georgia">Hey all
+	\,</FONT>\n\n<BR><FONT COLOR="#FF00FF" FACE="Georgia">I think that a meeti
+	ng tomorrow before our design review would be in order.&nbsp\; Does this t
+	ime work for everyone?&nbsp\; We basically need to put together a short pr
+	esentation\, and powerpoint with slides illustrating our 1) solidworks mod
+	el\, 2) general circuit\, 3) plans for vibration\, 4) future plans and bui
+	lding our prototype.&nbsp\; This might not take a whole hour\, but it'll b
+	e a while.</FONT></P>\n\n<P><FONT COLOR="#FF00FF" FACE="Georgia">-Amy</FON
+	T>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+ATTENDEE;CN="Annie Martin";RSVP=TRUE:mailto:Annie.Martin@students.olin.edu
+ATTENDEE;CN="Erika Boeing";RSVP=TRUE:mailto:Erika.Boeing@students.olin.edu
+CLASS:PUBLIC
+CREATED:20061202T181032Z
+DESCRIPTION:Hey all\, \nHopefully we can plan on finishing our prototype to
+	day?  We are really far behind schedule and really do need to get this don
+	e and figure out anything that we may have to fix.  If we could do it all 
+	today\, that'd be great!  Erika and I took care of the circuit for the mos
+	t part yesterday\, and just need to solder the parts onto the board.  Othe
+	rwise\, we have a walker to build!\n-Amy\n
+DTEND:20061203T030000Z
+DTSTAMP:20061202T180400Z
+DTSTART:20061203T000000Z
+LAST-MODIFIED:20061202T234610Z
+LOCATION:DN studio
+ORGANIZER;CN="Amy Gao":mailto:Amy.Gao@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Work on Walker
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEhoAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT COLOR="#FF00FF" FACE="Georgia">Hey all
+	\, </FONT>\n\n<BR><FONT COLOR="#FF00FF" FACE="Georgia">Hopefully we can pl
+	an on finishing our prototype today?&nbsp\; We are really far behind sched
+	ule and really do need to get this done and figure out anything that we ma
+	y have to fix.&nbsp\; If we could do it all today\, that'd be great!&nbsp\
+	; Erika and I took care of the circuit for the most part yesterday\, and j
+	ust need to solder the parts onto the board.&nbsp\; Otherwise\, we have a 
+	walker to build!</FONT></P>\n\n<P><FONT COLOR="#FF00FF" FACE="Georgia">-Am
+	y</FONT>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Amy Gao";RSVP=TRUE:mailto:Amy.Gao@students.olin.edu
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+ATTENDEE;CN="Annie Martin";RSVP=TRUE:mailto:Annie.Martin@students.olin.edu
+CLASS:PUBLIC
+CREATED:20061203T231402Z
+DTEND:20061204T050000Z
+DTSTAMP:20061203T230150Z
+DTSTART:20061204T030000Z
+LAST-MODIFIED:20061204T045043Z
+LOCATION:AC 209
+ORGANIZER;CN="Erika Boeing":mailto:Erika.Boeing@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Walker Meeting
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEhsAAA==
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+CLASS:PUBLIC
+CREATED:20061208T040723Z
+DESCRIPTION:So I'm schedule filling.  Want to go?\n
+DTEND:20061208T210000Z
+DTSTAMP:20061208T040421Z
+DTSTART:20061208T200000Z
+LAST-MODIFIED:20061208T222303Z
+LOCATION:WH 1st floor anti-lounge
+ORGANIZER;CN="Kiralyse Gonzalez":mailto:Kiralyse.Gonzalez@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Smoothie Run?
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEhwAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT SIZE=2 FACE="Arial">So I'm schedule fi
+	lling.&nbsp\; Want to go?</FONT>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Zachary Kratzer";RSVP=TRUE:mailto:Zachary.Kratzer@students.oli
+	n.edu
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+ATTENDEE;CN="Andrew Pethan";RSVP=TRUE:mailto:Andrew.Pethan@students.olin.ed
+	u
+CLASS:PUBLIC
+CREATED:20061210T023402Z
+DTEND:20061209T233000Z
+DTSTAMP:20061209T205521Z
+DTSTART:20061209T230000Z
+LAST-MODIFIED:20061210T023402Z
+LOCATION:Library\, downstairs
+ORGANIZER;CN="Zachary Coburn":mailto:Zachary.Coburn@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:History of Technology meeting
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEh0AAA==
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=osa@lists.olin.edu;RSVP=TRUE:mailto:osa@lists.olin.edu
+CLASS:PUBLIC
+CREATED:20061208T151456Z
+DESCRIPTION:\nSo the CCO meeting is coming up\, and OSA needs to ask for mo
+	re money.  In order to do this\, we need to figure out exactly (or roughly
+	) what we would like to do next semester.  If you have ideas\, or want to 
+	hear ideas\, come to this meeting!\n\nAlternatively\, if you want to do so
+	mething\, but can't make the meeting\, let me know. \n \n
+DTEND:20061210T183000Z
+DTSTAMP:20061208T150132Z
+DTSTART:20061210T170000Z
+LAST-MODIFIED:20061210T164531Z
+LOCATION:Dining Hall Mezzanine
+ORGANIZER;CN="Benjamin Salinas":mailto:Benjamin.Salinas@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:[OSA] OSA Planning+Budget Meeting
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEh4AAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n<BR>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="
+	Arial">So the CCO meeting is coming up\, and OSA needs to ask for more mon
+	ey.  In order to do this\, we need to figure out exactly (or roughly) wha
+	t we would like to do next semester.  If you have ideas\, or want to hear
+	 ideas\, come to this meeting!</FONT></SPAN></P>\n\n<P><SPAN LANG="en-us">
+	<FONT SIZE=2 FACE="Arial">Alternatively\, if you want to do something\, bu
+	t can't make the meeting\, let me know.</FONT><FONT FACE="Arial"> </FONT><
+	/SPAN>\n\n<BR><SPAN LANG="en-us"><FONT FACE="Arial"> </FONT></SPAN>\n</P>\
+	n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Annie Martin";RSVP=TRUE:mailto:Annie.Martin@students.olin.edu
+ATTENDEE;CN="Erika Boeing";RSVP=TRUE:mailto:Erika.Boeing@students.olin.edu
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+CLASS:PUBLIC
+CREATED:20061210T210303Z
+DESCRIPTION:\n
+DTEND:20061211T070000Z
+DTSTAMP:20061210T210042Z
+DTSTART:20061211T003000Z
+LAST-MODIFIED:20061211T024215Z
+LOCATION:DN studio
+ORGANIZER;CN="Amy Gao":mailto:Amy.Gao@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Work on Walker
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEh8AAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n<BR>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Jillian Kiser";RSVP=TRUE:mailto:Jillian.Kiser@students.olin.ed
+	u
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+ATTENDEE;CN="Avinash Uttamchandani";RSVP=TRUE:mailto:Avinash.Uttamchandani@
+	students.olin.edu
+CLASS:PUBLIC
+CREATED:20061213T144109Z
+DESCRIPTION:Let's do it.\n
+DTEND:20061214T023000Z
+DTSTAMP:20061213T001339Z
+DTSTART:20061214T000000Z
+LAST-MODIFIED:20061213T234839Z
+LOCATION:2.75th floor lounge
+ORGANIZER;CN="Jonathan Inman":mailto:Jonathan.Inman@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:clock
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEiAAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT SIZE=2 FACE="Arial">Let's do it.</FONT
+	>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Students - Class of 2010";RSVP=TRUE:mailto:Students-Classof201
+	0@olin.edu
+CLASS:PUBLIC
+CREATED:20061213T144119Z
+DESCRIPTION:Hey everyone!\n\nFINALLY  a class of 2010 party.  We've only sp
+	ent about $80- so we still have about $420 for an event next semester.\nTh
+	e event will take place in the WH2nd and 3rd floor lounges.  Obviously\, t
+	his means that other people who live in our building can come. Heck\, brin
+	g your friends from East Hall too. Just keep in mind that I bought food wi
+	th about 100 people in mind.  \n\nAnyways\, moving on:\n\n\n1) There will 
+	be food. We are planning to use prox card $ that are leftover to order a b
+	unch of pizza.  Jellen has a little over $100 on theirs. Willing to chip i
+	n your leftover prox card$$? Let us know!  We'd appreciate it.\n\n2) There
+	 will be cookie decorating! Tomorrow during the day (probably late\, after
+	 the 9pm CORe meeting) I am going to bake about 10 rolls of slice and bake
+	 sugar cookies.  It has been suggested that I leave a few raw for those wh
+	o prefer that. I will do so.  For the cookies we have [green!!] frosting a
+	nd sprinkles!\n\n3) There will be hot chocolate and kool-aid.  I am trying
+	 to obtain styrofoam cups\, but if this is unsuccessful then this will be 
+	Bring Your Own Cup.\n\n4) We will have a variety of activities strategical
+	ly placed:  Apples to Apples\, Taboo (if we locate a copy)\, Cards\, Paper
+	 and Crayons\, Wii in the 3rd floor lounge\, DDR tournament if I locate a 
+	projector\, Scrolling walker movies\, and similar things.  Suggestions? Le
+	t me know.\n\n5) NOMINATE AWARDS. We will be giving them out at the party!
+	!\n\n6) More ideas? Let me know.\n\n-(J)Ellen\n\n\nPS- I would like to poi
+	nt out that the third floor\, and particularly Traz and Ben Salinas are aw
+	esome.  If anyone else is interested in seeing cards from the Olin trading
+	 card game\, drop by my room later tonight\, as I now have a lot.\n
+DTEND:20061215T045900Z
+DTSTAMP:20061213T030221Z
+DTSTART:20061215T020000Z
+LAST-MODIFIED:20061215T015229Z
+LOCATION:WH 2nd and 3rd Floor Lounges
+ORGANIZER;CN="Ellen Chisa":mailto:Ellen.Chisa@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Class of 2010 Party!
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEiEAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT SIZE=2 FACE="Arial">Hey everyone!</FON
+	T>\n</P>\n\n<P><FONT SIZE=2 FACE="Arial">FINALLY&nbsp\; a class of 2010 pa
+	rty.&nbsp\; We've only spent about $80- so we still have about $420 for an
+	 event next semester.</FONT>\n\n<BR><FONT SIZE=2 FACE="Arial">The event wi
+	ll take place in the WH2nd and 3rd floor lounges.&nbsp\; Obviously\, this 
+	means that other people who live in our building can come. Heck\, bring yo
+	ur friends from East Hall too. Just keep in mind that I bought food with a
+	bout 100 people in mind.&nbsp\; </FONT></P>\n\n<P><FONT SIZE=2 FACE="Arial
+	">Anyways\, moving on:</FONT>\n</P>\n<BR>\n\n<P><FONT SIZE=2 FACE="Arial">
+	1) There will be food. We are planning to use prox card $ that are leftove
+	r to order a bunch of pizza.&nbsp\; Jellen has a little over $100 on their
+	s.<B> Willing to chip in your leftover prox card$$? Let us know!&nbsp\; We
+	'd appreciate it.</B></FONT></P>\n\n<P><FONT SIZE=2 FACE="Arial">2) There 
+	will be cookie decorating! Tomorrow during the day (probably late\, after 
+	the 9pm CORe meeting) I am going to bake about 10 rolls of slice and bake 
+	sugar cookies.&nbsp\; It has been suggested that I leave a few raw for tho
+	se who prefer that. I will do so.&nbsp\; For the cookies we have [green!!]
+	 frosting and sprinkles!</FONT></P>\n\n<P><FONT SIZE=2 FACE="Arial">3) The
+	re will be hot chocolate and kool-aid.&nbsp\; I am trying to obtain styrof
+	oam cups\, but if this is unsuccessful then this will be Bring Your Own Cu
+	p.</FONT></P>\n\n<P><FONT SIZE=2 FACE="Arial">4) We will have a variety of
+	 activities strategically placed:&nbsp\; Apples to Apples\, Taboo (if we l
+	ocate a copy)\, Cards\, Paper and Crayons\, Wii in the 3rd floor lounge\, 
+	DDR tournament if I locate a projector\, Scrolling walker movies\, and sim
+	ilar things.&nbsp\; Suggestions? Let me know.</FONT></P>\n\n<P><FONT SIZE=
+	2 FACE="Arial">5) NOMINATE AWARDS. We will be giving them out at the party
+	!!</FONT>\n</P>\n\n<P><FONT SIZE=2 FACE="Arial">6) More ideas? Let me know
+	.</FONT>\n</P>\n\n<P><FONT SIZE=2 FACE="Arial">-(J)Ellen</FONT>\n</P>\n<BR
+	>\n\n<P><FONT SIZE=2 FACE="Arial">PS- I would like to point out that the t
+	hird floor\, and particularly Traz and Ben Salinas are awesome.&nbsp\; If 
+	anyone else is interested in seeing cards from the Olin trading card game\
+	, drop by my room later tonight\, as I now have a lot.</FONT></P>\n\n</BOD
+	Y>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=Disco@lists.olin.edu;RSVP=TRUE:mailto:Disco@lists.olin.edu
+CLASS:PUBLIC
+CREATED:20070124T220407Z
+DESCRIPTION:\nThis is a meeting request.  If you don't like it\, yeah…tel
+	l me how to contact you better. \nIn any case\, we meet upstairs in the di
+	ning hall (or a lounge/pizza per popular demand). \n\nG.Sass \n \n
+DTEND:20070125T233000Z
+DTSTAMP:20070124T204302Z
+DTSTART:20070125T230000Z
+LAST-MODIFIED:20070126T005037Z
+LOCATION:Dining Hall
+ORGANIZER;CN="George Sass":mailto:George.Sass@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:[disco] Mad-Awesome meeting
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEiIAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n<BR>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="
+	Arial">This is a meeting request.  If you don't like it\, yeah…tell me 
+	how to contact you better.</FONT><FONT FACE="Arial"><BR>\n</FONT><FONT SIZ
+	E=2 FACE="Arial">In any case\, we meet upstairs in the dining hall (or a l
+	ounge/pizza per popular demand).</FONT><FONT FACE="Arial"> </FONT></SPAN>\
+	n</P>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="Arial">G.Sass</FONT><FON
+	T FACE="Arial"> </FONT></SPAN>\n\n<BR><SPAN LANG="en-us"><FONT FACE="Arial
+	"> </FONT></SPAN>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=Disco@lists.olin.edu;RSVP=TRUE:mailto:Disco@lists.olin.edu
+CLASS:PUBLIC
+CREATED:20070126T005059Z
+DESCRIPTION:\nMany of you could not make it to the meeting today\, so I am 
+	just letting you know… \nThere's an option of going to one on Friday. \n
+	-You can come to the Friday meeting if its more convenient for you. \n-Con
+	versation will be the same\, so come to either one. \n-You can come to bot
+	h if you really like seeing me or talking about DISCO\; I don't judge. \n\
+	nThanks\, and sorry about scheduling difficulties\, \n\nG.Sass \n\n
+DTEND:20070126T233000Z
+DTSTAMP:20070125T222516Z
+DTSTART:20070126T230000Z
+LAST-MODIFIED:20070126T224754Z
+LOCATION:Again\, dining hall
+ORGANIZER;CN="George Sass":mailto:George.Sass@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:[disco] Meeting version 2.0
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEiMAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n<BR>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="
+	Arial">Many of you could not make it to the meeting today\, so I am just l
+	etting you know…</FONT><FONT FACE="Arial"><BR>\n</FONT><FONT SIZE=2 FACE
+	="Arial">There's an option of going to one on Friday.</FONT><FONT FACE="Ar
+	ial"><BR>\n</FONT><FONT SIZE=2 FACE="Arial">-You can come to the Friday me
+	eting if its more convenient for you.</FONT><FONT FACE="Arial"><BR>\n</FON
+	T><FONT SIZE=2 FACE="Arial">-Conversation will be the same\, so come to ei
+	ther one.</FONT><FONT FACE="Arial"><BR>\n</FONT><FONT SIZE=2 FACE="Arial">
+	-You can come to both if you really like seeing me or talking about DISCO\
+	; I don't judge.</FONT><FONT FACE="Arial"> </FONT></SPAN>\n</P>\n\n<P><SPA
+	N LANG="en-us"><FONT SIZE=2 FACE="Arial">Thanks\, and sorry about scheduli
+	ng difficulties\,</FONT><FONT FACE="Arial"> </FONT></SPAN>\n</P>\n\n<P><SP
+	AN LANG="en-us"><FONT SIZE=2 FACE="Arial">G.Sass</FONT><FONT FACE="Arial">
+	 </FONT></SPAN>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Allison Weis";RSVP=TRUE:mailto:Allison.Weis@students.olin.edu
+ATTENDEE;CN="Julie Baca";RSVP=TRUE:mailto:Julie.Baca@students.olin.edu
+ATTENDEE;CN="Jessica Murray";RSVP=TRUE:mailto:Jessica.Murray@students.olin.
+	edu
+ATTENDEE;CN=osa@lists.olin.edu;ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:osa@li
+	sts.olin.edu
+CLASS:PUBLIC
+CREATED:20070129T041524Z
+DESCRIPTION:\nCome set the timetable for protecting human rights worldwide 
+	with Olin Students for Awesome\, Students Taking Action Now: Darfur\, and 
+	Amnesty International. It's a great time to get involved and we need your 
+	help to set our priorities and make our efforts successful. If there's som
+	ething you care about\, you can make it happen. I'll even bring snacks.\n\
+	nYou should come! It'll be Awesome. \nQuestions? Just ask. \n\nTim Smith \
+	n \n
+DTEND:20070131T030000Z
+DTSTAMP:20070129T040447Z
+DTSTART:20070131T013000Z
+LAST-MODIFIED:20070131T032656Z
+LOCATION:AC 109
+ORGANIZER;CN="Timothy Smith":mailto:Timothy.Smith@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:[OSA] OSA Human Rights Activism: Priorities and Plan
+	ning
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEiQAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n<BR>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="
+	Arial">Come set the timetable for protecting human rights worldwide with O
+	lin Students for Awesome\, Students Taking Action Now: Darfur\, and Amnest
+	y International.<B> It's a great time to get involved</B> and we need your
+	 help to set our priorities and make our efforts successful. If there's so
+	mething you care about\,<B> you can make it happen.</B> I'll even bring sn
+	acks.</FONT></SPAN></P>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="Arial"
+	>You should come! It'll be Awesome.</FONT><FONT FACE="Arial"><BR>\n</FONT>
+	<FONT SIZE=2 FACE="Arial">Questions? Just ask.</FONT><FONT FACE="Arial"> <
+	/FONT></SPAN>\n</P>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="Arial">Tim
+	 Smith</FONT><FONT FACE="Arial"> </FONT></SPAN>\n\n<BR><SPAN LANG="en-us">
+	<FONT FACE="Arial"> </FONT></SPAN>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Anahita Karimi";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Michael Hughes";RSVP=TRUE:mailto:Michael.Hughes@students.olin.
+	edu
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+ATTENDEE;CN="Jonathan Raphael";RSVP=TRUE:mailto:Jonathan.Raphael@students.o
+	lin.edu
+ATTENDEE;CN="Mary Germino";RSVP=TRUE:mailto:Mary.Germino@students.olin.edu
+CLASS:PUBLIC
+CREATED:20070130T131336Z
+DESCRIPTION:Here's a meeting request for the McM meeting with Burt.\n\nMatt
+	hew Roy\n
+DTEND:20070131T180000Z
+DTSTAMP:20070130T130941Z
+DTSTART:20070131T170000Z
+LAST-MODIFIED:20070131T175025Z
+LOCATION:Dining Hall Mezzanine
+ORGANIZER;CN="Matthew Roy":invalid:nomail
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:McM Lunch Meeting
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEiUAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT SIZE=2 FACE="Arial">Here's a meeting r
+	equest for the McM meeting with Burt.</FONT>\n</P>\n\n<P><B><FONT SIZE=2 F
+	ACE="Arial">Matthew Roy</FONT></B>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Boris Dieseldorff";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+ATTENDEE;CN="Emanuel Towns";RSVP=TRUE:mailto:Emanuel.Towns@students.olin.ed
+	u
+ATTENDEE;CN="Melissa Yu";RSVP=TRUE:mailto:Melissa.Yu@students.olin.edu
+ATTENDEE;CN="Erika Boeing";RSVP=TRUE:mailto:Erika.Boeing@students.olin.edu
+ATTENDEE;CN="Maia Bittner";RSVP=TRUE:mailto:Maia.Bittner@students.olin.edu
+ATTENDEE;CN="Roland Crosby";RSVP=TRUE:mailto:Roland.Crosby@students.olin.ed
+	u
+CLASS:PUBLIC
+CREATED:20070201T164805Z
+DTEND:20070202T230000Z
+DTSTAMP:20070201T164755Z
+DTSTART:20070202T210000Z
+LAST-MODIFIED:20070202T212225Z
+LOCATION:AC 109 or 113
+ORGANIZER;CN="Joseph Funke":mailto:Joseph.Funke@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:FBE meeting
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEiYAAA==
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=osa@lists.olin.edu;RSVP=TRUE:mailto:osa@lists.olin.edu
+ATTENDEE;CN=asme@lists.olin.edu;RSVP=TRUE:mailto:asme@lists.olin.edu
+ATTENDEE;CN="Matthew Ritter";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Matthew.
+	Ritter@students.olin.edu
+ATTENDEE;CN="Erin Dowd";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Erin.Dowd@stu
+	dents.olin.edu
+ATTENDEE;CN="Molly Crowther";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Molly.Cr
+	owther@students.olin.edu
+CLASS:PUBLIC
+CREATED:20070130T142523Z
+DESCRIPTION:\nIt is official… I suck at Meeting Requests.  It is supposed
+	 to be on February 4. \n\nOSA is pleased to announce that this Sunday we w
+	ill be hosting a small Flash Conference. From 10 AM\, to 7:00 PM\, Olin st
+	udents will work in teams to design the next generation of water purificat
+	ion systems. To provide context\, students will be designing for Madudu\, 
+	a small rural town in Uganda. Like all good design challenges\, this chall
+	enge will be resource limited. We will provide information on what materia
+	ls are available in Madudu. The goal of this "Conference" is to end with n
+	ot only an idea for a new technology\, but a method of distribution for th
+	e technology. \n\nEssentially\, we will provide you with information and d
+	esign materials. We want you to provide us with your ideas for how to chan
+	ge the world. \n\nIn 3 weeks\, OSA will be hosting a much larger Flash Con
+	ference and so one of the goals of this conference is to learn how best to
+	 hold an event of this caliber. Because of this\, your feedback will be ve
+	ry important.\n\nIf you want to be a part of this high speed design experi
+	ence\, let Ben Salinas know by accepting this meeting request.  It is very
+	 important that I know that you would like to participate so I can send yo
+	u the background information on the problem and so we can plan our food ac
+	cordingly.\n\n<<flash_invitation.jpg>> \n\nHere's what Matt Ritter has to 
+	say about Flash Conferences: \nA Flash Conference is not your average desi
+	gn process. We’ve all been through painfully unproductive brainstorming 
+	sessions\, hazy to-do lists\, and fading commitment. Here are four major f
+	oundations of Flash:\n\n1. Same Pageness. Since an overview of the problem
+	 and context are all sent out ahead of time\, each member has a chance to 
+	research and familiarize themselves ahead of time. Lack of subject knowled
+	ge can be a major barrier in brainstorming\, and by doing a little researc
+	h ahead of time\, Flash conferences get straight to the point.\n\n2. Insta
+	nt Gratification. 'Open ended' too often means everyone is standing around
+	 staring at each others shoes\, wondering what the next step is. Flash Con
+	ferences have a detailed schedule\, problem\, and goal in a short time per
+	iod.\n\n3. Instant Feedback. Working on problems in other continents is a 
+	great thing to do\, but too many designs have been foiled because of lack 
+	of regional experience. Rather than bringing designers to the problem\, Fl
+	ash Conferences bring the regional experts straight to the team\, along wi
+	th teammates with a wide variety of backgrounds\, so every idea is instant
+	ly evaluated on all of its merits.\n\n4. Focused Environment. Flash Confer
+	ences eliminate the distractions of every day life and set a high focus on
+	 making progress here and now. From the speakers and design reviews to the
+	 rooms crowded with white boards\, paper and prototyping materials\, the e
+	nvironment of the Flash Conference is aimed at maximizing your Awesome pot
+	ential.\n\nThe Flash Conference requires only an enthusiastic mind and a w
+	illingness to help. Everything from engineering design to distribution and
+	 business will be covered. If we're going to put your ideas into action\, 
+	a comprehensive plan will be needed.\n\n
+DTEND:20070205T000000Z
+DTSTAMP:20070130T144605Z
+DTSTART:20070204T150000Z
+LAST-MODIFIED:20070204T151828Z
+LOCATION:AC428
+ORGANIZER;CN="Benjamin Salinas":mailto:Benjamin.Salinas@students.olin.edu
+PRIORITY:5
+SEQUENCE:1
+SUMMARY:[ASME] Updated: Flash Conference: High Speed Design for Humanity
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEicAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n<BR>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="
+	Arial">It is official… I suck at Meeting Requests.  It is supposed to b
+	e on February 4.</FONT><FONT FACE="Arial"> </FONT></SPAN>\n</P>\n\n<P><SPA
+	N LANG="en-us"><FONT SIZE=2 FACE="Arial">OSA is pleased to announce that<B
+	> this Sunday</B> we will be hosting a small<B> Flash Conference</B>. From
+	 10 AM\, to 7:00 PM\, Olin students will work in teams to design the<B> ne
+	xt generation of water purification systems</B>. To provide context\, stud
+	ents will be designing for<B> Madudu\, a small rural town in Uganda</B>. L
+	ike all good design challenges\, this challenge will be<B> resource limite
+	d</B>. We will provide information on what materials are available in Madu
+	du. The goal of this &quot\;Conference&quot\; is to end with not only an i
+	dea for a new technology\, but a method of distribution for the technology
+	.</FONT><FONT FACE="Arial"> </FONT></SPAN></P>\n\n<P><SPAN LANG="en-us"><F
+	ONT SIZE=2 FACE="Arial">Essentially\, we will provide you with</FONT><B></
+	B><B></B><B><FONT FACE="Arial"></FONT> <FONT SIZE=2 FACE="Arial">informati
+	on</FONT></B><FONT SIZE=2 FACE="Arial"> and</FONT><B></B><B></B><B><FONT F
+	ACE="Arial"></FONT> <FONT SIZE=2 FACE="Arial">design materials</FONT></B><
+	FONT SIZE=2 FACE="Arial">. We want you to provide us with</FONT><B></B><B>
+	</B><B><FONT FACE="Arial"></FONT> <FONT SIZE=2 FACE="Arial">your ideas</FO
+	NT></B><FONT FACE="Arial"></FONT> <FONT SIZE=2 FACE="Arial">for how to</FO
+	NT><B></B><B></B><B><FONT FACE="Arial"></FONT> <FONT SIZE=2 FACE="Arial">c
+	hange the world.</FONT><FONT FACE="Times New Roman"></FONT></B> </SPAN></P
+	>\n\n<P><SPAN LANG="en-us"><FONT SIZE=2 FACE="Arial">In 3 weeks\, OSA will
+	 be hosting a much larger Flash Conference and so one of the goals of this
+	 conference is to learn how best to hold an event of this caliber. Because
+	 of this\, your feedback will be very important.</FONT></SPAN></P>\n\n<P><
+	SPAN LANG="en-us"><FONT SIZE=2 FACE="Arial">If you want to be a part of th
+	is</FONT><B></B><B></B><B><FONT FACE="Arial"></FONT> <FONT SIZE=2 FACE="Ar
+	ial">high speed design experience</FONT></B><FONT SIZE=2 FACE="Arial">\, l
+	et Ben Salinas know by</FONT><B></B><B></B><B><FONT FACE="Arial"></FONT> <
+	FONT SIZE=2 FACE="Arial">accepting this meeting request</FONT></B><FONT SI
+	ZE=2 FACE="Arial">.  It is very important that I know that you would like
+	 to participate so I can send you the background information on the proble
+	m and so we can plan our food accordingly.</FONT></SPAN></P>\n\n<P><SPAN L
+	ANG="en-us"><FONT COLOR="#000000" SIZE=2 FACE="Arial">&lt\;&lt\;flash_invi
+	tation.jpg&gt\;&gt\;</FONT> </SPAN>\n</P>\n\n<P><SPAN LANG="en-us"><FONT S
+	IZE=2 FACE="Arial">Here's what Matt Ritter has to say about Flash Conferen
+	ces:</FONT><FONT FACE="Arial"><BR>\n</FONT><FONT FACE="Times New Roman">A 
+	Flash Conference is</FONT><B></B><B><FONT FACE="Arial"></FONT> <FONT FACE=
+	"Times New Roman">not your average design process</FONT></B><FONT FACE="Ti
+	mes New Roman">. We’ve all been through painfully unproductive brainstor
+	ming sessions\, hazy to-do lists\, and fading commitment. Here are four ma
+	jor foundations of Flash:</FONT></SPAN></P>\n\n<P><SPAN LANG="en-us"><FONT
+	 FACE="Times New Roman">1.</FONT><B></B><B><FONT FACE="Arial"></FONT> <FON
+	T FACE="Times New Roman">Same Pageness</FONT></B><FONT FACE="Times New Rom
+	an">. Since an overview of the problem and context are all sent out ahead 
+	of time\, each member has a chance to research and familiarize themselves 
+	ahead of time. Lack of subject knowledge can be a major barrier in brainst
+	orming\, and by doing a little research ahead of time\, Flash conferences 
+	get straight to the point.</FONT></SPAN></P>\n\n<P><SPAN LANG="en-us"><FON
+	T FACE="Times New Roman">2.</FONT><B></B><B><FONT FACE="Arial"></FONT> <FO
+	NT FACE="Times New Roman">Instant Gratification</FONT></B><FONT FACE="Time
+	s New Roman">.<I> '</I>Open ended' too often means everyone is standing ar
+	ound staring at each others shoes\, wondering what the next step is. Flash
+	 Conferences have a detailed schedule\, problem\, and goal in a short time
+	 period.</FONT></SPAN></P>\n\n<P><SPAN LANG="en-us"><FONT FACE="Times New 
+	Roman">3.</FONT><B></B><B><FONT FACE="Arial"></FONT> <FONT FACE="Times New
+	 Roman">Instant Feedback</FONT></B><I><FONT FACE="Times New Roman">.</FONT
+	></I><FONT FACE="Arial"></FONT> <FONT FACE="Times New Roman">Working on pr
+	oblems in other continents is a great thing to do\, but too many designs h
+	ave been foiled because of lack of regional experience. Rather than bringi
+	ng designers to the problem\, Flash Conferences bring the regional experts
+	 straight to the team\, along with teammates with a wide variety of backgr
+	ounds\, so every idea is instantly evaluated on all of its merits.</FONT><
+	/SPAN></P>\n\n<P><SPAN LANG="en-us"><FONT FACE="Times New Roman">4.</FONT>
+	<B></B><B><FONT FACE="Arial"></FONT> <FONT FACE="Times New Roman">Focused 
+	Environment</FONT></B><FONT FACE="Times New Roman">. Flash Conferences eli
+	minate the distractions of every day life and set a high focus on making p
+	rogress here and now. From the speakers and design reviews to the rooms cr
+	owded with white boards\, paper and prototyping materials\, the environmen
+	t of the Flash Conference is aimed at maximizing your Awesome</FONT><FONT 
+	FACE="Arial"></FONT> <FONT FACE="Times New Roman">potential.</FONT></SPAN>
+	</P>\n\n<P><SPAN LANG="en-us"><FONT FACE="Times New Roman">The Flash Confe
+	rence requires only an enthusiastic mind and a willingness to help. Everyt
+	hing from engineering design to distribution and business will be covered.
+	 If we're going to put your ideas into action\,</FONT><I></I><I><FONT FACE
+	="Arial"></FONT> <FONT FACE="Times New Roman">a</FONT></I><FONT FACE="Time
+	s New Roman"> comprehensive plan will be needed.</FONT></SPAN></P>\n\n</BO
+	DY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Jonathan Raphael";RSVP=TRUE:mailto:Jonathan.Raphael@students.o
+	lin.edu
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+CLASS:PUBLIC
+CREATED:20070131T180126Z
+DESCRIPTION:If these times don't work\, revise them as needed.  \n
+DTEND:20070204T213000Z
+DTSTAMP:20070131T180009Z
+DTSTART:20070204T183000Z
+LAST-MODIFIED:20070204T181613Z
+LOCATION:AC202?
+ORGANIZER;CN="Anahita Karimi":invalid:nomail
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:ICM practice
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEigAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT SIZE=2 FACE="Arial">If these times don
+	't work\, revise them as needed.&nbsp\; </FONT>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Amy Gao";RSVP=TRUE:mailto:Amy.Gao@students.olin.edu
+ATTENDEE;CN="Erik Kennedy";RSVP=TRUE:mailto:Erik.Kennedy@students.olin.edu
+ATTENDEE;CN="Michael Hughes";RSVP=TRUE:mailto:Michael.Hughes@students.olin.
+	edu
+ATTENDEE;CN="Marco Morales";RSVP=TRUE:mailto:Marco.Morales@students.olin.ed
+	u
+ATTENDEE;CN="Marc Sweetgall";RSVP=TRUE:mailto:Marc.Sweetgall@students.olin.
+	edu
+ATTENDEE;CN="Pamela Darvirris";RSVP=TRUE:mailto:Pamela.Darvirris@students.o
+	lin.edu
+ATTENDEE;CN="Sarah M. Zimmermann";RSVP=TRUE:mailto:Sarah.Zimmermann@student
+	s.olin.edu
+ATTENDEE;CN="Carl Herrmann";RSVP=TRUE:mailto:Carl.Herrmann@students.olin.ed
+	u
+ATTENDEE;CN="Benjamin Small";RSVP=TRUE:mailto:Benjamin.Small@students.olin.
+	edu
+ATTENDEE;CN="Joseph Funke";RSVP=TRUE:mailto:Joseph.Funke@students.olin.edu
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+ATTENDEE;CN="Andrew Pethan";RSVP=TRUE:mailto:Andrew.Pethan@students.olin.ed
+	u
+ATTENDEE;CN="Alexander Jones";RSVP=TRUE:mailto:Alexander.Jones@students.oli
+	n.edu
+ATTENDEE;CN="Michael Taylor";RSVP=TRUE:mailto:Michael.Taylor@students.olin.
+	edu
+CLASS:PUBLIC
+CREATED:20070201T080514Z
+DESCRIPTION:It's going to be epic.  Bring food if you can\, like chips and 
+	salsa and such.\nPregame at 6\nKickoff at 6:30\nBears domination will ensu
+	e\n
+DTEND:20070205T023000Z
+DTSTAMP:20070201T080227Z
+DTSTART:20070204T230000Z
+LAST-MODIFIED:20070205T032553Z
+LOCATION:WH 230
+ORGANIZER;CN="Brian Fahrenbach":mailto:Brian.Fahrenbach@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Superbowl Party!
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEikAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT SIZE=2 FACE="Arial">It's going to be e
+	pic.&nbsp\; Bring food if you can\, like chips and salsa and such.</FONT>\
+	n\n<BR><FONT SIZE=2 FACE="Arial">Pregame at 6</FONT>\n\n<BR><FONT SIZE=2 F
+	ACE="Arial">Kickoff at 6:30</FONT>\n\n<BR><FONT SIZE=2 FACE="Arial">Bears 
+	domination will ensue</FONT>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Burt Tilley";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Jonathan Raphael";RSVP=TRUE:mailto:Jonathan.Raphael@students.o
+	lin.edu
+ATTENDEE;CN="Mary Germino";RSVP=TRUE:mailto:Mary.Germino@students.olin.edu
+ATTENDEE;CN="Michael Hughes";RSVP=TRUE:mailto:Michael.Hughes@students.olin.
+	edu
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+ATTENDEE;CN="Anahita Karimi";RSVP=TRUE:invalid:nomail
+CLASS:PUBLIC
+CREATED:20070203T194700Z
+DESCRIPTION:Here is the Meeting Request for the MCM lunch meeting.\n
+DTEND:20070207T180000Z
+DTSTAMP:20070203T194335Z
+DTSTART:20070207T170000Z
+LAST-MODIFIED:20070207T170231Z
+LOCATION:Dining Hall Mezzanine
+ORGANIZER;CN="Matthew Roy":invalid:nomail
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:ICM Lunch with Burt
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEioAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT SIZE=2 FACE="Arial">Here is the Meetin
+	g Request for the MCM lunch meeting.</FONT>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Jonathan Raphael";RSVP=TRUE:mailto:Jonathan.Raphael@students.o
+	lin.edu
+ATTENDEE;CN="Anahita Karimi";RSVP=TRUE:invalid:nomail
+CLASS:PUBLIC
+CREATED:20070201T164602Z
+DTEND:20070213T010000Z
+DTSTAMP:20070208T000305Z
+DTSTART:20070209T010000Z
+LAST-MODIFIED:20070209T004559Z
+ORGANIZER;CN="Bryce Lee":mailto:Bryce.Lee@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:ICM
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEisAAA==
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-APPTSEQTIME:20070208T000305Z
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=suvc@lists.olin.edu;RSVP=TRUE:mailto:suvc@lists.olin.edu
+CLASS:PUBLIC
+CREATED:20070213T035401Z
+DESCRIPTION:Bring a wire coathanger and an acronym for   BAMF\n\n
+DTEND:20070219T200000Z
+DTSTAMP:20070213T030030Z
+DTSTART:20070219T180000Z
+LAST-MODIFIED:20070219T181251Z
+LOCATION:game room
+ORGANIZER;CN="Kevin Bretney":invalid:nomail
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:[SUVC] Manipulator testing
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEiwAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><SPAN LANG="en-us"><FONT FACE="Calibri">Brin
+	g a wire coathanger and an acronym for   BAMF</FONT></SPAN>\n</P>\n\n</B
+	ODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Christina Nguyen";RSVP=TRUE:mailto:Christina.Nguyen@students.o
+	lin.edu
+ATTENDEE;CN="Amanda Pratt";RSVP=TRUE:mailto:Amanda.Pratt@students.olin.edu
+ATTENDEE;CN="Sarah M. Zimmermann";RSVP=TRUE:mailto:Sarah.Zimmermann@student
+	s.olin.edu
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+ATTENDEE;CN="Pamela Darvirris";RSVP=TRUE:mailto:Pamela.Darvirris@students.o
+	lin.edu
+ATTENDEE;CN="Michael Roenbeck";RSVP=TRUE:mailto:Michael.Roenbeck@students.o
+	lin.edu
+CLASS:PUBLIC
+CREATED:20070215T174325Z
+DTEND:20070220T023000Z
+DTSTAMP:20070215T161546Z
+DTSTART:20070220T010000Z
+LAST-MODIFIED:20070220T004601Z
+LOCATION:Somewhere in WH (yay warm)
+ORGANIZER;CN="Gregory Marra":mailto:Gregory.Marra@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:C3 Meeting
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEi0AAA==
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Christina Nguyen";RSVP=TRUE:mailto:Christina.Nguyen@students.o
+	lin.edu
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+CLASS:PUBLIC
+CREATED:20070221T045836Z
+DESCRIPTION:Hi!  So tomorrow morning\, I'll look at the letter\, and fix it
+	 over.  And\, I'll get the directions to the schools.  We'll leave around 
+	noon from the dining hall.  Remember just to look kind of nice\, so they c
+	an somewhat take us seriously.  Just like not jeans and a t shirt.  Email 
+	me if you have any questions.  \n\nSeeya tomorrow!\n\nPam\n
+DTEND:20070221T190000Z
+DTSTAMP:20070221T045636Z
+DTSTART:20070221T170000Z
+LAST-MODIFIED:20070221T045930Z
+LOCATION:Dining Hall
+ORGANIZER;CN="Pamela Darvirris":mailto:Pamela.Darvirris@students.olin.edu
+PRIORITY:5
+SEQUENCE:1
+SUMMARY;LANGUAGE=en-us:Updated: High School Visits
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEi4AAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT SIZE=2 FACE="Arial">Hi!&nbsp\; So tomo
+	rrow morning\, I'll look at the letter\, and fix it over.&nbsp\; And\, I'l
+	l get the directions to the schools.&nbsp\; We'll leave around noon from t
+	he dining hall.&nbsp\; Remember just to look kind of nice\, so they can so
+	mewhat take us seriously.&nbsp\; Just like not jeans and a t shirt.&nbsp\;
+	 Email me if you have any questions.&nbsp\; </FONT></P>\n\n<P><FONT SIZE=2
+	 FACE="Arial">Seeya tomorrow!</FONT>\n</P>\n\n<P><FONT SIZE=2 FACE="Arial"
+	>Pam</FONT>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-APPTSEQTIME:20070221T045527Z
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=randomness@lists.olin.edu;RSVP=TRUE:mailto:randomness@lists.oli
+	n.edu
+CLASS:PUBLIC
+CREATED:20070313T003233Z
+DESCRIPTION:\n\n
+DTEND:20070313T170000Z
+DTSTAMP:20070313T002448Z
+DTSTART:20070313T161500Z
+LAST-MODIFIED:20070313T170041Z
+LOCATION:Dining Hall
+ORGANIZER;CN="Jonathan Cass":invalid:nomail
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:[Randomness] Fight for your right to party
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEi8AAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n<BR>\n<BR>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+CLASS:PUBLIC
+CREATED:20070321T192910Z
+DESCRIPTION:12:30 - 1:45 p.m.   \n\nStacy Arthur\, College Campus Tour Coor
+	dinator\, will bring a small group of students from Punahou School in Hono
+	lulu to Olin for a very brief introduction\,  The Olin group will likely b
+	e small.  They leave BC at 11:30 a.m. and will travel to Olin and Babson. 
+	 A possible agenda: \n\n	Group will pick up lunch at Babson and will come 
+	to Olin around noon or shortly after noon.  Students interested in Olin wi
+	ll come here for a tour of campus with Bryce\n\nTour guide:  Bryce\n
+DTEND:20070323T173000Z
+DTSTAMP:20070323T133254Z
+DTSTART:20070323T160000Z
+LAST-MODIFIED:20070323T140416Z
+LOCATION:Meeting with Counselor and Tour
+ORGANIZER;CN="Susan Johanson":mailto:Susan.Johanson@olin.edu
+PRIORITY:5
+SEQUENCE:1
+SUMMARY;LANGUAGE=en-us:Updated: Student Tour Group from Punahou School
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEjAAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT FACE="Arial">12:30 - 1:45 p.m.&nbsp\;&
+	nbsp\; </FONT>\n</P>\n\n<P><FONT FACE="Arial">Stacy Arthur\, College Campu
+	s Tour Coordinator\, will bring a small group of students from Punahou Sch
+	ool in Honolulu to Olin for a very brief introduction\,&nbsp\; The Olin gr
+	oup will likely be small.&nbsp\; They leave BC at 11:30 a.m. and will trav
+	el to Olin and Babson.&nbsp\; A possible agenda: </FONT></P>\n\n<P>&nbsp\;
+	&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; <FONT FACE="Arial">Group will p
+	ick up lunch at Babson and will come to Olin around noon or shortly after 
+	noon.&nbsp\; Students interested in Olin will come here for a tour of camp
+	us with Bryce</FONT></P>\n\n<P><FONT FACE="Arial">Tour guide:&nbsp\; Bryce
+	</FONT>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-APPTSEQTIME:20070321T183425Z
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Pamela Darvirris";RSVP=TRUE:mailto:Pamela.Darvirris@students.o
+	lin.edu
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+ATTENDEE;CN="Gregory Marra";RSVP=TRUE:mailto:Gregory.Marra@students.olin.ed
+	u
+ATTENDEE;CN="Christina Nguyen";RSVP=TRUE:mailto:Christina.Nguyen@students.o
+	lin.edu
+ATTENDEE;CN="Amanda Pratt";RSVP=TRUE:mailto:Amanda.Pratt@students.olin.edu
+ATTENDEE;CN="Michael Roenbeck";RSVP=TRUE:mailto:Michael.Roenbeck@students.o
+	lin.edu
+ATTENDEE;CN="Sarah M. Zimmermann";RSVP=TRUE:mailto:Sarah.Zimmermann@student
+	s.olin.edu
+ATTENDEE;CN="Andrew Coats";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Bennett Chabot";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Robert Macklin";RSVP=TRUE:mailto:Robert.Macklin@students.olin.
+	edu
+ATTENDEE;CN="Daniel Cody";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Jessie Lin";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Erik Kennedy";RSVP=TRUE:mailto:Erik.Kennedy@students.olin.edu
+ATTENDEE;CN="Andrew Pethan";RSVP=TRUE:mailto:Andrew.Pethan@students.olin.ed
+	u
+ATTENDEE;CN="Herbert Chang";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Matthew Ritter";RSVP=TRUE:mailto:Matthew.Ritter@students.olin.
+	edu
+ATTENDEE;CN="Michael Ducker";RSVP=TRUE:invalid:nomail
+CLASS:PUBLIC
+CREATED:20070326T215905Z
+DESCRIPTION:Hey Custom Cube Company!\n\nThere are a few of us who are reall
+	y interested in promoting E! at Olin\, and we wanted to learn more about y
+	our company\, your FBE experience\, and what you think of E!\n\nIn case yo
+	u didn’t know\, the Foundry is a business incubator which provides Olin 
+	students with office space and startup capital  for their own businesses. 
+	 We currently have 8 businesses in the Foundry\, but surrounding those we 
+	have a tight community of students who are interested in E!  We would real
+	ly like to hear how your business is going\, offer advice\, and see if we 
+	can help you out.  We’d also love to hear more about what you think of F
+	BE and how it can be approved.\n\nThis is by no means mandatory.  It’s g
+	oing to be really chill.  The Foundry is actually a house\, equipped with 
+	no less than 4 couches\, 1 bean bag chair\, and an amazing fireplace!  We 
+	also often have homemade cookies and always have amazing coffee\, espresso
+	\, cappuccinos\, and hot chocolate.  Come talk with us\, and just hang out
+	 for a while.\n\nIt’ll be sweet!\n
+DTEND:20070329T031500Z
+DTSTAMP:20070326T204901Z
+DTSTART:20070329T021500Z
+LAST-MODIFIED:20070329T020901Z
+LOCATION:Foundry (Edison House)
+ORGANIZER;CN="Benjamin Salinas":mailto:Benjamin.Salinas@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:[FBE] Chillin' and Businessin'
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEjEAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT FACE="Calibri">Hey Custom Cube Company
+	!</FONT>\n</P>\n\n<P><FONT FACE="Calibri">There are a few of us who are re
+	ally interested in promoting E! at Olin\, and we wanted to learn more abou
+	t your company\, your FBE experience\, and what you think of E!</FONT></P>
+	\n\n<P><FONT FACE="Calibri">In case you didn’t know\, the Foundry is a b
+	usiness incubator which provides Olin students with office space and start
+	up capital&nbsp\; for their own businesses.&nbsp\; We currently have 8 bus
+	inesses in the Foundry\, but surrounding those we have a tight community o
+	f students who are interested in E!&nbsp\; We would really like to hear ho
+	w your business is going\, offer advice\, and see if we can help you out.&
+	nbsp\; We’d also love to hear more about what you think of FBE and how i
+	t can be approved.</FONT></P>\n\n<P><FONT FACE="Calibri">This is by no mea
+	ns mandatory.&nbsp\; It’s going to be really chill.&nbsp\; The Foundry i
+	s actually a house\, equipped with no less than 4 couches\, 1 bean bag cha
+	ir\, and an amazing fireplace!&nbsp\; We also often have homemade cookies 
+	and always have amazing coffee\, espresso\, cappuccinos\, and hot chocolat
+	e.&nbsp\; Come talk with us\, and just hang out for a while.</FONT></P>\n\
+	n<P><FONT FACE="Calibri">It’ll be sweet!</FONT>\n</P>\n\n</BODY>\n</HTML
+	>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Amanda Pratt";RSVP=TRUE:mailto:Amanda.Pratt@students.olin.edu
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+CLASS:PUBLIC
+CREATED:20070402T172442Z
+DTEND:20070403T210000Z
+DTSTAMP:20070402T155055Z
+DTSTART:20070403T190000Z
+LAST-MODIFIED:20070402T172442Z
+LOCATION:Needham/Wellesley
+ORGANIZER;CN="Michael Roenbeck":mailto:Michael.Roenbeck@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Going to Companies
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEjIAAA==
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Allison Weis";RSVP=TRUE:mailto:Allison.Weis@students.olin.edu
+ATTENDEE;CN="Roberto Santana";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+ATTENDEE;CN="Molly Crowther";RSVP=TRUE:mailto:Molly.Crowther@students.olin.
+	edu
+CLASS:PUBLIC
+CREATED:20070224T083601Z
+DESCRIPTION:\n
+DTEND;VALUE=DATE:20070409
+DTSTAMP:20070224T083302Z
+DTSTART;VALUE=DATE:20070406
+LAST-MODIFIED:20070405T143244Z
+ORGANIZER;CN="Boris Dieseldorff":invalid:nomail
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:LesMis Trip
+TRANSP:TRANSPARENT
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEjMAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n<BR>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Jeffrey Moore";RSVP=TRUE:mailto:Jeffrey.Moore@students.olin.ed
+	u
+ATTENDEE;CN="Bradley Powers";RSVP=TRUE:mailto:Bradley.Powers@students.olin.
+	edu
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+ATTENDEE;CN="Marco Morales";RSVP=TRUE:mailto:Marco.Morales@students.olin.ed
+	u
+ATTENDEE;CN="Leslie Gerhat";RSVP=TRUE:mailto:Leslie.Gerhat@students.olin.ed
+	u
+ATTENDEE;CN="Chujiao Ma";RSVP=TRUE:mailto:Chujiao.Ma@students.olin.edu
+ATTENDEE;CN="Heena Mutha";RSVP=TRUE:mailto:Heena.Mutha@students.olin.edu
+ATTENDEE;CN="Casey Canfield";RSVP=TRUE:mailto:Casey.Canfield@students.olin.
+	edu
+ATTENDEE;CN="Martina Balestra";RSVP=TRUE:mailto:Martina.Balestra@students.o
+	lin.edu
+ATTENDEE;CN="Gregory Marra";RSVP=TRUE:mailto:Gregory.Marra@students.olin.ed
+	u
+ATTENDEE;CN="Evan Morikawa";RSVP=TRUE:mailto:Evan.Morikawa@students.olin.ed
+	u
+ATTENDEE;CN="Garrett Rodrigues";RSVP=TRUE:mailto:Garrett.Rodrigues@students
+	.olin.edu
+ATTENDEE;CN="Alexander Jones";RSVP=TRUE:mailto:Alexander.Jones@students.oli
+	n.edu
+ATTENDEE;CN="Ellen Chisa";RSVP=TRUE:mailto:Ellen.Chisa@students.olin.edu
+ATTENDEE;CN="Christina Nguyen";RSVP=TRUE:mailto:Christina.Nguyen@students.o
+	lin.edu
+CLASS:PUBLIC
+CREATED:20070409T182112Z
+DESCRIPTION:The idea: Make t-shirts for the people who live in 2E (this inc
+	ludes Ellen and Christina if they want).\n\nWe need to come up with a desi
+	gn and get it to the t-shirt FBE company by Friday (this is what Sylvia to
+	ld me today).\n\nIf you can’t make it (which it looks like you all can\,
+	 but whatevs)\, then either send your ideas to me in an e-mail and I’ll 
+	bring them up at the meeting or just make sure that you don’t really car
+	e about the t-shirt.\n\nAlso e-mail me your sizes if you’re not going to
+	 be at the meeting but want a t-shirt.\n\nIf for some reason you DON’T w
+	ant a 2E t-shirt\, let me know that too and I won’t order one for you.\n
+	\nDid I forget anything?\n\nThanks\, y’all!\n\nCriteria to decide upon:\
+	nFront design/theme\nBack design/theme\nT-shirt Color\nDesign Colors\n\n
+DTEND:20070412T033000Z
+DTSTAMP:20070409T170659Z
+DTSTART:20070412T030000Z
+LAST-MODIFIED:20070412T151643Z
+LOCATION:WH 212
+ORGANIZER;CN="Sarah Allen":mailto:Sarah.Allen@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:2E T-Shirt Designing
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEjQAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT SIZE=2 FACE="Arial">The idea: Make t-s
+	hirts for the people who live in 2E (this includes Ellen and Christina if 
+	they want).</FONT>\n</P>\n\n<P><FONT SIZE=2 FACE="Arial">We need to come u
+	p with a design and get it to the t-shirt FBE company by Friday (this is w
+	hat Sylvia told me today).</FONT>\n</P>\n\n<P><FONT SIZE=2 FACE="Arial">If
+	 you can’t make it (which it looks like you all can\, but whatevs)\, the
+	n either send your ideas to me in an e-mail and I’ll bring them up at th
+	e meeting or just make sure that you don’t really care about the t-shirt
+	.</FONT></P>\n\n<P><FONT SIZE=2 FACE="Arial">Also e-mail me your sizes if 
+	you’re not going to be at the meeting but want a t-shirt.</FONT>\n</P>\n
+	\n<P><FONT SIZE=2 FACE="Arial">If for some reason you DON’T want a 2E t-
+	shirt\, let me know that too and I won’t order one for you.</FONT>\n</P>
+	\n\n<P><FONT SIZE=2 FACE="Arial">Did I forget anything?</FONT>\n</P>\n\n<P
+	><FONT SIZE=2 FACE="Arial">Thanks\, y’all!</FONT>\n</P>\n\n<P><FONT SIZE
+	=2 FACE="Arial">Criteria to decide upon:</FONT>\n\n<BR><FONT SIZE=2 FACE="
+	Arial">Front design/theme</FONT>\n\n<BR><FONT SIZE=2 FACE="Arial">Back des
+	ign/theme</FONT>\n\n<BR><FONT SIZE=2 FACE="Arial">T-shirt Color</FONT>\n\n
+	<BR><FONT SIZE=2 FACE="Arial">Design Colors</FONT>\n</P>\n\n</BODY>\n</HTM
+	L>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+ATTENDEE;CN='bdieseldorff@gmail.com';ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
+	bdieseldorff@gmail.com
+CLASS:PUBLIC
+CREATED:20070415T174446Z
+DTEND:20070416T023000Z
+DTSTAMP:20070415T164950Z
+DTSTART:20070416T020000Z
+LAST-MODIFIED:20070416T143132Z
+ORGANIZER;CN="Boris Dieseldorff":invalid:nomail
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Rice
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEjUAAA==
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20070415T220733Z
+DTEND:20070416T230000Z
+DTSTAMP:20070411T033453Z
+DTSTART:20070416T223000Z
+LAST-MODIFIED:20070416T221600Z
+LOCATION:Dining Hall
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:DISCO Charter Revision Meeting
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEjYAAA==
+X-ALT-DESC;FMTTYPE=text/html:\n
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+CLASS:PUBLIC
+CREATED:20070412T151602Z
+DESCRIPTION:Meet there\, then it's off to Cliff's.\n
+DTEND:20070417T210000Z
+DTSTAMP:20070412T151339Z
+DTSTART:20070417T190000Z
+LAST-MODIFIED:20070412T151602Z
+LOCATION:WH 1st Floor
+ORGANIZER;CN="Michael Roenbeck":mailto:Michael.Roenbeck@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Cube Conquest: Part II
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEjcAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT SIZE=2 FACE="Arial">Meet there\, then 
+	it's off to Cliff's.</FONT>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Michael Roenbeck";RSVP=TRUE:mailto:Michael.Roenbeck@students.o
+	lin.edu
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+ATTENDEE;CN="Sarah M. Zimmermann";RSVP=TRUE:mailto:Sarah.Zimmermann@student
+	s.olin.edu
+ATTENDEE;CN="Alexander Jones";RSVP=TRUE:mailto:Alexander.Jones@students.oli
+	n.edu
+ATTENDEE;CN="Jeffrey Moore";RSVP=TRUE:mailto:Jeffrey.Moore@students.olin.ed
+	u
+ATTENDEE;CN="'Alex Jones'";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:alexpjones
+	@gmail.com
+CLASS:PUBLIC
+CREATED:20070409T154004Z
+DESCRIPTION:(Sorry\, I had the wrong week!)\n\nYayyy!  Beaver Bowl!\n\nWe s
+	hould meet in the 2nd floor lounge and all go over together.  \n\nPam\n
+DTEND:20070419T020000Z
+DTSTAMP:20070410T011043Z
+DTSTART:20070419T003000Z
+LAST-MODIFIED:20070419T030211Z
+LOCATION:Babson Pub
+ORGANIZER;CN="Pamela Darvirris":mailto:Pamela.Darvirris@students.olin.edu
+PRIORITY:5
+SEQUENCE:1
+SUMMARY;LANGUAGE=en-us:Updated: Babson Beaver Bowl
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEjgAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT SIZE=2 FACE="Arial">(Sorry\, I had the
+	 wrong week!)</FONT>\n</P>\n\n<P><FONT SIZE=2 FACE="Arial">Yayyy!&nbsp\; B
+	eaver Bowl!</FONT>\n</P>\n\n<P><FONT SIZE=2 FACE="Arial">We should meet in
+	 the 2nd floor lounge and all go over together.&nbsp\; </FONT>\n</P>\n\n<P
+	><FONT SIZE=2 FACE="Arial">Pam</FONT>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-APPTSEQTIME:20070409T150714Z
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Students - Class of 2010";RSVP=TRUE:mailto:Students-Classof201
+	0@olin.edu
+CLASS:PUBLIC
+CREATED:20070421T210751Z
+DESCRIPTION:The Fastest Class Meeting Ever (until our next one)\nAll of wha
+	t is below will be discussed and “approved” at the class meeting. PLEA
+	SE show up!\nTime\nWe plan for this to only be 25 minutes (8 – 8:25pm). 
+	Please show up promptly! Meet 3rd floor lounge.\nWhiteboards\nWe have gott
+	en approval to put up the rest of the whiteboards! Not all of the full whi
+	teboard sheets have a place/function as of yet\, and there are several opt
+	ions for where/how they could be placed/used.\nOptions:\n*	Porta-Boards: T
+	hese are 4x4 ft. sheets that would be free to “float” around. Many peo
+	ple use the large sheets that haven’t been put up yet for notes\, so we
+	’re thinking these big sheets are a good combination of size and portabi
+	lity.\n*	Mini-Boards: These are approx. 2x2ft or so\, smaller versions of 
+	the porta-boards\, which we could get more of if we made less of the “po
+	rta-board” version.\n*	East Hall: If people would still prefer that the 
+	whiteboards go up in public spaces rather than being cut down into portabl
+	e whiteboards\, EH team rooms are also an option.\n*	Suites: If the class 
+	would prefer not to either cut up the remaining boards of put them up in E
+	ast Hall we could sell the remaining full sheets to suites who’ve alread
+	y asked to buy some\, and then reimburse the class that money.\nWe don’t
+	 want to do anything with the whiteboards that the class thinks wouldn’t
+	 be useful. Feedback needed! http://mrwiki.olin.edu/mrwiki/ClassOf2010/Cla
+	ssDiscussion\nClass Party\nMost probable date currently: May 5th (Saturday
+	\, 2nd study day\, Saturday after Carnival)\nWe have $185 (including money
+	 for postcards (see Summer Activities))\nIdea: outside and inside\n·	12no
+	on – 3ish: outside events\n·	Slip ‘n slide?\n			1	Water balloons?\n		
+		2	Dodgeball?\n			3	Foursquare?\n			4	Smoothies?\n			5	Other? – it’s r
+	eally open to any ideas you may have\n·	9 pm – midnight-ish: inside eve
+	nts\n·	Slideshow of pictures of 2010ers over the year?\n			1	Pizza and/or
+	 long sub?\n·	Would anyone be willing to donate money to the pizza/smooth
+	ie cause? You probably won’t use it all anyway.\n·	DDR tournament?\n			
+	1	Guitar Hero tournament?\n			2	Superlatives? Appreciations?\nSummer Activ
+	ities\nSummer Postcards:\n*	Idea: postcard exchange. We will send out 5 po
+	stcards with 5 addresses and 5 stamps to each person who signs up! http://
+	mrwiki.olin.edu/mrwiki/Classof2010/PostcardSignup\n*	Please everyone sign 
+	up on the wiki with your summer contact information (i.e.\, where you can 
+	be reached if someone were to send you a postcard). http://mrwiki.olin.edu
+	/mrwiki/Classof2010/SummerDirectory\nGet togethers (will not be discussed 
+	at meeting):\n*	We are currently looking for volunteers to help organize s
+	ummer get togethers. The current idea on the table is amusement parks. Ple
+	ase e-mail us back if you’d like to help organize!\n-Sarah and Marco\n
+DTEND:20070423T002500Z
+DTSTAMP:20070421T193919Z
+DTSTART:20070423T000000Z
+LAST-MODIFIED:20070423T002505Z
+LOCATION:WH 3rd Floor Lounge
+ORGANIZER;CN="Sarah Allen":mailto:Sarah.Allen@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:[2010 Meeting] The Fastest Class Meeting Ever
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEjkAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><U><B><FONT SIZE=5 FACE="Calibri">The Fastes
+	t Class Meeting Ever (until our next one)</FONT></B></U>\n\n<BR><I><FONT C
+	OLOR="#C0504D" SIZE=4 FACE="Calibri">All of what is below will be discusse
+	d and “approved” at the class meeting. PLEASE show up!</FONT></I>\n\n<
+	BR><U><B><FONT COLOR="#4F81BD" FACE="Calibri">Time</FONT></B></U>\n\n<P AL
+	IGN=JUSTIFY><FONT SIZE=2 FACE="Calibri">We plan for this to only be 25 min
+	utes (8 – 8:25pm). Please show up promptly! Meet 3<SUP>rd</SUP> floor lo
+	unge.</FONT></P>\n\n<P><U><B><FONT COLOR="#4F81BD" FACE="Calibri">Whiteboa
+	rds</FONT></B></U>\n\n<P ALIGN=JUSTIFY><FONT SIZE=2 FACE="Calibri">We have
+	 gotten approval to put up the rest of the whiteboards! Not all of the ful
+	l whiteboard sheets have a place/function as of yet\, and there are severa
+	l options for where/how they could be placed/used.</FONT></P>\n\n<P><FONT 
+	FACE="Calibri">Options:</FONT>\n<UL>\n<UL>\n<DIV ALIGN=JUSTIFY><LI><FONT S
+	IZE=2 FACE="Calibri">Porta-Boards: These are 4x4 ft. sheets that would be 
+	free to “float” around. Many people use the large sheets that haven’
+	t been put up yet for notes\, so we’re thinking these big sheets are a g
+	ood combination of size and portability.</FONT></LI></DIV>\n\n<DIV ALIGN=J
+	USTIFY><LI><FONT SIZE=2 FACE="Calibri">Mini-Boards: These are approx. 2x2f
+	t or so\, smaller versions of the porta-boards\, which we could get more o
+	f if we made less of the “porta-board” version.</FONT></LI></DIV>\n\n<
+	DIV ALIGN=JUSTIFY><LI><FONT SIZE=2 FACE="Calibri">East Hall: If people wou
+	ld still prefer that the whiteboards go up in public spaces rather than be
+	ing cut down into portable whiteboards\, EH team rooms are also an option.
+	</FONT></LI></DIV>\n\n<DIV ALIGN=JUSTIFY><LI><FONT SIZE=2 FACE="Calibri">S
+	uites: If the class would prefer not to either cut up the remaining boards
+	 of put them up in East Hall we could sell the remaining full sheets to su
+	ites who’ve already asked to buy some\, and then reimburse the class tha
+	t money.</FONT></LI></DIV>\n</UL></UL>\n<P><FONT SIZE=2 FACE="Calibri">We 
+	don’t want to do anything with the whiteboards that the class thinks wou
+	ldn’t be useful.</FONT><B><FONT SIZE=2 FACE="Calibri"> Feedback needed!<
+	/FONT></B><FONT SIZE=2 FACE="Calibri"> </FONT><A HREF="http://mrwiki.olin.
+	edu/mrwiki/ClassOf2010/ClassDiscussion"><U><FONT COLOR="#0000FF" SIZE=2 FA
+	CE="Calibri">http://mrwiki.olin.edu/mrwiki/ClassOf2010/ClassDiscussion</FO
+	NT></U></A></P>\n\n<P><U><B><FONT COLOR="#4F81BD" FACE="Calibri">Class Par
+	ty</FONT></B></U>\n\n<P ALIGN=JUSTIFY><FONT SIZE=2 FACE="Calibri">Most pro
+	bable date currently: May 5<SUP>th</SUP> (Saturday\, 2<SUP>nd</SUP> study 
+	day\, Saturday after Carnival)</FONT></P>\n\n<P ALIGN=JUSTIFY><FONT SIZE=2
+	 FACE="Calibri">We have $185 (including money for postcards (see</FONT><U>
+	</U><U><B> <FONT COLOR="#4F81BD" SIZE=2 FACE="Calibri">Summer Activities</
+	FONT></B></U><B></B><FONT SIZE=2 FACE="Calibri">))</FONT></P>\n\n<P ALIGN=
+	JUSTIFY><FONT SIZE=2 FACE="Calibri">Idea: outside and inside</FONT></P>\n\
+	n<P><FONT SIZE=2 FACE="Calibri">·&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp
+	\; 12noon – 3ish: outside events</FONT>\n\n<BR><FONT SIZE=2 FACE="Calibr
+	i">·&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; Slip ‘n slide?</FONT>\n<
+	UL><UL><UL>\n<P ALIGN=JUSTIFY><FONT SIZE=2 FACE="Calibri">1&nbsp\;&nbsp\;&
+	nbsp\;&nbsp\;&nbsp\;&nbsp\;</FONT> <FONT SIZE=2 FACE="Calibri">Water ballo
+	ons?</FONT></P>\n\n<P ALIGN=JUSTIFY><FONT SIZE=2 FACE="Calibri">2&nbsp\;&n
+	bsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; Dodgeball?</FONT></P>\n\n<P ALIGN=JUSTIF
+	Y><FONT SIZE=2 FACE="Calibri">3&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; 
+	Foursquare?</FONT></P>\n\n<P ALIGN=JUSTIFY><FONT SIZE=2 FACE="Calibri">4&n
+	bsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; Smoothies?</FONT></P>\n\n<P ALIGN
+	=JUSTIFY><FONT SIZE=2 FACE="Calibri">5&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&
+	nbsp\; Other? – it’s really open to any ideas you may have</FONT></P>\
+	n</UL></UL></UL>\n<P><FONT SIZE=2 FACE="Calibri">·&nbsp\;&nbsp\;&nbsp\;&n
+	bsp\;&nbsp\;&nbsp\; 9 pm – midnight-ish: inside events</FONT>\n\n<BR><FO
+	NT SIZE=2 FACE="Calibri">·&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; Slid
+	eshow of pictures of 2010ers over the year?</FONT>\n<UL><UL><UL>\n<P ALIGN
+	=JUSTIFY><FONT SIZE=2 FACE="Calibri">1&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&
+	nbsp\;</FONT> <FONT SIZE=2 FACE="Calibri">Pizza and/or long sub?</FONT></P
+	>\n</UL></UL></UL>\n<P><FONT SIZE=2 FACE="Calibri">·&nbsp\;&nbsp\;&nbsp\;
+	&nbsp\;&nbsp\;&nbsp\; Would anyone be willing to donate money to the pizza
+	/smoothie cause? You probably won’t use it all anyway.</FONT>\n\n<BR><FO
+	NT SIZE=2 FACE="Calibri">·&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; DDR 
+	tournament?</FONT>\n<UL><UL><UL>\n<P ALIGN=JUSTIFY><FONT SIZE=2 FACE="Cali
+	bri">1&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;</FONT> <FONT SIZE=2 FACE=
+	"Calibri">Guitar Hero tournament?</FONT></P>\n\n<P ALIGN=JUSTIFY><FONT SIZ
+	E=2 FACE="Calibri">2&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; Superlative
+	s? Appreciations?</FONT></P>\n</UL></UL></UL>\n<P ALIGN=JUSTIFY><U><B><FON
+	T COLOR="#4F81BD" FACE="Calibri">Summer Activities</FONT></B></U></P>\n\n<
+	P ALIGN=JUSTIFY><U><B><FONT FACE="Calibri">Summer Postcards:</FONT></B></U
+	></P>\n<UL>\n<UL>\n<DIV ALIGN=JUSTIFY><LI><FONT FACE="Calibri">Idea: postc
+	ard exchange. We will send out 5 postcards with 5 addresses and 5 stamps t
+	o each person who signs up!</FONT><B><FONT FACE="Calibri"></FONT></B> <A H
+	REF="http://mrwiki.olin.edu/mrwiki/Classof2010/PostcardSignup"><U><FONT CO
+	LOR="#0000FF" FACE="Calibri">http://mrwiki.olin.edu/mrwiki/Classof2010/Pos
+	tcardSignup</FONT></U></A><B></B></LI></DIV>\n\n<DIV ALIGN=JUSTIFY><LI><FO
+	NT FACE="Calibri">Please everyone sign up on the wiki with your summer con
+	tact information (i.e.\, where you can be reached if someone were to send 
+	you a postcard).</FONT><B><FONT FACE="Calibri"></FONT></B> <A HREF="http:/
+	/mrwiki.olin.edu/mrwiki/Classof2010/SummerDirectory"><U><FONT COLOR="#0000
+	FF" FACE="Calibri">http://mrwiki.olin.edu/mrwiki/Classof2010/SummerDirecto
+	ry</FONT></U></A><B></B></LI></DIV>\n</UL></UL>\n<P ALIGN=JUSTIFY><U><B><F
+	ONT FACE="Calibri">Get togethers (will not be discussed at meeting):</FONT
+	></B></U></P>\n<UL>\n<UL>\n<DIV ALIGN=JUSTIFY><LI><FONT FACE="Calibri">We 
+	are currently looking for volunteers to help organize summer get togethers
+	. The current idea on the table is amusement parks. Please e-mail us back 
+	if you’d like to help organize!</FONT></LI></DIV>\n</UL></UL>\n<P ALIGN=
+	JUSTIFY><FONT COLOR="#1F497D" FACE="Cambria">-</FONT><I><FONT COLOR="#1F49
+	7D" FACE="Cambria">Sarah and Marco</FONT></I></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20070423T164712Z
+DTEND:20070424T030000Z
+DTSTAMP:20070414T144600Z
+DTSTART:20070424T023000Z
+LAST-MODIFIED:20070424T044112Z
+LOCATION:West Hall 1st floor lounge
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:West Hall Residence Hall Rep Special Elections
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEjoAAA==
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20070417T011414Z
+DTEND:20070425T200000Z
+DTSTAMP:20100218T160557Z
+DTSTART:20070425T190000Z
+LAST-MODIFIED:20070425T201038Z
+LOCATION:campus
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Oval tour
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEjsAAA==
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Michael Taylor";RSVP=TRUE:mailto:Michael.Taylor@students.olin.
+	edu
+ATTENDEE;CN="Brandon C. Rowan";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Daniel W. Rice";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+CLASS:PUBLIC
+CREATED:20070429T162137Z
+DESCRIPTION:If you can\, let's all meet in the dining hall at 3 to put ever
+	ything together.  Do we have easels yet to hold up the maps?  Also\, is th
+	e foam core in OSL\, or does someone have it?\n\nThanks\,\nNick\n
+DTEND:20070429T193000Z
+DTSTAMP:20070429T161919Z
+DTSTART:20070429T190000Z
+LAST-MODIFIED:20070429T185358Z
+LOCATION:Dining Hall
+ORGANIZER;CN="Nicholas Hays":invalid:nomail
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Setup for Room Draw
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEjwAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT SIZE=2 FACE="Arial">If you can\, let's
+	 all meet in the dining hall at 3 to put everything together.&nbsp\; Do we
+	 have easels yet to hold up the maps?&nbsp\; Also\, is the foam core in OS
+	L\, or does someone have it?</FONT></P>\n\n<P><FONT SIZE=2 FACE="Arial">Th
+	anks\,</FONT>\n\n<BR><FONT SIZE=2 FACE="Arial">Nick</FONT>\n</P>\n\n</BODY
+	>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Sarah Allen";RSVP=TRUE:mailto:Sarah.Allen@students.olin.edu
+ATTENDEE;CN="Maia Bittner";RSVP=TRUE:mailto:Maia.Bittner@students.olin.edu
+ATTENDEE;CN="Morgan Boes";RSVP=TRUE:mailto:Morgan.Boes@students.olin.edu
+ATTENDEE;CN="Matthew Bowes";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Zachary Coburn";RSVP=TRUE:mailto:Zachary.Coburn@students.olin.
+	edu
+ATTENDEE;CN="Pamela Darvirris";RSVP=TRUE:mailto:Pamela.Darvirris@students.o
+	lin.edu
+ATTENDEE;CN="Joseph Funke";RSVP=TRUE:mailto:Joseph.Funke@students.olin.edu
+ATTENDEE;CN="Leslie Gerhat";RSVP=TRUE:mailto:Leslie.Gerhat@students.olin.ed
+	u
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+ATTENDEE;CN="Jeffrey Moore";RSVP=TRUE:mailto:Jeffrey.Moore@students.olin.ed
+	u
+ATTENDEE;CN="Marco Morales";RSVP=TRUE:mailto:Marco.Morales@students.olin.ed
+	u
+ATTENDEE;CN="Jessica Murray";RSVP=TRUE:mailto:Jessica.Murray@students.olin.
+	edu
+ATTENDEE;CN="Andrew Pethan";RSVP=TRUE:mailto:Andrew.Pethan@students.olin.ed
+	u
+ATTENDEE;CN="Bradley Powers";RSVP=TRUE:mailto:Bradley.Powers@students.olin.
+	edu
+ATTENDEE;CN="Amanda Pratt";RSVP=TRUE:mailto:Amanda.Pratt@students.olin.edu
+ATTENDEE;CN="David Stamp";RSVP=TRUE:mailto:David.Stamp@students.olin.edu
+ATTENDEE;CN="Jeffrey Stanton";RSVP=TRUE:mailto:Jeffrey.Stanton@students.oli
+	n.edu
+ATTENDEE;CN="Avinash Uttamchandani";RSVP=TRUE:mailto:Avinash.Uttamchandani@
+	students.olin.edu
+ATTENDEE;CN="Rebecca Belisle";RSVP=TRUE:mailto:Rebecca.Belisle@students.oli
+	n.edu
+ATTENDEE;CN="Marc Sweetgall";RSVP=TRUE:mailto:Marc.Sweetgall@students.olin.
+	edu
+ATTENDEE;CN="Alex Trazkovich";RSVP=TRUE:mailto:Alex.Trazkovich@students.oli
+	n.edu
+CLASS:PUBLIC
+CREATED:20070428T002231Z
+DESCRIPTION:Hey Guys\,\nSo\, I know that I would like to get everything cor
+	rect on this final packet\, as I am sure everyone else would.  So\, we sho
+	uld all get together to discuss our final answers. Tuesday the 1st of May 
+	seems good\, but let me know what you think. I hope that it will not take 
+	the entire 2 hours\, or people can come and go as they please.  ONE NOTE: 
+	This time should be used to check answers or get help if you truly don't u
+	nderstand something and not if you haven't looked at the problems.  So\, c
+	ome prepared and ready to have some ICB fun and really cement your underst
+	anding of Packet 4!\nThanks\,\n~Amanda\n\n
+DTEND:20070502T010000Z
+DTSTAMP:20070427T233634Z
+DTSTART:20070501T230000Z
+LAST-MODIFIED:20070502T001206Z
+LOCATION:3rd Floor Antilounge
+ORGANIZER;CN="Amanda Pratt":mailto:Amanda.Pratt@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Tutorial Cross-Check before Final Arrival
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEj0AAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT SIZE=2 FACE="Arial">Hey Guys\,</FONT>\
+	n\n<BR><FONT SIZE=2 FACE="Arial">So\, I know that I would like to get ever
+	ything correct on this final packet\, as I am sure everyone else would.&nb
+	sp\; So\, we should all get together to discuss our final answers. Tuesday
+	 the 1st of May seems good\, but let me know what you think. I hope that i
+	t will not take the entire 2 hours\, or people can come and go as they ple
+	ase.&nbsp\; ONE NOTE: This time should be used to check answers or get hel
+	p if you truly don't understand something and not if you haven't looked at
+	 the problems.&nbsp\; So\, come prepared and ready to have some ICB fun an
+	d really cement your understanding of Packet 4!</FONT></P>\n\n<P><FONT SIZ
+	E=2 FACE="Arial">Thanks\,</FONT>\n\n<BR><FONT SIZE=2 FACE="Arial">~Amanda<
+	/FONT>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Kerin O'Toole";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+CLASS:PUBLIC
+CREATED:20070501T170907Z
+DTEND:20070503T200000Z
+DTSTAMP:20070501T165839Z
+DTSTART:20070503T193000Z
+LAST-MODIFIED:20070501T170907Z
+LOCATION:OC 112 (Emma's Office)
+ORGANIZER;CN="Emma Goodman":invalid:nomail
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:OVAL Coordinator Interview
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEj4AAA==
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20070509T222509Z
+DESCRIPTION:Can’t wait to see you there!\n
+DTEND:20070512T040000Z
+DTSTAMP:20100218T160558Z
+DTSTART:20070512T010000Z
+LAST-MODIFIED:20070512T031105Z
+LOCATION:WH 2nd\, 3rd\, & 4th floor Lounges
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:2010 Class Party! [Part 1]
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEj8AAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LANG
+	="en-us"><FONT COLOR="#1F497D" FACE="Cambria">Can</FONT></SPAN><SPAN LANG=
+	"en-us"></SPAN><SPAN LANG="en-us"><FONT COLOR="#1F497D" FACE="Cambria">’
+	</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT COLOR="#1
+	F497D" FACE="Cambria">t wait to see you there!</FONT></SPAN><SPAN LANG="en
+	-us"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20070509T222517Z
+DESCRIPTION:Don’t forget sunscreen\, bug spray\, a blanket\, and some sun
+	glasses! And contact your driver as soon as possible!\n
+DTEND:20070512T200000Z
+DTSTAMP:20100218T160558Z
+DTSTART:20070512T160000Z
+LAST-MODIFIED:20070512T161036Z
+LOCATION:Park in Needham
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:2010 Class Party! [Part 2]
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEkAAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LANG
+	="en-us"><FONT COLOR="#1F497D" FACE="Cambria">Don</FONT></SPAN><SPAN LANG=
+	"en-us"></SPAN><SPAN LANG="en-us"><FONT COLOR="#1F497D" FACE="Cambria">’
+	</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT COLOR="#1
+	F497D" FACE="Cambria">t forget sunscreen\, bug spray\, a blanket\,</FONT><
+	/SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT COLOR="#1F497D" F
+	ACE="Cambria"> and some sunglasses! And contact your driver as soon as pos
+	sible!</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN></
+	P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=phoenix-racing@lists.olin.edu;RSVP=TRUE:mailto:phoenix-racing@l
+	ists.olin.edu
+CLASS:PUBLIC
+CREATED:20070515T163214Z
+DESCRIPTION:Let’s do this.\n\n-tsang\n\n
+DTEND:20070515T210000Z
+DTSTAMP:20070515T161849Z
+DTSTART:20070515T193000Z
+LAST-MODIFIED:20070515T195057Z
+LOCATION:EH 2nd floor team room
+ORGANIZER;CN="Andrew Tsang":invalid:nomail
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:[Phoenix-Racing] Brochue
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEkEAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><SPAN LANG="en-us"><FONT FACE="Calibri">Let
+	’s do this.</FONT></SPAN>\n</P>\n\n<P><SPAN LANG="en-us"><FONT FACE="Cal
+	ibri">-tsang</FONT></SPAN>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Aaron Peterson";RSVP=TRUE:mailto:Aaron.Peterson@students.olin.
+	edu
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+ATTENDEE;CN="Matthew Crawford";RSVP=TRUE:invalid:nomail
+CLASS:PUBLIC
+CREATED:20070727T204849Z
+DESCRIPTION:\n
+DTEND:20070728T190000Z
+DTSTAMP:20070727T204543Z
+DTSTART:20070728T180000Z
+LAST-MODIFIED:20070728T174608Z
+LOCATION:AC 328
+ORGANIZER;CN="Caitlin Greeley":invalid:nomail
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Going over Powerpoint
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEkIAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n<BR>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Marco Morales";RSVP=TRUE:mailto:Marco.Morales@students.olin.ed
+	u
+ATTENDEE;CN="Matthew Roy";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Gregory Marra";RSVP=TRUE:mailto:Gregory.Marra@students.olin.ed
+	u
+ATTENDEE;CN="Ellen Chisa";RSVP=TRUE:mailto:Ellen.Chisa@students.olin.edu
+ATTENDEE;CN="Christina Nguyen";RSVP=TRUE:mailto:Christina.Nguyen@students.o
+	lin.edu
+ATTENDEE;CN="Jeffrey Moore";RSVP=TRUE:mailto:Jeffrey.Moore@students.olin.ed
+	u
+ATTENDEE;CN="Bradley Powers";RSVP=TRUE:mailto:Bradley.Powers@students.olin.
+	edu
+ATTENDEE;CN="Zachary Kratzer";RSVP=TRUE:mailto:Zachary.Kratzer@students.oli
+	n.edu
+ATTENDEE;CN="Michael Taylor";RSVP=TRUE:mailto:Michael.Taylor@students.olin.
+	edu
+ATTENDEE;CN="Andrew Pethan";RSVP=TRUE:mailto:Andrew.Pethan@students.olin.ed
+	u
+ATTENDEE;CN="Jeffrey Stanton";RSVP=TRUE:mailto:Jeffrey.Stanton@students.oli
+	n.edu
+ATTENDEE;CN="Eric Hwang";RSVP=TRUE:mailto:Eric.Hwang@students.olin.edu
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+ATTENDEE;CN="Andrew Barry";RSVP=TRUE:mailto:Andrew.Barry@students.olin.edu
+ATTENDEE;CN="James Getzendanner";RSVP=TRUE:mailto:James.Getzendanner@studen
+	ts.olin.edu
+CLASS:PUBLIC
+CREATED:20070830T120203Z
+DESCRIPTION:Hello all\,\n\nThe Short: Will you help the freshman learn how 
+	to use Outlook\, calendars\, wikis\, email lists\, etc\, and answer questi
+	ons they may have?\n\nThe Long:\nI was thinking of organizing a casual\, y
+	et informational event this evening that would help the Freshmen out with 
+	Olin’s large and sometimes complicated computer/wiki/Outlook driven cult
+	ure\, and I was hoping you would be interested in helping out.  Currently\
+	, the idea is to have knowledgeable and helpful people (you) be present to
+	 answer questions and give instructions on how to do things like:\n*	Set u
+	p email on Outlook (on Campus and off Campus) and VPN\n*	Olin Wikis: Mr. W
+	iki\, how to edit them\, how to properly use them\n*	Using Calendars: Meet
+	ing requests\, scheduling\, useful tips and tricks\n*	Olin Email Lists: Wh
+	at good lists are to subscribe to\, general list etiquette\, etc.\n*	Anyth
+	ing else relevant that you can think of\nThis is a non-exhaustive list\, a
+	nd the plan is still quite tentative\, so if you have any other ideas\, pl
+	ease contribute them.\n\nI know that there is documentation for most of th
+	ese topics located in various sources and emails.  Hopefully we could brin
+	g those numerous places together in one session and be there to answer que
+	stions for them.  In fact it will probably be a good idea to have printed 
+	copies of some of the IT documents floating around the event.\n\nPlease gi
+	ve me feedback for good ways to run this event\, or things to add to it\, 
+	or different ways to present the material\, or anything else that you can 
+	bring to mind. \nPartially determined by the responses I get from people\,
+	 I will send out an email to the freshmen explaining this event sometime t
+	his afternoon and throw it on carpe about half an hour prior.\n\nThe list 
+	of the people in the ‘to’ field were the first few that came off of my
+	 head.  If you know anyone else at all that might be interested In being p
+	art of this event\, please forward this on.\n\nThank you all very much\,\n
+	\nEvan Morikawa\n858.531.1718\n
+DTEND:20070831T023000Z
+DTSTAMP:20070830T115851Z
+DTSTART:20070831T013000Z
+LAST-MODIFIED:20070830T120203Z
+LOCATION:1st Floor West Hall Lounge
+ORGANIZER;CN="Evan Morikawa":mailto:Evan.Morikawa@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Your Help for the Freshman Olin Outlook Orientation
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEkMAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT FACE="Calibri">Hello all\,</FONT>\n</P
+	>\n\n<P><B><FONT FACE="Calibri">The Short:</FONT></B> <FONT FACE="Calibri"
+	>Will you help the freshman learn how to use Outlook\, calendars\, wikis\,
+	 email lists\, etc\, and answer questions they may have?<BR>\n</FONT>\n\n<
+	BR><B><FONT FACE="Calibri">The Long:</FONT></B>\n\n<BR><FONT FACE="Calibri
+	">I was thinking of organizing a casual\, yet informational event this eve
+	ning that would help the Freshmen out with Olin’s large and sometimes co
+	mplicated computer/wiki/Outlook driven culture\, and I was hoping you woul
+	d be interested in helping out.&nbsp\; Currently\, the idea is to have kno
+	wledgeable and helpful people (you) be present to answer questions and giv
+	e instructions on how to do things like:</FONT></P>\n<UL><UL>\n<UL>\n<LI><
+	FONT FACE="Calibri">Set up email on Outlook (on Campus and off Campus) and
+	 VPN</FONT></LI>\n\n<LI><FONT FACE="Calibri">Olin Wikis: Mr. Wiki\, how to
+	 edit them\, how to properly use them</FONT></LI>\n\n<LI><FONT FACE="Calib
+	ri">Using Calendars: Meeting requests\, scheduling\, useful tips and trick
+	s</FONT></LI>\n\n<LI><FONT FACE="Calibri">Olin Email Lists: What good list
+	s are to subscribe to\, general list etiquette\, etc.</FONT></LI>\n\n<LI><
+	FONT FACE="Calibri">Anything else relevant that you can think of</FONT></L
+	I>\n</UL></UL></UL>\n<P><FONT FACE="Calibri">This is a non-exhaustive list
+	\, and the plan is still quite tentative\, so if you have any other ideas\
+	, please contribute them.</FONT></P>\n\n<P><FONT FACE="Calibri">I know tha
+	t there is documentation for most of these topics located in various sourc
+	es and emails.&nbsp\; Hopefully we could bring those numerous places toget
+	her in one session and be there to answer questions for them.&nbsp\; In fa
+	ct it will probably be a good idea to have printed copies of some of the I
+	T documents floating around the event.</FONT></P>\n\n<P><FONT FACE="Calibr
+	i">Please give me feedback for good ways to run this event\, or things to 
+	add to it\, or different ways to present the material\, or anything else t
+	hat you can bring to mind. </FONT></P>\n\n<P><FONT FACE="Calibri">Partiall
+	y determined by the responses I get from people\, I will send out an email
+	 to the freshmen explaining this event sometime this afternoon and throw i
+	t on carpe about half an hour prior.</FONT></P>\n\n<P><FONT FACE="Calibri"
+	>The list of the people in the ‘to’ field were the first few that came
+	 off of my head.&nbsp\; If you know anyone else at all that might be inter
+	ested In being part of this event\, please forward this on.</FONT></P>\n\n
+	<P><FONT FACE="Calibri">Thank you all very much\,</FONT>\n</P>\n\n<P><FONT
+	 FACE="Calibri">Evan Morikawa</FONT>\n\n<BR><FONT FACE="Calibri">858.531.1
+	718</FONT>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Michael Roenbeck";RSVP=TRUE:mailto:Michael.Roenbeck@students.o
+	lin.edu
+ATTENDEE;CN="Spencer Backus";RSVP=TRUE:mailto:Spencer.Backus@students.olin.
+	edu
+ATTENDEE;CN="Kaelyn Stadtmueller";RSVP=TRUE:mailto:Kaelyn.Stadtmueller@stud
+	ents.olin.edu
+ATTENDEE;CN="Rachita Navara";RSVP=TRUE:mailto:Rachita.Navara@students.olin.
+	edu
+ATTENDEE;CN="Andrea Lai";RSVP=TRUE:mailto:Andrea.Lai@students.olin.edu
+ATTENDEE;CN="Rachel Strubhar-Masick";RSVP=TRUE:mailto:Rachel.Strubhar-Masic
+	k@students.olin.edu
+ATTENDEE;CN="Jeffrey Stanton";RSVP=TRUE:mailto:Jeffrey.Stanton@students.oli
+	n.edu
+ATTENDEE;CN="Eric Hwang";RSVP=TRUE:mailto:Eric.Hwang@students.olin.edu
+ATTENDEE;CN="Stanislaw Antol";RSVP=TRUE:mailto:Stanislaw.Antol@students.oli
+	n.edu
+ATTENDEE;CN="Adam Kenvarg";RSVP=TRUE:mailto:Adam.Kenvarg@students.olin.edu
+ATTENDEE;CN="Joseph Funke";RSVP=TRUE:mailto:Joseph.Funke@students.olin.edu
+ATTENDEE;CN="Andrew Barry";RSVP=TRUE:mailto:Andrew.Barry@students.olin.edu
+ATTENDEE;CN="Guanqing Ou";RSVP=TRUE:mailto:Guanqing.Ou@students.olin.edu
+ATTENDEE;CN="Lindsay Kaye";RSVP=TRUE:mailto:Lindsay.Kaye@students.olin.edu
+ATTENDEE;CN="Claire McLeod";RSVP=TRUE:mailto:Claire.McLeod@students.olin.ed
+	u
+ATTENDEE;CN="Kathryn Sullivan";RSVP=TRUE:mailto:Kathryn.Sullivan@students.o
+	lin.edu
+ATTENDEE;CN="Albert Setjoadi";RSVP=TRUE:mailto:Albert.Setjoadi@students.oli
+	n.edu
+ATTENDEE;CN="John Higgins";RSVP=TRUE:mailto:John.Higgins@students.olin.edu
+ATTENDEE;CN="Annie Martin";RSVP=TRUE:mailto:Annie.Martin@students.olin.edu
+ATTENDEE;CN="Nina Sawhney";RSVP=TRUE:mailto:Nina.Sawhney@students.olin.edu
+ATTENDEE;CN="Nitin Kapania";RSVP=TRUE:mailto:Nitin.Kapania@students.olin.ed
+	u
+ATTENDEE;CN="Yiyang Li";RSVP=TRUE:mailto:Yiyang.Li@students.olin.edu
+ATTENDEE;CN="George Sass";RSVP=TRUE:mailto:George.Sass@students.olin.edu
+ATTENDEE;CN="Avinash Uttamchandani";RSVP=TRUE:mailto:Avinash.Uttamchandani@
+	students.olin.edu
+ATTENDEE;CN="Philip Dirkse";RSVP=TRUE:mailto:Philip.Dirkse@students.olin.ed
+	u
+ATTENDEE;CN="Philip Chung";RSVP=TRUE:mailto:Philip.Chung@students.olin.edu
+ATTENDEE;CN="Ryan Harris";RSVP=TRUE:mailto:Ryan.Harris@students.olin.edu
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+ATTENDEE;CN="James Getzendanner";RSVP=TRUE:mailto:James.Getzendanner@studen
+	ts.olin.edu
+ATTENDEE;CN="John Watson";RSVP=TRUE:mailto:John.Watson@students.olin.edu
+ATTENDEE;CN="Leah Engelbert-Fenton";RSVP=TRUE:mailto:Leah.Engelbert-Fenton@
+	students.olin.edu
+ATTENDEE;CN="Amy Gao";RSVP=TRUE:mailto:Amy.Gao@students.olin.edu
+ATTENDEE;CN="Jacob Miller";RSVP=TRUE:mailto:Jacob.Miller@students.olin.edu
+ATTENDEE;CN="Karl Schults";RSVP=TRUE:mailto:Karl.Schults@students.olin.edu
+ATTENDEE;CN="Nicole Lee";RSVP=TRUE:mailto:Nicole.Lee@students.olin.edu
+ATTENDEE;CN="Julie Baca";RSVP=TRUE:mailto:Julie.Baca@students.olin.edu
+CLASS:PUBLIC
+CREATED:20070830T031316Z
+DESCRIPTION:Hey Guys!  Welcome to the third floor and its going to be a gre
+	at year!  To help assure that we need to have a short meeting to make sure
+	 we are all on the same page as to public space and such\,  so before we a
+	ll get too terribly busy lets get together : )\n\nCheers\,  \nYour floor R
+	2s\,  Jen and Erik Danger\n
+DTEND:20070904T233000Z
+DTSTAMP:20070830T002829Z
+DTSTART:20070904T230000Z
+LAST-MODIFIED:20070830T031329Z
+LOCATION:Third floor lounge
+ORGANIZER;CN="Jennifer Keene":mailto:Jennifer.Keene@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:3rd floor ground rules meeting
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEkQAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT SIZE=2 FACE="Arial">Hey Guys!&nbsp\; W
+	elcome to the third floor and its going to be a great year!&nbsp\; To help
+	 assure that we need to have a short meeting to make sure we are all on th
+	e same page as to public space and such\,&nbsp\; so before we all get too 
+	terribly busy lets get together : )</FONT></P>\n\n<P><FONT SIZE=2 FACE="Ar
+	ial">Cheers\,&nbsp\; </FONT>\n\n<BR><FONT SIZE=2 FACE="Arial">Your floor R
+	2s\,&nbsp\; Jen and Erik Danger</FONT>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Anthony Roldan";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Gregory Marra";RSVP=TRUE:mailto:Gregory.Marra@students.olin.ed
+	u
+ATTENDEE;CN="Jeffrey Moore";RSVP=TRUE:mailto:Jeffrey.Moore@students.olin.ed
+	u
+ATTENDEE;CN="Stefan Wolpert";RSVP=TRUE:mailto:Stefan.Wolpert@students.olin.
+	edu
+ATTENDEE;CN="Angela Sharer";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Jessica Sullivan";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Kristina Cary";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Ellen Chisa";RSVP=TRUE:mailto:Ellen.Chisa@students.olin.edu
+ATTENDEE;CN="David Nelson";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Bryn Hollen";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Sarah Allen";RSVP=TRUE:mailto:Sarah.Allen@students.olin.edu
+ATTENDEE;CN="Marco Morales";RSVP=TRUE:mailto:Marco.Morales@students.olin.ed
+	u
+ATTENDEE;CN="Michael Taylor";RSVP=TRUE:mailto:Michael.Taylor@students.olin.
+	edu
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+CLASS:PUBLIC
+CREATED:20070903T011718Z
+DESCRIPTION:Hey All\,\nPlease RSVP to this\, the 0th GA meeting. Agenda is 
+	below\, but will be sent out before the meeting as well.\nThanks!\nT\n\nI.
+		Reports\na.	Only anything essential\n			b.	Requests for Agenda Items\nII.
+		Other Line Items\na.	SAC?\n			b.	CORe ($x from operating expenses post fa
+	cto for club fair)\n			c.	SWE ($...)\nIII.	Discussion\na.	Does Wednesdays 
+	at 7pm work for people for our regular meeting?\n			b.	CORe elections are 
+	Thursday Sept 6th – talk it up!\n			c.	1st GA meeting is Monday Sept 10t
+	h \n			d.	Retreat is (potentially) Saturday Sept 15th\ni.	Conflict with Ca
+	mpus Day of Service – is that okay? Reschedule?\n					ii.	What do you wa
+	nt to talk about?\n\n
+DTEND:20070905T233000Z
+DTSTAMP:20070903T004620Z
+DTSTART:20070905T230000Z
+LAST-MODIFIED:20070906T001935Z
+LOCATION:DHall Mez
+ORGANIZER;CN="Tiana Veldwisch":invalid:nomail
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:0th GA meeting
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEkUAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT SIZE=2 FACE="Arial">Hey All\,</FONT>\n
+	\n<BR><FONT SIZE=2 FACE="Arial">Please RSVP to this\, the 0th GA meeting. 
+	Agenda is below\, but will be sent out before the meeting as well.</FONT>\
+	n\n<BR><FONT SIZE=2 FACE="Arial">Thanks!<BR>\nT</FONT>\n</P>\n\n<P><FONT S
+	IZE=2 FACE="Book Antiqua">I.&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;</FONT> <FO
+	NT FACE="Book Antiqua">Reports</FONT>\n\n<BR><FONT FACE="Book Antiqua">a.&
+	nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; Only anything essential</FONT>\n<UL><UL
+	><UL>\n<P><FONT FACE="Book Antiqua">b.&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;<
+	/FONT> <FONT FACE="Book Antiqua">Requests for Agenda Items</FONT>\n</UL></
+	UL></UL>\n<P><FONT FACE="Book Antiqua">II.&nbsp\;&nbsp\;&nbsp\;&nbsp\; Oth
+	er Line Items</FONT>\n\n<BR><FONT FACE="Book Antiqua">a.&nbsp\;&nbsp\;&nbs
+	p\;&nbsp\;&nbsp\; SAC?</FONT>\n<UL><UL><UL>\n<P><FONT FACE="Book Antiqua">
+	b.&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;</FONT> <FONT FACE="Book Antiqua">COR
+	e ($x from<I> operating expenses post facto</I> for club fair)</FONT>\n\n<
+	BR><FONT FACE="Book Antiqua">c.&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;</FONT> 
+	<FONT FACE="Book Antiqua">SWE ($...)</FONT>\n</UL></UL></UL>\n<P><FONT FAC
+	E="Book Antiqua">III.&nbsp\;&nbsp\;&nbsp\; Discussion</FONT>\n\n<BR><FONT 
+	FACE="Book Antiqua">a.&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; Does Wednesdays 
+	at 7pm work for people for our regular meeting?</FONT>\n<UL><UL><UL>\n<P><
+	FONT FACE="Book Antiqua">b.&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;</FONT> <FON
+	T FACE="Book Antiqua">CORe elections are Thursday Sept 6<SUP>th</SUP> – 
+	talk it up!</FONT>\n\n<BR><FONT FACE="Book Antiqua">c.&nbsp\;&nbsp\;&nbsp\
+	;&nbsp\;&nbsp\; 1<SUP>st</SUP> GA meeting is Monday Sept 10<SUP>th</SUP> <
+	/FONT>\n\n<BR><FONT FACE="Book Antiqua">d.&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbs
+	p\; Retreat is (potentially) Saturday Sept 15<SUP>th</SUP></FONT>\n</UL></
+	UL></UL>\n<P><FONT FACE="Book Antiqua">i.&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp
+	\; Conflict with Campus Day of Service – is that okay? Reschedule?</FONT
+	>\n<UL><UL><UL><UL><UL>\n<P><FONT FACE="Book Antiqua">ii.&nbsp\;&nbsp\;&nb
+	sp\;&nbsp\;</FONT> <FONT FACE="Book Antiqua">What do you want to talk abou
+	t?</FONT>\n</P>\n</UL></UL></UL></UL></UL>\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Joan Liu";RSVP=TRUE:invalid:nomail
+CLASS:PUBLIC
+CREATED:20070908T194217Z
+DESCRIPTION:Please reply with a suggestion for a meting place.  Otherwise\,
+	 I would suggest the WH 3rd floor antelounge or team room.\n
+DTEND:20070909T210000Z
+DTSTAMP:20070908T194356Z
+DTSTART:20070909T200000Z
+LAST-MODIFIED:20070909T200042Z
+LOCATION:Wherever
+ORGANIZER;CN="Bryce Lee":mailto:Bryce.Lee@students.olin.edu
+PRIORITY:5
+SEQUENCE:1
+SUMMARY;LANGUAGE=en-us:Chaos Paper Meeting
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEkYAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT SIZE=2 FACE="Arial">Please reply with 
+	a suggestion for a meting place.&nbsp\; Otherwise\, I would suggest the WH
+	 3rd floor antelounge or team room.</FONT></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-APPTLASTSEQUENCE:1
+X-MS-OLK-APPTSEQTIME:20070908T194356Z
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+ATTENDEE;CN="Benjamin Small";RSVP=TRUE:mailto:Benjamin.Small@students.olin.
+	edu
+ATTENDEE;CN="Nicole Lee";RSVP=TRUE:mailto:Nicole.Lee@students.olin.edu
+CLASS:PUBLIC
+CREATED:20070917T024907Z
+DESCRIPTION:K\,  this is a shot in the dark since nikki and bryce don't kee
+	p calendars up :(\n
+DTEND:20070910T223000Z
+DTSTAMP:20070917T020929Z
+DTSTART:20070910T200000Z
+LAST-MODIFIED:20070917T121254Z
+ORGANIZER;CN="Jennifer Keene":mailto:Jennifer.Keene@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Orgo flaming death
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEkcAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT SIZE=2 FACE="Arial">K\,&nbsp\; this is
+	 a shot in the dark since nikki and bryce don't keep calendars up :(</FONT
+	>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Eric Hwang";RSVP=TRUE:mailto:Eric.Hwang@students.olin.edu
+ATTENDEE;CN="Jeffrey Moore";RSVP=TRUE:mailto:Jeffrey.Moore@students.olin.ed
+	u
+ATTENDEE;CN="Heena Mutha";RSVP=TRUE:mailto:Heena.Mutha@students.olin.edu
+ATTENDEE;CN="Kiralyse Gonzalez";RSVP=TRUE:mailto:Kiralyse.Gonzalez@students
+	.olin.edu
+ATTENDEE;CN="Joan Liu";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+ATTENDEE;CN="Angela Sharer";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Hermes Taylor-Weiner";RSVP=TRUE:mailto:Hermes.Taylor-Weiner@st
+	udents.olin.edu
+CLASS:PUBLIC
+CREATED:20070907T020741Z
+DESCRIPTION:I’ll send out a dreaded meeting request… *ominous dum\, dum
+	\, dum*\nAnyway\, would it work for everyone to meet after the afternoon s
+	tudio this upcoming Tuesday? We could coordinate office hours and send out
+	 an email to the freshmen (and freshwomen – is that in the spirit of pol
+	itical correctness?) indicating when they are. That\, or inform them of a 
+	NINJA wiki location.\n\nIlari\n
+DTEND:20070911T200000Z
+DTSTAMP:20070907T012219Z
+DTSTART:20070911T190000Z
+LAST-MODIFIED:20070911T191947Z
+LOCATION:AC204
+ORGANIZER;CN="Ilari Shafer":mailto:Ilari.Shafer@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:ICB NINJA meeting
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEkgAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT FACE="Calibri">I’ll send out a dread
+	ed meeting request… *<B>ominous dum\, dum\, dum</B>*</FONT>\n\n<BR><FONT
+	 FACE="Calibri">Anyway\, would it work for everyone to meet after the afte
+	rnoon studio this upcoming Tuesday? We could coordinate office hours and s
+	end out an email to the freshmen (and freshwomen – is that in the spirit
+	 of political correctness?) indicating when they are. That\, or inform the
+	m of a NINJA wiki location.</FONT></P>\n\n<P><FONT FACE="Calibri">Ilari</F
+	ONT>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20070905T170025Z
+DTEND:20070912T000000Z
+DTSTAMP:20100218T160559Z
+DTSTART:20070911T230000Z
+LAST-MODIFIED:20070911T234820Z
+LOCATION:Crescent
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Oval Meeting
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEkkAAA==
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="James Switzer";RSVP=TRUE:mailto:James.Switzer@students.olin.ed
+	u
+ATTENDEE;CN="Jennifer Cross";RSVP=TRUE:mailto:Jennifer.Cross@students.olin.
+	edu
+ATTENDEE;CN="Andrew Tsang";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Jonathan Pechan";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Sarah M. Zimmermann";RSVP=TRUE:mailto:Sarah.Zimmermann@student
+	s.olin.edu
+ATTENDEE;CN=phoenix-racing@lists.olin.edu;ROLE=OPT-PARTICIPANT;RSVP=TRUE:ma
+	ilto:phoenix-racing@lists.olin.edu
+CLASS:PUBLIC
+CREATED:20070912T040613Z
+DESCRIPTION:Does this time work okay? \n\n
+DTEND:20070914T020000Z
+DTSTAMP:20070912T035317Z
+DTSTART:20070914T013000Z
+LAST-MODIFIED:20070914T041856Z
+LOCATION:AC 213
+ORGANIZER;CN="Joseph Funke":mailto:Joseph.Funke@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:[Phoenix-Racing] Cold Calling Preparation
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEkoAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><SPAN LANG="en-us"><FONT FACE="Calibri">Does
+	 this time work okay?</FONT><FONT FACE="Arial"></FONT> </SPAN>\n</P>\n\n</
+	BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Bryce Lee";RSVP=TRUE:mailto:Bryce.Lee@students.olin.edu
+CLASS:PUBLIC
+CREATED:20070914T023210Z
+DESCRIPTION:More for my memory than for you\, but in case you want the remi
+	nder…\n
+DTEND:20070914T193000Z
+DTSTAMP:20070914T005909Z
+DTSTART:20070914T190000Z
+LAST-MODIFIED:20070914T193629Z
+LOCATION:3rd floor
+ORGANIZER;CN="Joseph Funke":mailto:Joseph.Funke@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:cinderblockage
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEksAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><FONT FACE="Calibri">More for my memory than
+	 for you\, but in case you want the reminder…</FONT>\n</P>\n\n</BODY>\n<
+	/HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN=phoenix-racing@lists.olin.edu;RSVP=TRUE:mailto:phoenix-racing@l
+	ists.olin.edu
+ATTENDEE;CN="Matthew Wootton";RSVP=TRUE:invalid:nomail
+CLASS:PUBLIC
+CREATED:20070914T023222Z
+DESCRIPTION:We need to burn DVDs and fold brochures. Enticement will be pro
+	vided. \n\nAlso\, Tsang\, Roy\, and I will be preparing the presentation\,
+	 so you guys can give us some feedback. \n\n
+DTEND:20070917T000000Z
+DTSTAMP:20070914T021234Z
+DTSTART:20070916T230000Z
+LAST-MODIFIED:20070916T230656Z
+LOCATION:AC 213
+ORGANIZER;CN="Joseph Funke":mailto:Joseph.Funke@students.olin.edu
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:[Phoenix-Racing] Preping PR Materials/Intro Meeting
+TRANSP:OPAQUE
+UID:AAAAAJns95TcxsxMsZhY49JGZvUHAAxkqhxnK0dBpEI9usu4EnYAemZdAAUAAAxkqhxnK0d
+	BpEI9usu4EnYAemZdEkwAAA==
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P><SPAN LANG="en-us"><FONT FACE="Calibri">We n
+	eed to burn DVDs and fold brochures. Enticement will be provided.</FONT> <
+	/SPAN>\n</P>\n\n<P><SPAN LANG="en-us"><FONT FACE="Calibri">Also\, Tsang\, 
+	Roy\, and I will be preparing the presentation\, so you guys can give us s
+	ome feedback.</FONT><FONT FACE="Arial"></FONT> </SPAN>\n</P>\n\n</BODY>\n<
+	/HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+
