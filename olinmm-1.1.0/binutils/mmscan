@@ -1,0 +1,8 @@
+#/bin/bash
+# MM Scan -- Scan for wireless networks for OlinMM
+
+#we sleep so when called 3 times, we might get different results
+sleep 2
+
+iwlist scan|grep -E "Address: |ESSID|Signal level"|grep -o "\(\([0-9A-Z][0-9A-Z]:\)\+[0-9A-Z]\{2\}\)\|\(Signal level=-\?[0-9]\?[0-9][0-9] dBm\)\|\(\"[A-Z_a-z]\+\"\)"
+
