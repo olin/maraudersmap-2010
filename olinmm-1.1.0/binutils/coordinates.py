@@ -1,7 +1,11 @@
 import os
 import sys
 
-def getavgcoords(n=3, tsleep = 0.15):
+def getavgcoords(n=3, tsleep=0.15):
+    ''' 
+    Get the average signal strength from n samples, at intervals of tsleep seconds
+    (although it will take a bit longer since getcoordinates() takes a while to execute)
+    '''
     import time
     totals = dict()
     for i in range(n):
@@ -105,7 +109,6 @@ def getcoordinates():
                 # Now we need to convert it to the format 00:20:D8:2D:65:20
                 macbytes = network['BSSID'].split(':')
                 bssid = list()
-                print 'RSSI:', network['RSSI']
                 for byte in macbytes:
                     if len(byte) < 2:
                         bssid.append(('0%s' % byte).upper())
