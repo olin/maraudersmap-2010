@@ -1,5 +1,7 @@
-#/bin/bash
+#!/bin/bash
 # MM Scan -- Scan for wireless networks for OlinMM
+
+#XXX: The call to iwlist needs root access somehow. Don't know how best to go about it. - Julian
 
 #we sleep so when called 3 times, we might get different results
 sleep 2
