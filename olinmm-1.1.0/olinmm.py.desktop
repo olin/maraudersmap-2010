@@ -1,0 +1,10 @@
+
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Version=1.0
+Name[en_US]=Marauder's Map @ Olin
+Comment[en_US]=The Marauder's Map @ Olin
+Comment=The Marauder's Map @ Olin
+Exec=python /usr/bin/olinmm.py -m
+X-GNOME-Autostart-enabled=true

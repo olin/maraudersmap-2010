@@ -1,1 +1,0 @@
-SELECT DISTINCT username FROM users WHERE 1;
