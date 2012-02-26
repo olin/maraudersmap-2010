@@ -1,5 +1,6 @@
 import os
 import sys
+import subprocess
 
 def getavgcoords(n=3, tsleep=0.15):
     ''' 
@@ -56,35 +57,12 @@ def getcoordinates():
                 coord.name = linepts[2]
                 
                 ret[coord.mac] = [coord.strength, coord.name]
-    # LINUX #FIXME: untested since the MM went offline
+    # LINUX
     elif sys.platform.startswith('linux'):
-        o = subprocess.Popen(binutilspath + 'mmscan', stderr=subprocess.PIPE, stdout=subprocess.PIPE).stdout.read()
-        #o = os.popen(binutilspath + 'mmscan')
-        res = o.read().replace('\r\n','\n').split('\n')
-        o.close()
-        # now we have the data -- it looks like
-        # ['00:20:D8:2D:63:C2', '"OLIN_GUEST"', 'Signal level=-90 dBm', '00:15:E8:E3:75:80', '"OLIN_CC"', 'Signal level=-57 dBm',
-        #'62:32:4C:CE:3A:1B', '"hpsetup"', 'Signal level=-79 dBm', '00:20:D8:2D:2C:C2', '"OLIN_GUEST"', 'Signal level=-82 dBm',
-        #'00:20:D8:2D:2C:C0', '"OLIN_CC"', 'Signal level=-82 dBm', '00:20:D8:2D:63:C0', '"OLIN_CC"', 'Signal level=-91 dBm', '']
-        
-        # parse it by threes
-        count = 0
-        for thisResult in res:
-            if (count == 0):
-                coord.mac = thisResult
-            elif (count == 1):
-                coord.name = thisResult
-                coord.name = coord.name.replace('"', '')
-            elif (count == 2):
-                coord.strength = thisResult.replace('Signal level=', '')
-                coord.strength = coord.strength.replace(' dBm', '')
-                coord.strength = interpretDB(coord.strength)
-                # negative one so when we add one to it, it becomes zero
-                count = -1
-                #make sure that this is an Olin point
-                if 'OLIN' in coord.name and 'GUEST' not in coord.name:
-                    ret[coord.mac] = [coord.strength, coord.name]
-            count = count + 1
+        # This should work on most recent versions of Linux, according to Riley - Julian
+        # TODO: Fall back to old method for systems without nm-tool
+        # In that case, users will need to run the application as root, however
+        ret = __getNetworkManagerSignalStrength()
     # MAC OS X
     elif sys.platform.startswith('darwin'):
         import plistlib
@@ -92,7 +70,7 @@ def getcoordinates():
         # This is an undocumented system utility available on Mac OS X
         # From the included help:
         # -s[<arg>] --scan=[<arg>]       Perform a wireless broadcast scan.
-        #		   Will perform a directed scan if the optional <arg> is provided
+        #    	   Will perform a directed scan if the optional <arg> is provided
         # -x        --xml                Print info as XML
         ntwks = list()
         try:
@@ -117,7 +95,6 @@ def getcoordinates():
                     else:
                         bssid.append(byte.upper())
                 ret[':'.join(bssid)] = [interpretDB(network['RSSI']), network['SSID_STR']]
-    print "ret",ret
     return ret
     
 class Coordinate:
@@ -142,8 +119,29 @@ def getpath():
         #~ pathname = os.path.split( os.path.abspath(sys.argv[0]))[0]
         #~ return os.path.join(pathname, 'binutils')
 
+def __getNetworkManagerSignalStrength():
+    # Uses nm-tool on Linux to get the signal strength
+    # Note: I couldn't find out the signal strength units. Hopefully they are compatible.
+    p1 = subprocess.Popen("nm-tool", stdout=subprocess.PIPE)
+    p2 = subprocess.Popen(['grep', '-E', "(\*|\s)OLIN_"], stdin=p1.stdout, stdout=subprocess.PIPE)
+    p3 = subprocess.Popen(['grep', '-Eo', "OLIN_.*"], stdin=p2.stdout, stdout=subprocess.PIPE)
+    p1.stdout.close()
+    p2.stdout.close()
+    result = p3.communicate()[0].strip().split('\n')
+    p1.wait()
+    p2.wait()
+    signalStrengthDict = dict()
+    for line in result:
+        # Format is now
+        # ['OLIN_GUEST:      Infra', ' 00:26:3E:30:2B:82', ' Freq 2442 MHz', ' Rate 54 Mb/s', ' Strength 25 WPA']
+        accessPtInfo = line.split(',')
+        sepLoc = accessPtInfo[0].find(':')
+        ssid = accessPtInfo[0][:sepLoc]
+        bssid = accessPtInfo[1].strip()
+        strength = int(accessPtInfo[4].strip().split(' ')[1]) - 10 # As far as I can tell, this is the relationship to interpretDB's output - Julian
+        signalStrengthDict[bssid] = [strength, ssid]
+    return signalStrengthDict
+
 if __name__ == '__main__':
     # test code
     print getavgcoords(3, 0.15)
-
-
