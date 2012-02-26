@@ -42,7 +42,8 @@ def getcoordinates():
 
     # WINDOWS #FIXME: untested since the MM went offline #XXX: Won't work any longer
     if sys.platform.startswith('win'):
-        o = os.popen(os.path.join(binutilspath, 'getcoords.exe'))
+        o = subprocess.Popen(os.path.join(binutilspath, 'getcoords.exe'), stderr=subprocess.PIPE, stdout=subprocess.PIPE).stdout.read()
+        #o = os.popen(os.path.join(binutilspath, 'getcoords.exe'))
         res = o.read().replace('\r\n','\n').split('\n')
         o.close()
         
@@ -57,7 +58,8 @@ def getcoordinates():
                 ret[coord.mac] = [coord.strength, coord.name]
     # LINUX #FIXME: untested since the MM went offline
     elif sys.platform.startswith('linux'):
-        o = os.popen(binutilspath + 'mmscan')
+        o = subprocess.Popen(binutilspath + 'mmscan', stderr=subprocess.PIPE, stdout=subprocess.PIPE).stdout.read()
+        #o = os.popen(binutilspath + 'mmscan')
         res = o.read().replace('\r\n','\n').split('\n')
         o.close()
         # now we have the data -- it looks like
