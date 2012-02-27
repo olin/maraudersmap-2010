@@ -7,3 +7,5 @@ This branch is for client development.
 
 The original client used wxPython. We are attempting to improve it and port it to QT using pyside.
 
+![Mac Screenshot](https://github.com/ohack/maraudersmap/raw/client/qtclient/Screenshots/ScreenshotOSX.png?raw=true)
+
