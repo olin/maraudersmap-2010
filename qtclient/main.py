@@ -11,13 +11,29 @@ class Window(QtGui.QDialog):
         self.makeSysTray()
 
     def createActions(self):
-        self.quitAction = QtGui.QAction("&Quit", self, triggered=QtGui.qApp.quit)
+        self.openAction = QtGui.QAction("&Open Map", self)        
+        self.refreshAction = QtGui.QAction("&Refresh My Location", self)        
+        self.newLocAction = QtGui.QAction("&Create New Location", self)        
+        self.locationIndicator = QtGui.QAction("Location: Dining Hall", self, enabled=False)        
+        self.offlineAction = QtGui.QAction("&Go Offline", self)        
+        self.prefsAction = QtGui.QAction("&Preferences...", self)                
+        self.quitAction = QtGui.QAction("&Quit Marauder's Map", self, triggered=QtGui.qApp.quit)
 
     def makeSysTray(self):
         self.menu = QtGui.QMenu(self)
+        self.menu.addAction(self.openAction)
+        self.menu.addSeparator()
+        self.menu.addAction(self.refreshAction)
+        self.menu.addAction(self.newLocAction)
+        self.menu.addSeparator()
+        self.menu.addAction(self.locationIndicator)
+        self.menu.addSeparator()
+        self.menu.addAction(self.offlineAction)
+        self.menu.addAction(self.prefsAction)
+        self.menu.addSeparator()
         self.menu.addAction(self.quitAction)
 
-        self.sysTray = QtGui.QSystemTrayIcon(self)
+        self.sysTray = QtGui.QSystemTrayIcon(self, icon=QtGui.QIcon("demoIcon.png"))
         self.sysTray.setContextMenu(self.menu)
         self.sysTray.show()
 
