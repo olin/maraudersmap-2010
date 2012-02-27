@@ -33,9 +33,12 @@ class Window(QtGui.QDialog):
         self.menu.addSeparator()
         self.menu.addAction(self.quitAction)
 
-        self.sysTray = QtGui.QSystemTrayIcon(self, icon=QtGui.QIcon("demoIcon.png"))
+
+        self.sysTrayIcon = QtGui.QIcon("demoIcon.png")
+        self.sysTray = QtGui.QSystemTrayIcon(self, icon=self.sysTrayIcon)
+
         self.sysTray.setContextMenu(self.menu)
-        self.sysTray.show()
+
 
 
 
@@ -62,6 +65,10 @@ if __name__ == '__main__':
     label = QtGui.QLabel("Hello World")
     label.show()
     # Enter Qt application main loop
+
+    window.sysTray.show()
+
+
     app.exec_()
     sys.exit()
 
