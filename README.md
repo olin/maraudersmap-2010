@@ -10,6 +10,7 @@ Check out the _client_ branch.
 Status
 ------
 __2/27/2012 -__ signal strength detection works on Windows thanks to Cory, there is a simple system tray GUI (non-functional!), and there is a makefile for Mac OS X
+
 __2/26/2012 -__ signal strength detection works on Mac OS X (standard airport drivers) and Linux (with Network Manager)
 
 
