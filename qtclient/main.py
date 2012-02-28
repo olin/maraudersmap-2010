@@ -11,7 +11,8 @@ class Window(QtGui.QDialog):
         self.makeSysTray()
 
     def createActions(self):
-        self.openAction = QtGui.QAction("&Open Map", self)        
+        #TODO: Figure out how to hide tooltips: http://stackoverflow.com/questions/9471791/suppress-qtgui-qaction-tooltips-in-pyside
+        self.openAction = QtGui.QAction("&Open Map", self)
         self.refreshAction = QtGui.QAction("&Refresh My Location", self)        
         self.newLocAction = QtGui.QAction("&Create New Location", self)        
         self.locationIndicator = QtGui.QAction("Location: Dining Hall", self, enabled=False)        
@@ -39,9 +40,6 @@ class Window(QtGui.QDialog):
 
         self.sysTray.setContextMenu(self.menu)
 
-
-
-
 if __name__ == '__main__':
     app = QtGui.QApplication(sys.argv)
 
@@ -49,9 +47,6 @@ if __name__ == '__main__':
     if not QtGui.QSystemTrayIcon.isSystemTrayAvailable():
         print "Failed to detect presence of system tray, crashing"
         sys.exit(1)
-
-
-
 
     promptStartup = False
     window = Window()
