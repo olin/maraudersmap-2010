@@ -10,7 +10,6 @@ def getavgcoords(n=3, tsleep=0.15):
     import time
     totals = dict()
     for i in range(n):
-        print i
         res = getcoordinates()
         for spot in res:
             if spot in totals:
@@ -135,8 +134,11 @@ def __getNetworkManagerSignalStrength():
     for line in result:
         # Format is now
         # ['OLIN_GUEST:      Infra', ' 00:26:3E:30:2B:82', ' Freq 2442 MHz', ' Rate 54 Mb/s', ' Strength 25 WPA']
+        
         accessPtInfo = line.split(',')
         sepLoc = accessPtInfo[0].find(':')
+        if sepLoc <=0: #this line does not contain the expected format, simply skip and fail gracefully
+            continue
         ssid = accessPtInfo[0][:sepLoc]
         bssid = accessPtInfo[1].strip()
         strength = int(accessPtInfo[4].strip().split(' ')[1]) - 10 # As far as I can tell, this is the relationship to interpretDB's output - Julian
